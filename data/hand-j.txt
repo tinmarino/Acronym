@@ -1,0 +1,441 @@
+J2EE 	Java 2 Enterprise Edition 	Traducción no aplicable
+JACMT 	Joint ALMA Construction Management Team 	Equipo de Administración y Construcción de ALMA
+JAO 	Joint ALMA Office 	Oficina Compartida de ALMA
+JASC 	Joint ALMA Safety Committee 	Comité de seguridad de ALMA
+JBO 	Jodrell Bank Observatory 	 
+JD? 	Jury Duty (in case of leave report) 	Actuar como jurado (en caso de un informe de permiso)
+JIRA 	Non applicable acronym (software) 	Traducción no aplicable
+JLOG? 	Joint Logistics 	Logística conjunta
+JM 	Joe McMullen? – AIVSystem Integration Leader 	Líder de la integración del sistema de AIV
+JN? 	Jorge Norambuena – AIV Mechanic Technician 	Técnico Mecánico de AIV
+JP? 	José Pablo Puga – AIV Mechanical Engineer 	Ingeniero Mecánico de AIV
+JSI 	Jozef Stefan International (postgraduate school) 	Traducción no aplicable (nombre propio)
+JR 	Job Request 	Solicitud de Labor
+JRDG 	Joint Receiver Development Group 	Grupo administrativa y de desarrollo
+JSP 	Job Structure Position (4 digits) 	 
+JVM 	Java Virtual Machine 	Máquina virtual java
+JY 	Jansky (unit of strength for radio astronomy) 	Jansky (unidad de fuerza para la radio astronomía) 
+KDE? 	K Desktop Environment 	Entorno de Escritorio K 	 
+KNOW 	Knowledge base set-up (for organizing and classifying content) 	Configuración de la base de conocimiento (con la finalidad de organizar y clasificar el contenido) 	 
+KO 	Kick-Off 	La partida 	 
+KPI 	Key Performance Indicator 	Indicador clave de rendimiento 
+LAN 	Local Area Network 	Sistema de redes del área local
+LBW 	Light Band Width 	Banda ancha liviana
+LCD 	Liquid Crystal Display 	Pantalla de cristal líquido
+LCKnnn 	Inter-instance Locking Process 	Proceso bloqueante entre instancias
+LCP 	Left Circular Polarization 	Polarización circular izquierda
+LCU 	Local Control Unit (control computer of a subsystem 	Unidad de Control Local (administrador de un subsistema)
+LD 	Laser Diode 	Diodo laser
+LDAP 	Lightweight Directory Access Protocol 	Protocolo de Acceso para el Directorio general
+LE 	Lead Engineer 	Ingeniero Guía
+LEAF 	Large Effective Area (optical) Fiber 	Traducción no aplicable
+LED 	Light Emitting Diode 	Diodo emisor de luz
+LEMP 	Lightning Electromagnetic Pulse 	Pulso electromagnético por rayo
+LFR 	Low Frequency LO Reference 	Referencia LO de baja frecuencia
+LFRD 	Low Frequency Reference Distribution 	Distribución de baja frecuencia
+LGPL 	Lesser General Public Licenses 	Licencias LGP
+LGWR 	Log Writer 	Usuario de registro
+LISN 	Line Interference Stabilization Network 	Red de estabilización de interferencias de línea
+LK 	Lewis Knee 	Científico de pruebas
+LLC 	Line Length Corrector/Correction 	Corrector de longitud de línea
+LLCR 	Line Length Corrector/Correction Rack 	 
+LMON 	Lock Manager 	Administrador de bloqueo
+LMC 	LLC Monitor and Control 	 
+LMC? 	Lorenzo Martínez-Conde 	Ingeniero eléctrico
+LMS 	Least Mean Squares 	Algoritmo LMS
+LMSA 	Large Millimetre and Sub millimetre Array 	Arreglo de grandes radiotelescopios milimétricos y sub-milimétricos
+LNA 	Low Noise Amplifier 	Amplificador de bajo ruido
+LO 	Local Oscillator. It's a device which outputs a constant frequency which is fed to one of the inputs of a mixer. The other input is the signal that will be mixed, or multiplied, with the LO, resulting in an up-conversion or a down-conversion of the signal. See Wikipedia:Frequency Mixer. 	Oscilador local
+LO2 	Second Local Oscillator 	Segundo oscilador local
+LORR 	Local Oscillator Reference Receiver 	Receptor de referencia para el oscilador local
+LORRD 	Local Oscillator Reference Receiver Distributor LRU 	Distribuidor del Receptor de referencia para el oscilador local
+LORTM 	Local Oscillator Reference Test Module 	Unidad de prueba de la referencia de oscilador local
+LOS 	Loss of signal 	Pérdida de la señal
+LOT 	LO Reference & Time Sub-System 	 
+LOT 	Local Oscillator & Time Reference 	 
+LOTT 	LO Reference & Time Test Stand 	 
+LPF 	Low pass filter 	Filtro de paso bajo
+LPG 	Liquified Petroleum Gas 	 
+LPR 	LO Photonic Receiver 	Receptor fotónico del oscilador local
+LPS 	Lightning Protection System 	Sistema de protección de rayos
+LPZ 	Lightning Protection Zone 	Zona de protección de rayos
+LRU 	Line Replaceable Unit 	Unidad reemplazable de línea
+LS 	Laser Synthesizer 	Láser Sintetizador
+LSA 	Large Southern Array 	Gran arreglo austral de radiotelescopios
+LSB 	Least significant bit 	Bit menos destacado
+LSB 	Lower Sideband 	Banda lateral inferior
+LSM 	Local Staff Member 	Miembro del personal local
+LSST? 	Large Synoptic Survey Telescope Project 	Proyecto de la gran encuesta sinóptica de telescopios
+LST 	Local Sidereal Time 	Tiempo sidéreo local
+LSZH? 	Low Smoke Zero Halogen 	Traducción no aplicable
+LTA 	Long Term Accumulator 	Acumulador a largo plazo
+LTA/CCC 	LTA/Correlator control card 	LTA/tarjeta del control del correlador
+LTQ 	Long-Term Queue 	Ordenes a largo plazo
+LTS 	Long-Term Schedule 	Programación a largo plazo
+LUSTRE 	Linux Cluster 	 
+LV 	Low Voltage (U = 1000 VAC) 	Bajo voltaje (U = 1000 VAC)
+LVCMOS 	Low voltage complementary metal oxide silica (an IC) 	Traducción no aplicable
+LVD 	Low Voltage Directive 	Instrucciones para el bajo voltage
+LVDS 	Low voltage differential signal (used for accurate rise times) 	Señal diferencial de bajo voltage (utilizado en los momentos de alza)
+LWOP? 	Leave Without Pay (in case of leave report) 	Ausencia sin goce de sueldo 
+ m 	Metre 	Metro
+M&C 	Monitor and Control 	Traducción no aplicable
+MAC 	Multiplication and Cumulating 	Traducción no aplicable
+MAC? 	Media Access Control (address) 	Traducción no aplicable
+MACI? 	Management and Access Control Interface 	Traducción no aplicable
+m.a.s.l. 	Meters Above Sea Level 	Metros sobre el nivel del mar
+mb 	millibars 	Traducción no aplicable
+Mbps 	Megabits per second 	Megabits por segundo
+MC 	Monitor Control 	Traducción no aplicable
+MCC 	Monitor Control Computer 	Traducción no aplicable
+MCM 	thousand circular mils (a measure of wire cross-sectional area) 	Traducción no aplicable (unidad de medida)
+MD 	Maintenance Department 	Departamento de Mantencion
+MDT 	Mean Down-Time (In organizational management, mean down time (MDT) is the average time that a system is non-operational) 	
+
+Traducción no aplicable (es el tiempo promedio en que un sistema está inoperante)
+MELCO? 	Mitsubishi Electric Corporation (antennae contractor area next to VERTEX) 	Traducción no aplicable (área contratista de la antena, próximo a VERTEX)
+MEM 	Maximum Entropy Method – a common radio astronomy deconvolution algorithm 	Método de la Entropía Máxima
+MEMS 	micro electro mechanical systems 	Sistemas micro electro-mecánicos
+MF 	Mounting Frame 	 
+MFPGS 	Multi Fuel Power Generation System 	 
+MFS 	Master Frequency Standard (Rb Clock) 	 
+MG 	Maintenance Group 	Grupo de Mantención
+MHz 	Megahertz 	Megahertz
+MI? 	Masato Ishiguro AIV Test Scientist 	Científico de AIV
+MIB 	Module Inteface Board 	Traducción no aplicable
+MIL 	Military Specification 	Especificación militar
+MIL-SPEC 	USA Military Specification 	Especificación de la Milicia estadounidense
+MIL-STD 	USA Military Standard 	Normas de la Milicia estadounidense
+MIME 	Multipurpose Internet Mail Extensions 	Extensiones de Correo Internet Multipropósito
+MinGw? 	Minimal GNU for Windows 	Tal cual
+MIPS 	Million Instructions Per Second 	Millones de instrucciones por segundo
+MIPT 	Management IPT 	 
+MIRIAD 	Multichannel Image Reconstruction Image Analaysis and Display – A software package for analyzing millimeter interferometry data 	Traducción no applicable – un paquete informático con la finalidad de analizar la información del interferómetro milimétrico
+MIS 	Management Information System 	Sistema de Información
+MIT 	Massachusetts Institute of Technology Haystack Observatory 	Traduccion no aplicable
+ML 	Master Laser 	Láser Principal
+ML? 	Military Leave (in case of leave report 	Permiso por cumplimiento military (en caso de una solicitud de licencia)
+MLD 	Master Laser Distribution 	Distribución del láser principal
+MLE 	Maximum Likely Earthquake 	Traducción no aplicable (probabilidad máxima de un terremoto)
+mm 	millimeter 	Milímetro
+MM 	Multi Mode 	Traducción no aplicable
+MMA 	Millimeter Array (original USA name for ALMA) 	Arreglo de radiotelescopios milimétricos (nombre original de ALMA, provisto por los EE.UU.)
+MMAN 	Memory Manager 	Traducción no aplicable
+MMC 	Manual Mode Console 	Consola para la operación Manual
+MMIC 	Monolithic Microwave Integrated Circuit 	Circuito monolítico integrado de microondas
+MMIC 	Millimetre Microwave Integrated Circuit 	Circuito Milimétrico integrado de microondas
+MMPA 	Millimetre Wave Power Amplifier 	Amplificador de corriente para bandas milimétricas
+MNGPUB 	Management Public Web (ALMA computing) 	Traducción no aplicable (informática perteneciente a ALMA)
+MOM 	Minutes of Meetings 	Minutos de las reuniones
+MOS 	Metal Oxide Semiconductor 	Semiconductor de óxido metálico
+MOU 	Memorandum of Understanding 	Memorándum de Entendimiento
+MPF 	Maintenance Plan Fulfillment 	Traducción no aplicable
+MPW 	Multiple Project Wafer 	Traducción no aplicable
+MRB 	Material Review Board 	Directiva de Revisión de Materiales
+MRR 	Manufacturing Readiness Review 	Traducción no aplicable
+MRP 	Managed Recovery Process (the process that applies archived redo log to the standby database). 	Traducción no aplicable (es aquel proceso que aplica el redo log archivado, a la base de datos standby)
+ms? 	Metres per second 	Metros por segundo
+MSB 	Most Significant Bit 	Bit de Mayor Importancia
+MSDS 	Material Safety Data Sheets 	Planillas de datos sobre la seguridad de los materiales
+MT? 	Mechanical Technician 	Técnico en mecánica
+MTBF 	Mean Time Between Failures 	Tiempo promedio entre fallos
+MTBM 	Mean Time Between Maintenance 	Tiempo promedio entre tareas de mantención
+MTS 	Medium-Term Schedule 	Traducción no aplicable
+MTTC 	Mean Time To Complete 	Tiempo promedio a completar
+MTTF 	Mean Time To Failure 	Tiempo promedio a fallar
+MTTR 	Mean Time to Repair 	Tiempo promedio a reparar
+MTTR 	Mean Time To Respond 	Tiempo promedio a responder
+MTTRS 	Mean Time To Return (to) Service 	Traducción no aplicable
+MTTS 	Mean Time to Service 	 
+MUX 	Multiplexer 	Traducción no aplicable
+MV 	Minimum Variance 	Mínima diferencia
+MV 	medium voltage, (1,000 VAC < U = 35,000 VAC) 	Voltaje medio, (1.000 VAC < U = 35.000 VAC)
+MZ? 	Mauricio Zambrano – AIV Software Engineer 	Ingeniero del Software de AIV
+MZM-LS 	Mach-Zehnder Modulator Laser Synthesizer, LRU, 56.15 in PLO subsystem 	Tal cual 
+n.a. 	Not Applicable 	No se aplica
+NA 	North American 	Norteamericano
+NAAPO 	North American ALMA Project Office 	Nombre propio (nota del traductor: Departamento de Proyectos de ALMA en Norteamérica)
+NAATAC 	North American ALMA Technical Advisory Committee 	Nombre propio (nota del traductor: Comité técnico de ALMA en Norteamérica)
+NAFEG 	North American Front End Group 	Nombre propio (nota del traductor: Grupo del Front End en Norteamérica)
+NAOJ? 	National Astronomical Observatory of Japan 	Nombre propio (nota del traductor: Observatorio Astronómico Nacional del Japón)
+NAPO 	North American Project Office 	Nombre propio (nota del traductor: Departamento de Proyectos en Norteamérica
+NASA 	National Aeronautics and Space Administration at University of Illinois 	Nombre propio (nota del traductor: Aeronáuticas y Administración Espacial de la Nación ubicado en la University of Illinois
+NB 	
+
+Nota Bene
+
+( Latin: 'Note Well')
+
+or
+
+Notebook
+	
+
+Notese
+
+o
+
+Nota
+NCR 	Non Conformance Report 	Informe de No Conformidad
+NCSA 	National Center for Supercomputing Applications at University of Illinois 	Centro Nacional de las
+Aplicaciones de la supercomputación ubicado en la University of Illinois
+NEC 	National Electric Code 	Código Nacional Eléctrico
+NEMA 	USA National Electrical Manufacturers Association (standards) 	Nombre propio (nota del traductor: Asociación Nacional de los Productores Eléctricos de los EE.UU.)
+NFPA 	National Fire Protection Association 	Nombre propio (nota del traductor: Asociación Estadounidense de Protección contra Incendios)
+NGAS 	Next Generation Archive System 	Traducción no aplicable
+NH3 	Azane (ammonia) 	Amoníaco
+NIC 	Not included in Contract 	No incluido en el contrato
+NIST 	National Institute of Standards and Technology 	Instituto Nacional de Normas y Tecnologia
+nm? 	Nanometre 	Nanómetro
+NMA 	Nobeyama Millimetre Array 	Nombre propio (Nota del traductor: Arreglo de radiotelescopios milimétricos de Nobeyama)
+NOVA 	Nederlandse Onderzoekschool Voor Astronomie 	Nombre propio
+NRAO? 	National Radio Astronomy Observatory 	Nombre propio (nota del traductor: observatorio nacional de la radio astronomía)
+NRC? 	National Research Council of Canada 	Nombre propio (nota del traductor: consejo nacional de la investigación de Canadá)
+NRE 	Non-Recurring Engineering 	Ingeniería no constante
+NRO 	Nobeyama Radio Observatory 	Nombre propio (nota del traductor: observatorio radial de Nobeyama)
+NRW 	Non Routine Work 	Trabajo no Programado
+NS? 	Not scheduled (in case of leave report) 	No programado (en el caso de una solicitud de licencia)
+NSF 	U.S. National Science Foundation 	Nombre Propio (Nota del Traductor: Fundación Científica de los EE.UU.
+NTC 	NRAO Technology Center 	Centro Tecnológico NRAO
+NTS 	Not to Scale 	Sin Escala
+NTT 	Nippon Tel and Tel 	Traducción no aplicable
+NVO 	US National Virtual Observatory 	Nombre Propio (Nota del Traductor: Observatorio Virtual de los EE.UU.) 
+OA 	Optical Amplifier 	Amplificador Optico
+OAN 	Observatorio Astronómico Nacional(National Observatory of Spain) 	Traducción no Aplicable
+OBE 	Operating Basis Earthquake - The earthquake that the structure must safely withstand with no damage. All systems and components necessary for the uninterrupted functioning of the project are designed to remain operable during the ground motions associated with the OBE. This includes the dam, appurtenant structures, electrical and mechanical equipment, relays, spillway gates, and valves. For most usage in the Bureau of Reclamation, the OBE is specified to have a 90% probability of nonoccurrence in a 25-year-exposure period. This is equivalent to a recurrence interval of 237 years. Economic considerations for specific projects may lead to consideration of other values. 	Traducción no aplicable - Esto se refiere al grado de terremoto que debe resistir una estructura sin sufrir daño alguno. Todos los sistemas y componentes necesarios para el funcionamiento regular del proyecto están diseñados para mantenerse en operación durante los movimientos del terreno, asociados al OBE. Esto incluye estructuras como represas, estrucuras derivadas de otras, equipos eléctricos y mecánicos, estantes, compuertas de vertederos y válvulas. Para una mayor utilización en el Bureau of Reclamation, se establece el OBE de tener un 90% de probabilidad de no ocurrir dentro de un plazo de 25 años de exposición. Esto es equivalente a un intervalo recurrente de 237 años. El interés económico para ciertos proyectos podría conllever a otros valores.
+OBJEXP? 	Object Explorer (computing) 	Explorador de Objetos (Informática)
+OBOPS? 	Observatory Operation Support (software) 	Soporte Operacional del Observatorio (software)
+OBSPREP? 	The Observation Preparation tool (ALMA OT) 	Herramienta de preparación para observar (ALMA OT)
+OC 192 	SONET protocol for 10 Gbps link 	Protocolo SONET para un enlace de 10 Gbps
+OCC 	Observatory Computing Council 	Consejo Informático del Observatorio
+OCG 	Optical Combo Generator 	Traducción no aplicable
+OCU 	Outdoor Control Unit 	Unidad de Control Externa
+OCU 	Office Channel Unit 	
+
+Canal de la Oficina
+ODF 	Optical Deplexer Filter 	Traduccion no aplicable
+OEM 	Original Equipment Manufactures 	Productores Originales del Equipo
+OH (line) 	Overhead (line) 	Cable Aéreo
+OHC 	Operational Hour Counter (for ALMA Cryostat Cold Heads) 	Contador de Horas Operacionales
+OI? 	Occupation Injury (in case of leave report) 	Lesión producto del Trabajo (en caso de licencia)
+OLT 	Operating Life Test 	Prueba de Vida Operativa
+OMC? 	Operative Master Control 	Control Operativo del Administrador
+OMC 	Operator Master Client - In the version antenna verification 	Cliente Operativo Primario - en la version de Verificación de Antenna
+OMC 	Operator Monitoring and Control - In the ALMA 5_0_3 version 	Control y Observación del Operador - en la versión ALMA 5_0_3
+OMG? 	Object Management Group 	Grupo de Gestión de Objetos
+OMP 	Operations and Maintenance Plan 	Plan de Operaciones y de Mantencion
+OMT 	Orthomode Transducer 	Traducción no Aplicable
+OO? 	Object Oriented 	Orientado mediante el Objeto
+OP? 	Overlap Pulsing 	Pulso solapado
+OPD 	Overcurrent Protective Device 	Aparato Protector de Sobretensión
+Operational Mode 	The ACU state determining the availability of axis drive motors, and brakes. Also defines how the position commands are interpreted. 	Modo Operacional
+OPSNCR 	Operations Non-Conformance Report 	 
+OPT 	Optical Pointing Telescopes 	Telescopios de Señales Opticas
+ORB 	Object Request Broker 	Intermediario de Solicitud de Contextos Comunes
+ORM 	Optical Reference Module 	 
+ORR 	Operations Readiness Review 	 
+OS? 	Operating System 	Sistema Operativo
+OSF 	Operations Support Facility 	Instalación de Soporte Operacional
+OSHA 	Occupational Safety and Health Administration 	Administración de Seguridad y Salud Ocupacional De los EE.UU.
+OSI 	Open Systems Interconnection 	Interconexión de Sistemas Abiertos
+OSO 	Onsala Space Observatory 	Observatorio Espacial de Onsala
+OSP 	Type of connector 	Traducción no aplicable - tipo de conector
+OT? 	Optical Telescope 	Telescopio Optico
+OTC 	Observatory Technical Council 	Consejo Técnico del Observatorio
+OTF? 	On-the-fly (data acquisition method) 	Traducción no aplicable(método de adquisición de información)
+OTP 	One-time Programmable 	Traducción no Aplicable
+OTT 	Operative Test Time 	Tiempo de Prueba de Operación
+OVC 	Outer Vacuum Container 	Contenedor Exterior al Vacío
+OVRO 	Owens Valley Radio Observatory 	Radio Observatorio de Owens Valley
+OWB 	One Wire Bus 	  
+P 	active power (units: kW, MW) 	Poder Activo
+P2P? 	Purchase to Pay 	Procesos de Pago
+PA 	Power Amplifier 	Amplificador de Poder
+PA 	Product Assurance 	Traducción no aplicable - garantía del producto
+PA 	Preliminary Acceptance 	Aceptación Preliminar
+Package 	Major component of Subsystem 	Traducción no aplicable - componente mayor del subsistema
+PAI 	Preliminary Acceptance In-house (or at the Specified Delivery Location) 	Aceptación Preliminar Interna(o en el lugar de entrega establecido)
+PAM 	Pulse Amplitude Modulator 	Modulador por Amplitud de Impulsos
+PAR 	Preliminary Acceptance Review 	Revisión de la Aceptación Preliminar
+PAS 	Provisional Acceptance on Site 	Aceptación Provisional in situ
+PBC 	Protective Bonding Circuit 	Traducción no aplicable
+PC 	Personal Computer 	Ordenador Personal
+PCB 	Printed Circuit Board 	Placa de circuito impreso
+PCU 	Portable Control Unit 	Unidad Portátil de Control
+PCU 	Portable (handheld) Control Unit 	Unidad de Control de Bolsillo
+PD 	Photonics Reference Distributor 	Distribuidor Fotónico de Referencia
+PDB 	Power Distribution Board 	Placa Distribuidora de Poder
+PDF 	Portable Document Format 	Formato para un Documento Portátil
+PDM 	Product Data Management 	Gestión de Datos de Productos
+PDP 	Preliminary Design Phase 	Fase del Diseño Preliminar
+PDR 	Preliminary Design Review 	Revisión del Diseño Preliminar
+PDU? 	Power Distribution Unit 	Unidad de Distribución de Poder
+PDU? 	Protocol Data Unit 	Unidad de Datos de Protocolo
+PE 	Protective Earth 	Tierra de Protección
+PEA 	Provisional Acceptance in Europe 	Aceptación Provicional en europa
+PEL 	Program Execution Liklihood 	Distribuidor Fotónico de Referencia
+PELV 	Protective Extra-Low Voltage 	Voltage Extra-bajo de Seguridad
+PFD 	Power Flux Density 	Densidad del Flujo de Poder
+PFE? 	Pseudo Front End module 	Pseudo Módulo Front End
+PHA 	Preliminary Hazard Analysis 	Analisis Preliminar de Riesgos
+PHASE VAL 	Phase Validation 	Estimación de Fases
+PHASE SEQ 	Phase Sequence 	Secuencia de Fases
+PHL 	Preliminary Hazard List 	Lista Preliminar de Riesgos
+PHM 	Photomixer 	 
+PHMET 	Polymorphous High Mobility Electronic Transistor 	Traducción no Aplicable
+PIC 	Phasing Interface Card 	 
+PICA 	Phasing Interface Card Assembly (in some contexts, PIC and PICA are used interchangeably) 	 
+PID 	Proportional plus Integral plus Derivative control 	Traducción no Aplicable
+PIN 	P-region Intrinsic N-region (photodiode) 	Traducción no Aplicable
+PIWP 	PI Web Page 	
+
+Página Web del PI
+PIX? 	Private Internet Exchange (Cisco) 	Intercambio Privado en Internet
+PL 	Planner and Coordinator 	Coordinador y Planificador
+PIX? 	Private Internet Exchange (Cisco) 	Intercambio Privado en Internet
+PLA 	Plan 	Plan
+PLC 	Programmable Logic Controller 	Controlador Lógico Programable
+PLL 	Phased Locked Loop 	Bucle de Enganche de Fase
+PLO 	Photonic Local Oscillator Sub-Subsystem 	Subsistema del Oscilador Local Fotónico
+PLOTS 	Photonic Local Oscillator Test Stand 	 
+PM 	Polarization Maintaining 	Tal Cual
+PM 	Project Manager 	Jefe Supervisor del Proyector
+PM 	Preventive Maintenance 	Mantenimiento Preventivo
+PMCB 	Project Management and Control Board 	 
+PMCS 	Project Management Control System 	 
+PMD 	Polarization Mode Dispersion 	Dispersión por Modo de Polarización
+PMG 	Program Management Group 	Grupo Gestionador de Programas
+PML 	Prototype Master Laser 	Prototipo de Laser Maestro
+PMON 	Process Monitor 	Observación de Procesos
+PO 	Power Operator 	Operador de Power
+PO? 	Post Office 	Correo Postal
+POA 	Portable Object Adaptor 	Adaptador de Objetos Portátiles
+POC? 	Point of Contact 	Persona de Contacto
+POL 	One of the two orthogonal polarizations 	Una de dos de las polarizaciones ortogonales
+PP-LS 	Pre-Production Laser Synthesizer. Sometimes dubbed LS-PP. 	Sintetizador de laser de pre-produccion. A veces conocido como LS-PP
+PPARC 	Particle Physics and Astronomy Research Council 	Traducción no Aplicable (nombre propio). Fue un consejo de investigaciones en el Reino Unido.
+PPDR 	Pre Production Design Review 	Revisión previa del diseño de producción
+PPE 	Personal Protective Equipment 	Accesorios de seguridad personal
+PPP 	Pre-Production Phase 	Etapa la producción previa
+PPR 	Pre-Production Review 	Revisión de la producción previa
+PPS 	Permanent Power System 	 
+PPS 	Pulses Per Second 	Pulsos por segundo
+PQR 	Procedure Qualification Record 	 
+PR 	Purchase Request 	Pedido de Compra
+PRC 	Program Review Committee 	Comité de revisión de programas
+PRD 	Photonic Reference Distribution 	Distribución fotónica de referencia
+PRDR 	Photonic Reference Distribution Rack 	 
+PRI 	Pulse Repetition Interval 	Intervalo de la repetición de pulsos
+PRN 	Pseudorandom Noise 	Ruido de apariencia aleatoria
+PROM 	Programmable Read Only Memory 	Memoria de solo lectura programable
+PRR 	Photonic Reference Rack 	 
+PRR 	Pre-Production Readiness Review 	Evaluación del estado del la producción previa
+PRTS 	Problem Report and Tracking System 	Sistema de Informe y Seguimiento de Problemas
+PRTSIR 	Problem Report and Tracking System Investigation Report 	Informe de Investigacion del Sistema de Informe y Seguimiento de Problemas
+PRTSPR 	Problem Report and Tracking System Problem Report 	Informe de Problemas del Sistema de Informe y Seguimiento de Problemas
+PS 	Product Structure 	Estructura del Producto
+PS 	Power Station 	Estacion de poder
+PS 	Power Supply 	Suministro de energía / fuente de poder
+PSA 	Power Supply Analog Rack LRU 	 
+PSAD 	Power Supply Analog Distribution 	 
+PS-AC 	Power Supplies AC-DC 	Suministro de energía AC-DC
+PS-DC 	Power Supplies DC-DC 	 
+PSCR 	CRG/CRD Power Supply 	 
+PSD 	Power Spectral Density 	Densidad del espectro de energía
+PSD/PSA 	Digital Rack Power Supply/Analog Rack Power Supply 	Rack Digital del Suministro de Energía / Rack Análoga del Suministro de Energía
+PSLLC 	LLC Power Supply 	 
+PSSAS 	SAS Power Supply 	 
+PST 	Power Supply Test Set 	 
+PSU 	Power Supply Unit 	 
+PSUMC 	PSU Monitor and Control 	 
+PS-DC 	Power Supplies AC-DC 	Fuentes de Poder AC-DC
+PSI? 	Prototype Systems Integration 	Integración de prototipos de sistemas
+PSIL 	Prototype Systems Integration Lab (user support) 	Laboratorio de la Integración de prototipos de sistemas
+PSK 	Phase Shift Keying 	Modulación por desplazamiento de fase
+PSTRIP? 	Power Strip ( PSTRIP.exe PowerStrip is a Video Mode Editor to allow special Refresh Rates and Tweaking of Video Settings). 	Traducción no Aplicabe. PSTRIP.exe es un editor de video el cual permite frecuencias especiales de barridos y así también como la Optimización de la configuración de Video.
+PSU 	Power Supply Unit 	Unidad de la Fuente de energía
+PT 	Product Tree 	Guía de códigos para la asignación de números de un documento.
+PTFE 	Poly Tetra Fluoroethylene (Teflon - Name Brand) 	politetrafluoroetileno (Telfón - Marca Registrada)
+PTR 	Post Test Review 	Verificación de Pruebas
+PTSR 	Phase drift Test Set Rack 	 
+PuTTY 	Popular SSH and Telnet Client 	Cliente reconocido de SSH(Línea de comandos segura) y de Telnet
+PV? 	Prime Vendor 	Proveedor Principal
+PXE? 	Preboot Execution Environment 	Ambiente de Ejecución Preboot
+PWM 	Pulse Width Modulation 	Señal modulada por ancho de pulso
+PWR 	Power 	Poder / Energía
+PWR SUP 	Power Supply 	Fuente de Poder
+PWV 	Precipitable Water Vapor 	  
+Q 	Measure of quality, often spectral performance 	Unidad de medida con respecto a la calidad
+QA 	Quality Assurance 	Control de Calidad
+QC 	Quality Control 	Control de Calidad
+QCC 	Quadrant control card 	 
+QMNn 	AQ Time Manager 	 
+QP 	Quasi Peak 	 
+QPSK 	Quad Phase Shift Keying 	 
+QQ 	Quadrature Signal 	 
+QSO 	Quasi Stellar Object 
+R 	Review or simulation of the design and tests of LRUs and major assemblies; a method of verification and / or acceptance 	 
+R0-4 	(major) Release of subsystem software (and its number) 	 
+RA? 	Radio altimeter 	 
+RAC 	Real Application Cluster 	 
+RAID 	Redundant Arrays of Independent / Inexpensive Disks 	 
+RAL 	Rutherford Appleton Laboratory 	 
+RAM 	Random Access Memory 	 
+RAMS 	Reliability, Availability, Maintainability and Safety 	 
+RASCI 	Responsible, Approve, Support, Consult, Inform 	 
+RBW 	Resolution Band Width 	 
+RC 	Resistor-Capacitor network 	 
+RCA 	Relative CAN Address 	 
+RCCB 	Residual Current Circuit Breaker 	 
+RCP 	Right Circular Polarization 	 
+RCS 	Revision Control System 	 
+RCSP 	Receiver Cabin Service Platform 	 
+RD 	Reference Document 	 
+RD 	Related Document 	 
+RD 	Reference Document 	 
+RDL 	Reference Documents List 	 
+RDXX 	Referenced Document XX 	 
+RDYY 	Referenced Document No. YY 	 
+RD-YY 	Referenced Document No. YY 	 
+RE 	Risk Exposure 	 
+RECO 	The Distributed Transaction Recovery Process 	 
+RF? 	Radio Frequency 	 
+RFB 	Remote Framebuffer 	 
+RFD 	Request for Deviation 	 
+RFI 	Radio Frequency Interference 	 
+RFI 	RF Interference 	 
+RFP 	Request For Proposal 	 
+RFP 	Request for Proposal, procurement procedure 	 
+RFQ 	Request for Quotation 	 
+RFW 	Request for Waiver 	 
+RIC 	Review Item Comment 	 
+RID 	Review Item Discrepancy 	 
+RIQ 	Review Item Question 	 
+RL 	Return Loss 	 
+RLC 	Resistor-Inductor-Capacitor network 	 
+RM 	Rick Murowinsky 	 
+rms 	root mean squared 	 
+RMS 	Root-Mean-Squared 	 
+rms/r.m.s. 	Root mean square 	 
+Rn/Rx 	Received Beam # 	 
+RO? 	Relay Optics 	 
+RO? 	Remote Operations 	 
+RO? 	Read Only 	 
+ROACH 	Reconfigurable Open Architecture Computing Hardware 	 
+RPM? 	Red Hat Package Management (software) 	 
+RR 	Robert Ridgeway 	 
+RR 	Readiness Review 	 
+RRLs 	Radio Recombination Lines 	 
+RSC 	Regional Science Center 	 
+RSC 	Regional Support Center 	 
+RSM 	ARC Operations Support Staff 	 
+RSS 	Root Sum of the Squares 	 
+RSS 	Root Sum Squared 	 
+RSTA? 	  	 
+RSTB 	  	 
+RTAI 	Real Time Application Interface 	 
+RTOS 	Real-Time Operating System 	 
+RTR 	Remote Transmission Request. A type of CAN frame requesting transmission of a particular frame 	 
+RW? 	Read/Write 	 
+Rx 	Received beam 	 
+RXP 	Receive only laser transponder 	
