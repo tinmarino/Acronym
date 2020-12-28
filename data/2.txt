@@ -33,8 +33,8 @@
 | ACU | Antenna Control Unit |
 | AD | Applicable Document |
 | ADA | ALMA Department of Administration |
-| ADC | ALMA Department of Computing |
 | ADC | ALMA Department of Computing at JAO |
+| ADC | ALMA Department of Computing |
 | ADC | Analog to Digital Converter |
 | ADE | ALMA Department of Engineering |
 | ADEQM | ADE Quality Management |
@@ -45,8 +45,8 @@
 | ADP | Acceptance Data Package |
 | ADR | Acceptance Discrepancy Report |
 | ADS | ALMA Department of Science |
-| ADX | Applicable Document No. X |
 | ADSC | ALMA Development Steering Committee |
+| ADX | Applicable Document No. X |
 | ADxx | Applicable Document No. xx |
 | AE | Array Element |
 | AEC | ALCATEL EIE Consortium |
@@ -75,10 +75,10 @@
 | AJAX | Asynchronous JavaScript And XML |
 | ALC | Automatic Level Control |
 | ALF | Administration, Logistics, and Facility (Management) |
+| ALMA SCCM | ALMA Software Configuration Control Manager |
 | ALMA | Atacama Large Millimeter/sub-millimeter Array |
 | ALMA-B | Bilateral ALMA |
 | ALMA-J | Japanese ALMA |
-| ALMA SCCM | ALMA Software Configuration Control Manager |
 | ALMAEDM | ALMA Electronic Documentation Management |
 | ALMAMGR | Alma manager |
 | ALS | Alternative Laser Synthesizer |
@@ -99,20 +99,21 @@
 | AOB | Any other business |
 | AOC | ALMA Operation Center in Socorro, New Mexico |
 | AoD | Astronomer-on-Duty |
+| AoD | Astronomer-on-Duty |
 | AOG | Array Operations Group |
 | AOP | ALMA Operation Plan |
 | AOS | Array Operations Site |
 | AOSTB | Array Operation Site Technical Building |
-| APC | Asynchronous Procedure Call |
 | APC | American Power Conversion |
 | APC | Angled Physical Contact |
+| APC | Asynchronous Procedure Call |
 | APD | Angled Polished Connector |
 | APDM | ALMA Project Data Model |
 | APE | ALMA Production Environment -\> infrastructure where the ONLINE software is deployed |
-| APEX | Atacama Pathfinder Experiment |
 | APEX | Atacama Pathfinder Experiment (1x12m at \< 1mm at Chajnantor) |
-| API | Application Program Interface |
+| APEX | Atacama Pathfinder Experiment |
 | API | ALMA public image |
+| API | Application Program Interface |
 | APO | ALMA Pipeline Operation (Archive Team) |
 | APO | Archive and Pipeline Operations Group |
 | APP | ALMA Phasing Project |
@@ -121,8 +122,8 @@
 | ARA | ALMA Recreation Association |
 | ARC | ALMA Regional Center (Europe, North America and East Asia) |
 | ARCH | Archive Process (archives redo log files if ARCHIVELOG is active) |
-| ARO | After Receipt of Order |
 | ARL | Aeronautical Research Laboratory |
+| ARO | After Receipt of Order |
 | ARP | ALMA Review Panel |
 | ARRL | American Radio Relay League |
 | ARTM | Array Real Time Machine |
@@ -139,17 +140,16 @@
 | ASIC | Application-Specific IC |
 | ASL | Above Sea Level |
 | ASLR | Address Space Layout Randomization |
+| ASoJ | Astronomical Society of Japan |
 | ASP | Active Server Page |
 | ASQC | American Society for Quality Control |
 | ASTE | Atacama Sub-millimeter Telescope Experiment |
-| ASoJ | Astronomical Society of Japan |
 | AT | Australia Telescope |
 | ATAC | ALMA Technical Advisory Committee Renamed to NAATAC |
 | ATAPI | Advanced Technology Attachment Packet Interface |
 | ATCA | Australian Telescope Compact Array |
 | ATE | ALMA Testing Environment |
 | ATED | ALMA Tucson Electronics Division |
-| ATF | Antenna Test Facility |
 | ATF CRD | Antenna Test Facility Central reference distributor |
 | ATF CRG | Antenna Test Facility Central reference generator |
 | ATF LORR | Antenna Test Facility Local Oscillator reference receiver |
@@ -158,6 +158,7 @@
 | ATF PS-DC | Antenna Test Facility DC-DC |
 | ATF TP-IF | Antenna Test Facility Total Power IF Module |
 | ATF TP-MC | Antenna Test Facility Total Power Monitor & Control |
+| ATF | Antenna Test Facility |
 | ATP | Authorization to proceed |
 | ATWG | Antenna Testing Working Group |
 | ATX | Advanced Technology Extended |
@@ -171,7 +172,6 @@
 | AWGN | Additive White Gaussian Noise |
 | AWS | Alma Wide Sub-array |
 | AZ | Azimuth. Defined as zero to North. |
-| AoD | Astronomer-on-Duty |
 | BACI | Basic Access Control Interface |
 | BASIC | Beginner All-purpose Symbolic Instruction Code |
 | BB | Broadband / Backbone (networking) |
@@ -196,9 +196,9 @@
 | BPF | Band pass filter |
 | BSOD | Blue Screen Of Death |
 | BTHU | British Thermal Unit |
+| BUS | Back-up Structure |
 | BW | Bandwidth |
 | BWFN | Beam Width at First Null |
-| BUS | Back-up Structure |
 | C | Commissioning |
 | C&C | Command & Control |
 | CA | Cavendish Astrophysics |
@@ -226,7 +226,6 @@
 | CCB | Configuration Control Board |
 | CCC | Correlator Control Computer |
 | CCD | Charge-coupled Device |
-| CHAPHS | Critical Hardware/Proximate Hazard System |
 | CCHP | Combined Cooling, Heat and Power |
 | CCIR | Consultative Committee on Radio Interference |
 | CCL | Control Command Language |
@@ -251,12 +250,15 @@
 | CESR | Centre d'Etude Spatiale des Rayonnements (France) |
 | CFG | Control Flow Guard |
 | CFHT | Canada France Hawaii Telescope |
+| CfP | Call for Proposals |
 | CFRP | Carbon Fiber Reinforced Plastic |
+| CfT | Call for Tenders |
 | CfT | Call for Tenders |
 | CG | Computing Group |
 | CG | Cryogenic Group |
 | CH3CHO | Acetaldehyde |
 | CH4 | Methane |
+| CHAPHS | Critical Hardware/Proximate Hazard System |
 | CHD | Cold Head |
 | CHS | Cylinder - Head - Sector |
 | CI | Configuration Item |
@@ -264,8 +266,8 @@
 | CIDL | Configuration Item Data List |
 | CIM | Common Information Model |
 | CIN | Configured Item Number |
-| CIPT | Computing Integrated Product Team |
 | CIPT | Cisco Internet Protocol Telephony |
+| CIPT | Computing Integrated Product Team |
 | CIRM | Configured Item Responsibility Matrix |
 | CISPR | Comité International Spécial des Perturbations Radioélectriques |
 | CK | Check |
@@ -294,13 +296,18 @@
 | COFA | Center of Array |
 | COFF | Common Object File Format |
 | COG | Center of Gravity |
+| CoG | Center of Gravity |
+| CoI | Co-Investigator to PI |
+| CoM | Center of Mass |
 | COM | Component Object Model |
 | COMP | Computing |
 | CONICYT | Consejo Nacional de Investigaciones Científicas y Técnicas |
 | Conn | Connector |
+| Conn | Connector |
 | COPD | Chronic Obstructive Pulmonary Disease |
 | CORBA | Common Object Request Broker Architecture |
 | CORR | Correlator |
+| Corr | Correlator |
 | COSYLAB | Control System Laboratory |
 | COT | Commercial Off The shelf (units) |
 | COTS | Commercial Off-The-Shelf |
@@ -321,9 +328,9 @@
 | CSA | Canadian Standards Association |
 | CSCG | Communications System Control Group |
 | CSI | Customer Support Identifier |
+| CSIC | Consejo Superior de Investigaciones Científicas |
 | CSM | Contract Services Staff |
 | CSMA/CD | Carrier Sense Multiple Access with Collision Detection |
-| CSIC | Consejo Superior de Investigaciones Científicas |
 | CSP | Content Security Policy |
 | CSR | Certificate Signing Request |
 | CSRF | Cross Site Request Forgery |
@@ -331,8 +338,9 @@
 | CSS | Cascading Style Sheets |
 | CSV | Commissioning and Science Verification |
 | CTA | Cherenkov Telescope Array |
-| CTNLL | Calibrated tunable narrow linewidth laser |
+| CtC | Cost to Completion |
 | CTI | Comparative Tracking Index |
+| CTNLL | Calibrated tunable narrow linewidth laser |
 | CV | Charlottesville, VA, USA, a BE NRAO Integration Center |
 | CVR | Central Variable Reference |
 | CVRR | Central Variable Reference Rack (part of CLOA) |
@@ -340,14 +348,6 @@
 | CW | Clock Wise |
 | CW | Continuous Wave |
 | CWG | Chajnantor Working Group |
-| CfP | Call for Proposals |
-| CfT | Call for Tenders |
-| CoG | Center of Gravity |
-| CoI | Co-Investigator to PI |
-| CoM | Center of Mass |
-| Conn | Connector |
-| Corr | Correlator |
-| CtC | Cost to Completion |
 | DAC | Digital to Analog Converter |
 | DAP | Disk Address Packet |
 | DAQ | Data Acquisition Module (in AUXR) |
@@ -356,6 +356,7 @@
 | DB | DataBase |
 | dB9 | D-Sub 9-pin Connector |
 | DBA | DataBase Advicor |
+| dBc | Decibels Referenced to the Carrier |
 | dBc | Decibels relative to the Carrier |
 | dBm | Decibels relative to milliwatts |
 | DBWR | Database Writer |
@@ -373,6 +374,7 @@
 | DDS | Direct Digital Synthesizer |
 | DDT | Director\'s Discretionary Time |
 | DEC | Declination Value |
+| DeMux | De-Multiplexer |
 | Demux | Demultiplexer |
 | DEP | Data Execution Prevention |
 | DFB | Distributed Feedback Laser |
@@ -422,26 +424,25 @@
 | DRXA | Data Receiver Article |
 | DS | Domain Specialist |
 | DSA | Digitizer Statistical Analyzer |
-| DTD | Document Type Definition |
 | DSAA | Division of Science and Academic Affairs |
 | DSB | Double Side Band |
 | DSO | JAO Department of Science Operations |
 | DSP | Digital Signal Processor |
 | DTA | Data Transfer Area |
+| DTD | Document Type Definition |
 | DTE | Digitizer Test Equipment |
 | DTR | Digital Deformatter Receiver in DTS-R |
 | DTS | Data Transmission System |
 | DTS | Department of Technical Services |
 | DTS | Digital Transmission System |
-| DTST | Data Transmission Sub-System Test Stand |
 | DTS-R | DTS Receiver in ACA Correlator |
 | DTS-T | DTS Transmitter |
+| DTST | Data Transmission Sub-System Test Stand |
 | DTX | Data Transmitter of DTS |
 | DV | Doctor/Dentist Visit (in case of leave report) |
 | DVxx | VERTEX 12-m antenna No.xx |
 | DWDM | Dense WDM |
 | DWGxx | Applicable Drawing No.xx |
-| DeMux | De-Multiplexer |
 | DYTO | Digital Yig Tune Oscillator |
 | E-Stop | Emergency Stop |
 | EA | East Asia |
@@ -488,12 +489,12 @@
 | ESAC | European Science Advisory Committee |
 | ESD | Electrostatic Discharge |
 | ESO | European Organisation for Astronomical Research in the Southern Hemisphere |
-| ESO | European Southern Observatory |
 | ESO | European Southern Observatory (European Team) |
+| ESO | European Southern Observatory |
 | ETW | Event Tracing for Windows |
 | EU | Europe |
-| EU | European |
 | EU | European Union |
+| EU | European |
 | EURELECTRIC | Union of the Electricity Industry, Brussels, Belgium |
 | EUT | Equipment Under Test |
 | EVALSO | Enabling Virtual Access to Latin-America Southern Observatories |
@@ -557,8 +558,11 @@
 | FTS | Fine Tuning Synthesizer |
 | FWP | FrontPage Web Package |
 | FX | A Correlator in which a FFT precedes the cross correlation |
+| GaAs | Gallium Arsenide |
 | GARD | Group for Advanced Receiver Development |
 | GAS | General Applicaction Service |
+| GbE | Gigabit Ethernet |
+| Gbps | Gigabits per second |
 | GBT | Green Bank Telescope |
 | GC | Garbage Collector |
 | GDT | Global Descriptor Table |
@@ -571,13 +575,10 @@
 | GPE | General Purpose Event |
 | GPS | Global Positioning System |
 | GPT | GUID Partition Table |
+| Gsps | Giga samples per second |
 | GTO | Guaranteed Time Observations |
 | GUI | Graphical User Interface |
 | GUID | Globally Unique Identifiers |
-| GaAs | Gallium Arsenide |
-| GbE | Gigabit Ethernet |
-| Gbps | Gigabits per second |
-| Gsps | Giga samples per second |
 | HAL | Hardware Abstraction Layer |
 | HAZMAT | Hazardous Materials |
 | HCI | Human-Computer Interaction |
@@ -590,6 +591,7 @@
 | HIFI | Heterodyne for the Far-Infrared |
 | HIL | Hardware In the Loop |
 | HIPS | Host Intrusion Prevention System |
+| HoA | Heads of Administration |
 | HPBW | Half Power Beam Width |
 | HPC | High Performance Computing (Big Data) |
 | HPDA | High Performance Data Analytics |
@@ -602,7 +604,6 @@
 | HVAC | Heating, Ventilating and Air Conditioning |
 | HW | Hardware |
 | HWI | Hardware interlock |
-| HoA | Heads of Administration |
 | I | Test verification method is by Inspection |
 | I/F | Interface |
 | I/O | Input/Output |
@@ -637,6 +638,7 @@
 | IIS | Internet Information Service |
 | IM | Instant Messaging |
 | IMG | IMaGe |
+| InP | Iridium Phosphide |
 | INR | Interference to Noise Ratio |
 | IO | Input and Output |
 | IP | International Protection Rating for Electrical Sealing |
@@ -673,7 +675,6 @@
 | IVOA | International Virtual Observatory Alliance |
 | IVT | Interrupt Vector Table |
 | IYA | International Year of Astronomy |
-| InP | Iridium Phosphide |
 | JACMT | Joint ALMA Construction Management Team |
 | JAO | Joint ALMA Observatory / Joint ALMA Office |
 | JAO | Joint ALMA Observatory: Chilean Team |
@@ -782,6 +783,7 @@
 | MMX | Matrix Math Extension |
 | MMX | Multi Media Extension |
 | MOF | Managed Object Format |
+| MoM | Minutes of Meeting |
 | MOS | Metal Oxide Semiconductor |
 | MOU | Memorandum of Understanding |
 | MPLS | Multi Protocol Label Switching |
@@ -807,7 +809,6 @@
 | MV | Medium Voltage, (1000 VAC \< U = 35000 VAC) |
 | MVA | Mega Volt-Ampere |
 | MZM | Mach Zender Modulator |
-| MoM | Minutes of Meeting |
 | N/A | Not Applicable; n.a. |
 | NA | North America |
 | NA | North American |
@@ -816,10 +817,12 @@
 | NAASC | North American ALMA Science Center |
 | NAATAC | North American ALMA Technical Advisory Committee |
 | NAFEG | North American Front End Group |
-| NAOJ | National Astronomical Observatory of Japan |
 | NAOJ | National Astronomical Observatory of Japan (East Asiatic Team) |
+| NAOJ | National Astronomical Observatory of Japan |
 | NASA | National Aeronautics and Space Administration |
+| Nb/AlOx/Nb | Niobium/Aluminum Oxide/Niobium |
 | NBT-NS | NetBIOS Name Service |
+| NbTiN | Niobium-Titanium-Nitrogen |
 | NCR | Non-Conformance Report |
 | NCSA | National Center for Supercomputing Applications at University of Illinois |
 | NDIS | Network Driver Interface Specification |
@@ -832,6 +835,7 @@
 | NMI | Non Maskable Interrupt |
 | NNS | Nearest Neighbor Search |
 | NOAO | National Optical Astronomy Observatory |
+| NoI | Notices of Intent |
 | NOVA | Nederlandse Onderzoekschool Voor Astronomie |
 | NRAO | National Radio Astronomy Observatory (USA Team) |
 | NRAO | National Radio Astronomy Observatory (USA) |
@@ -845,9 +849,6 @@
 | NTE | Name of engineering company based in Barcelona |
 | NTT | Nippon Telegraph and Telephone Public Corporation |
 | NX | No execute |
-| Nb/AlOx/Nb | Niobium/Aluminum Oxide/Niobium |
-| NbTiN | Niobium-Titanium-Nitrogen |
-| NoI | Notices of Intent |
 | OAN | Observatorio Astronómico Nacional (Spain) |
 | OBE | Operating Basis Earthquake |
 | OC | 192        SONET protocol for 10 Gbps link |
@@ -879,8 +880,8 @@
 | OTC | Observatory Technical Council |
 | OTFE | On The Fly Encryption |
 | OTP | One Time Password |
-| OVM | Oracle Virtual Machine |
 | OVC | Outer Vacuum Container |
+| OVM | Oracle Virtual Machine |
 | OVRO | Owens Valley Radio Observatory |
 | OWASP | Open Web Application Security Project |
 | P | Active Power (units: kW, MW) |
@@ -889,6 +890,7 @@
 | PA | Product Assurance |
 | PA/QA | Product Assurance and Quality Assurance |
 | PAC | Preliminary Acceptance |
+| Package | Major Component of Subsystem |
 | PAE | Page Address Extension |
 | PAI | Preliminary Acceptance In-house |
 | PAM | Pulse Amplitude Modulator |
@@ -933,6 +935,7 @@
 | PMxx | MELCO 12-m antenna No.xx |
 | PNaCl | Portable Native Client |
 | POA | Portable Object Adapter ([Corba|https://docs.oracle.com/javase/7/docs/technotes/guides/idl/POA.html]) |
+| Pol | One of the two orthogonal polarizations |
 | POM | Project Object Model |
 | POSIX | Portable Operating System Interface |
 | POST | Power On Self Test |
@@ -970,16 +973,14 @@
 | PTR | Post Test Review |
 | PUA | Potentially Unwanted Application |
 | PWM | Pulse With Modulation |
-| Package | Major Component of Subsystem |
-| Pol | One of the two orthogonal polarizations |
 | Q | Measure of quality, often spectral performance |
 | QA | Quality Assurance |
 | QCC | Quadrant Control Card |
 | QED | Quot Erat Demostradum |
+| QoS | Quality of Service |
 | QP | Quasi Peak |
 | QPSK | Quad Phase Shift Keying |
 | QSO | Quasi Stellar Object |
-| QoS | Quality of Service |
 | R | Test verification method is by review of design |
 | R&S | Rohde & Schwarz, an elctronic company |
 | RAID | Redundant Array of Independent Disks |
@@ -1010,6 +1011,7 @@
 | RM | Release Manager |
 | RMS | Root Mean Square; r.m.s. |
 | ROP | Returned Oriented Programming |
+| RoP | Rules of Procedures |
 | RPC | Remote Procedure Call |
 | RR | Readiness Review |
 | RRLs | Radio Recombination Lines |
@@ -1021,10 +1023,9 @@
 | RTR | Remote Transmission Request (CAN protocol) |
 | RTTI | Run Time Type Information |
 | RUT | Registro Unico Tributario |
-| RXP | Receive only laser transponder |
-| RoP | Rules of Procedures |
 | Rx | Receiver |
 | Rx.y | Release of subsystem software, major x and minor y |
+| RXP | Receive only laser transponder |
 | S | Apparent Power (e.g. kVA, MVA) |
 | S/N | Serial Number |
 | SACA | Standalone ACA (Atacama Compact Array) |
@@ -1079,6 +1080,7 @@
 | SOM | Self Organizing Map |
 | SONET | Synchronous Optical Network (A communication standards) |
 | SOP | Standard Operating Procedure |
+| SoW | Statement of Work |
 | SP | Set Point |
 | SPD | Surge Protection Device |
 | SPE | Specification |
@@ -1109,7 +1111,6 @@
 | SW | Software |
 | SYS | System |
 | SYSE | System Engineering Documents |
-| SoW | Statement of Work |
 | T | Test verification method is by Testing |
 | T0 | Date when review meeting starts |
 | TAD | Technical Applicable Documents |
@@ -1122,12 +1123,15 @@
 | TBC | To Be Confirmed (at a later date) |
 | TBD | To Be Defined/Determined (at a later date) |
 | TCB | Time Code Generator Box |
+| tCLOTS | temporary Central Local Oscillator Test Stand |
 | TDH | Trace Data Helper |
 | TDI | Transport Driver Interface |
 | TDM | Time Division Multiplexing |
 | TDMA | Time Division Multiple Access |
 | TE | Timing Event |
 | TEB | Thread Environment Block |
+| TelCal | Telescope Calibration |
+| TelCal | Telescope Calibration |
 | TF | Technical Facility |
 | TFB | Tunable Filter Bank |
 | TFC | Technical Facility STE C (i.e. the third STE at the TF) |
@@ -1146,26 +1150,24 @@
 | TMP | Trusted Platform Module |
 | TMS | Test and Measurement System |
 | TNV | Telecommunication Network Voltage |
+| ToO | Target of Opportunity |
+| ToR | Terms of References |
 | TP | Total Power |
 | TP-Array | 12m antennas of the ACA |
 | TPM | Trusted Platform Module |
 | TPS | Temporary Power System |
 | TRL | Technology Readiness Level |
 | TRR | Test Readiness Review |
+| Trx | Receiver Temperature |
 | TS | Trusted Source |
 | TSX | Transactional Synchronization eXtension |
+| Tsys | System temperature |
 | TTF | Thin Film Filter |
 | TTL | Transistor Transistor Logic |
+| Turns | One turn of an antenna axis, or 360° |
 | TUV | Europe equivalent to UL |
 | TWiki | Web-based collaboration platform, a proper name |
 | TXP | Transmit only laser transponder |
-| TelCal | Telescope Calibration |
-| TelCal | Telescope Calibration |
-| ToO | Target of Opportunity |
-| ToR | Terms of References |
-| Trx | Receiver Temperature |
-| Tsys | System temperature |
-| Turns | One turn of an antenna axis, or 360° |
 | TÜV | Technischer Überwachungsverein |
 | UAC | User Account Control |
 | UB | University of Bordeaux (\#1) |
@@ -1212,12 +1214,13 @@
 | VLBI | Very Long Baseline Interferometry |
 | VLT | Very Large Telescope (ESO facility) |
 | VME | VERSAbus Module European |
-| VO | Virtual Observatory |
 | VO | Virtual Observatory (serie of standards) |
+| VO | Virtual Observatory |
+| VoIP | Voice over IP |
 | VSWR | Voltage Standing Wave Ratio |
 | VTP | VLAN Trunking Protocol |
 | VVMO | Consorcio Vial y Vives Mena y Ovalle Limitada |
-| VoIP | Voice over IP |
+| w.r.t. | with respect to |
 | WBS | Work Breakdown Structure |
 | WCA | Warm Cartridge Assembly |
 | WDM | Wavelength Division Multiplexing |
@@ -1248,6 +1251,3 @@
 | XSS | Cross Site Scripting |
 | YIG | Yttrium Iron Garnet |
 | YTO | YIG Tuned Oscillator |
-| dBc | Decibels Referenced to the Carrier |
-| tCLOTS | temporary Central Local Oscillator Test Stand |
-| w.r.t. | with respect to |
