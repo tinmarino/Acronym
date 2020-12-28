@@ -1,0 +1,231 @@
+S 	apparent power (units: kVA, MVA)
+or
+Supervisor 	Poder aparente
+o
+Supervisor
+S? 	Sick Leave (in case of leave report) 	Licencia Médica (en caso de una solicitud de licencia)
+SAE 	Sistea Administracion de Eventos 	 
+SAF 	Safety 	 
+SAS 	Subarray Switch 	 
+SASR 	Subarray Switch Rack 	 
+SATA 	Serial Advanced Technology Attachment 	 
+SATP 	Site Acceptance Test Procedure 	 
+SATR 	Site Acceptance Test Review 	 
+SB 	Scheduling Block 	 
+SCADA? 	Supervisory Control and Data Acquisition 	 
+SCB 	Schedule Control Board 	 
+SCC 	Station control card 	 
+SCCM 	Software Configuration Control Manager 	 
+SCI 	Science 	 
+SCID 	Science 	 
+SCN 	  	 
+SCO 	Santiago Central Office 	 
+SCSI 	Small Computer Serial Interface 	 
+SCUBA 	Sub millimetre Common-user Bolometre Array 	 
+SDG 	Software Development Group, responsible for a Subsystem 	 
+SDM 	Science Data Model 	 
+SDR 	signal-to-distortion ratio 	 
+SDTR 	Single Dish Timing Reference 	 
+SDR 	Signal-to-Distortion Ratio 	 
+SE 	System Engineering 	 
+SE&I 	System Engineering and Integration 	 
+SEF 	Site Erection Facility 	 
+SEI? 	Sumitomo Electric Industry 	 
+SELV 	Safety Extra-Low Voltage 	 
+SEO 	System Engineering Office 	 
+SF? 	Sick Family (in case of leave report) 	Licencia por familia (en caso de una solicitud de licencia)
+SFDR 	Spurious-Free Dynamic Range 	 
+SFP+ 	enhanced small form-factor pluggable, a popular format for high speed optical data communications 	 
+SGA 	Single Gang ARINC with 11Q11 cavity 	 
+SHE 	Safety, Health, and Environment 	Seguridad, Salud, y Ambiente
+SHI 	Sumitomo Heavy Industries, Ltd. 	Traducción no aplicable - Nombre Propio
+SI 	Systems Integration 	 
+SICL 	Shipment Inspection and Checking List 	 
+SIL 	System Integration Lead 	Encargado del sistema de integraciones
+Signal 	provides the name of the signal 	 
+SING 	Sistema Interconectado del Norte Grande (Interconnected System of Northern Chile) 	 
+SINR 	Signal-to-Interference-plus-Noise Ratio 	 
+SIS 	Superconductor Insulator Superconductor (Junction) 	 
+SL 	Slave Laser 	 
+SLOC 	Source Lines Of Code 	 
+SM 	Scheduled Maintenance 	 
+SMA 	Sub millimetre Array 	 
+SMA 	Type of connector 	 
+SMAW 	Shield Metal Arc Welding 	 
+SMC 	Type of connector 	 
+SMD 	Surface Mount Devices 	 
+SMF 	Single Mode Fiber 	 
+SMO 	Spectrum Management Office 	 
+SMON 	System Monitor 	 
+SMON? 	Simple Mail Transfer Protocol 	 
+SN 	Serial Number 	 
+SNDI AT&T 	Company 	 
+SNNN 	The Shared Server Process (used in a shared server environment) 	 
+SNP 	The Snapshot Process 	 
+SNPnnn 	The Snapshot Process 	 
+SNR 	Signal to Noise Ratio 	 
+SO 	Safety Officer 	Encargado de Seguridad
+SOC 	Socorro, NM, USA, a BE NRAO Integration Center 	 
+SOIDA 	analog digital input/output system test fixture 	 
+SONET 	Synchronous Optical Network (A communication standards organization) 	 
+SOP 	State-of-Polarization 	 
+SOP 	State-of-Polarization-Change 	 
+SOPD 	State-of-Polarization Mode Dispersion 	 
+SOW 	Statement of Work 	 
+SP 	Set Point 	 
+SPD 	Surge Protection Device 	 
+SPE 	Specification 	 
+SPFD 	Spectral Power Flux Density 	 
+SPI 	Serial Peripheral Interface 	 
+SPST 	Single pole single throw (a switch) 	 
+SPV 	System Performance & Verification 	 
+SQL 	Structured Query Language (database Query language) 	 
+SRG 	Shift Register Generator 	 
+SRON 	SRON Netherlands Institute for Space Research 	 
+SRR 	System Requirements Review 	 
+SRSS 	Square Root of the Sum of Squares 	 
+SS 	Sampling System 	 
+SSB 	Single-Side Band 	 
+SSE 	System Safety Engineer 	 
+SSG 	Sampling System GUI 	 
+SSH? 	Secure Shell 	 
+SSHE 	Safety, Securit, Health, and Environment 	 
+SSI 	Synchronous Serial Interface 	 
+SSOM 	Subarray Switch Optical Module 	 
+SSP 	Single Source Procurements 	 
+SSR 	Science Software Requirements 	 
+ST 	Software Team 	 
+STC 	Scientific Technical Committee 	 
+STE 	Standard Test Environment 	 
+STM 	STMicroelectronics N.V 	 
+STR 	System Technical Requirements 	 
+STS 	Short-Term Schedule 	 
+STScI? 	Space Telescope Science Institute 	 
+SV 	Science Verification 	 
+SW? 	Subpoenaed Witness (in case of leave report) 	 
+SW 	Software 	 
+SWGR 	Switch Gear 	 
+SYS 	System 
+T 	Test; a method of verification and/or acceptance 	 
+[T] 	Test; a method of verification and / or acceptance that has not yet been developed 	 
+t.b.c. 	To be confirmed 	Universidad de Bordeaux
+t.b.d. 	To be defined 	 
+T0 	Date when review meeting starts 	 
+TA? 	Allan Time variance 	 
+TAD 	Technical Applicable Documents 	 
+TAG? 	Tell-and-go Protocol 	 
+TB 	Technical Building 	 
+TBC 	to be confirmed 	 
+TBD 	to be defined 	 
+TCB 	Time Code Generator Box 	 
+tCLO 	Temporary Central LO (Rack)
+tCLOTS 	Temporary Central LO Test Stand (tCLO rack + SAS/LLC Rack)
+TCO 	Telescope Coordinator Officer 	Traduccion no aplicable
+TCP? 	  	 
+TDMA 	Time Division Multiple Access 	 
+TDR 	Test Data Report 	Informe de Data de Prueba
+TE 	Time event. It's an electrical signal distributed to most electronic devices in ALMA as a reference to when to execute commands, so they will all be executed in a synchronized manner. Electrically, it's a pulse that occurs every 48ms (milliseconds = 0.001 seconds). See Reference and Timing, LORR and AMB. 	 
+TELCAL? 	Telescope Calibration Subsystem 	 
+testdev? 	Test device 	 
+TFB 	Tunable Filter Bank 	 
+TFF 	Thin Film Filter 	 
+TG 	Turbo Generator 	Turbina
+THD 	Total Harmonic Distortion 	 
+TIC 	Test Interferometer Control Software 	 
+TIO 	Technical Information Systems Office 	 
+TIMA 	Transient Intermodulation Distortion A 	 
+TIMB 	Transient Intermodulation Distortion B 	 
+TIOS 	Telescope & Instrument Operator 	Traduccion no aplicable
+TIS 	Telescope & Instrument Start-up 	Traduccion no aplicable
+TL 	Team Lead 	Lider del Grupo
+TLS? 	Thread Local Storage 	 
+TM 	Team Member 	Miembro del Equipo
+TMCDB 	Start-up antenna Class Reference 	 
+TNV 	Telecommunication Network Voltage 	 
+TOC 	Table Of Contents 	 
+TODO? 	Technical Order Distribution Office 	 
+TP 	Total Power 	 
+TP 	Torque Processor 	 
+TPD? 	Terminal Power Detection and Digitizing 	 
+TPMC? 	  	 
+TR 	Transfer Request 	Solicitud de Transferencia
+TRB 	Technical Review Board 	 
+TRF 	Transfer Request Form 	Formulario para la Solicitud de Transferencia
+TRR 	Test Readiness Review 	 
+TRWR 	Trace Writer 	 
+Trx 	Receiver Temperature 	 
+Tsys 	System temperature 	 
+TTF 	Thin Film Filter 	 
+TSM 	Temperature Sensor Module (in each CLOA Rack) 	 
+TST 	TEST project 	 
+TTL 	Transistor Transistor Logic 	 
+Turns 	One turn of an antenna axis, or 360° 	 
+TUV 	Europe equivalent to UL 	 
+TÜV 	Tecnische Überwachung Verein 	 
+TX? 	  	 
+TXP 	Transmit only laser transponder 	  
+UB 	University of Bordeaux 1 	Universidad de Bordeaux
+UBC 	Uniform Building Code 	 
+UC 	Universidad de Concepcion 	Tal cual
+UDP 	User Datagram Protocol 	 
+UID 	User Input Data 	 
+UIF? 	User Interface Friction 	 
+UKC 	University of Kent, Canterbury, UK 	No applicable
+UL 	Underwriters Laboratories Incorporated 	 
+UL 	Underwriters Lab (consumer protection code for appliance electrical wiring) 	 
+UPS 	Un-interrupted Power Supply 	 
+URR 	Upgrade Readiness Review 	 
+USB 	Upper Side Band 	 
+UTC 	Universal Time Coordinated 	 
+UTC-PD 	Unit traveling Carrier Photo Diode 	 
+UTM 	Universal Transverse Mercator 	 
+UV 	Ultra Violet 
+V 	Vacation (in case of leave report) 	Vacaciones (para presentar con RR.HH.
+V 	Volt 	Voltios
+VA 	Volt-Ampere 	Tal cual
+VA? 	Vertex Antenna 	Antena Vertex
+VAC 	Volts Alternating Current 	Corriente alternativo de voltios
+VAT? 	Valid Accounting Transactions 	 
+VCD 	Verification Control Document 	 
+VCO 	Voltage Control Oscillator 	Oscilador para el control de voltaje
+VCXO 	Voltage Control Crystal Oscillator 	Oscilador cristal para el control de voltaje
+VDC 	Volts Direct Current 	Corriente directa de voltaje
+VDE 	Verband Deutscher Elektrotechniker 	Traducción no aplicable
+VDIF 	VLBI Data Interchange Format 	Traducción no aplicable
+VEX 	VLBI Experiment 	Experimento VLBI
+VFQFPN 	Very thin Fine pitch Quad Flat Package No lead 	 
+VHDL 	Very high speed integrated circuit (VHSIC) Hardware Description Language 	 
+VHF 	Very High Frequency 	Frecuencia muy alta
+VHSIC 	Very high speed integrated circuit 	 
+VI 	Virtual Instrument 	Instrumento Virtual
+VLA 	Very Large Array (NRAO facility) 	Conjunto de radiotelescopios Muy Grande (instalación de NRAO)
+VLA 	Very Large Array – well known centimeter wavelength interferometer array 	Conjunto Muy Grande de radiotelescopios – prestigioso arreglo de interferómetros en longitudes de onda milimétricas
+VLBA? 	  	 
+VLBI 	Very Long Baseline Interferometry 	 
+VLT 	Very Large Telescope 	 
+VME 	VERSAbus Module European 	 
+VNC 	Virtual Network Computing 	 
+VO 	Virtual Observatory 	Observatorio Virtual
+VoIP 	Voice over IP 	 
+VSWR 	Voltage Standing Wave Ratio 	 
+VT? 	Voting Time (in case of leave report) 
+w.r.t. 	with respect to 	con respecto a
+WBS 	Work Breakdown Structure 	 
+WC 	Working Cabin 	 
+WCA 	Warm Cartridge Assembly 	 
+WDM 	Wavelength Division Multiplexing 	Traducción no aplicable
+WIFP 	Warm IF Plate 	Traducción no aplicable
+WM 	Wavemeter 	 
+WMA 	Warm Multiplier Assembly 	 
+WMON 	Wakeup Monitor Process 	 
+WO 	Work Order 	Orden de Trabajo
+WP 	Work Packages 	Paquetes de trabajo
+WPD 	Work Package Description 	 
+WPS 	Welding Procedure Specification 	 
+WVR 	Water Vapor Radiometer 	  
+XML 	Extensible Markup Language 	 
+XMTR 	Transmitter 	Transmisor
+XSD 	XML Schema Definition 	 
+YIG 	Yttrium Iron Garnet 	 
+YP 	  	 
+YTO 	YIG Tuned Oscillator 	  

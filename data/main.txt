@@ -1218,24 +1218,34 @@
 | S/N | Serial Number |
 | SACA | Standalone ACA (Atacama Compact Array) |
 | SACM | Science Archive Content Managers |
+| SAE | Sistea Administracion de Eventos |
 | SAF | Safety |
 | SAFE | Safety Documents |
 | SAN | Storage Area Network |
 | SARR | Site Activity Readiness Review |
+| SAS | Subarray Switch |
+| SASR | Subarray Switch Rack |
+| SATA | Serial Advanced Technology Attachment |
+| SATP | Site Acceptance Test Procedure |
+| SATR | Site Acceptance Test Review |
 | SB | Scheduling Block |
 | SCADA | Supervisory Control and Data Acquisition |
 | SCB | Schedule Control Board |
 | SCC | Station control card |
 | SCCB | Software Change Control Board |
+| SCCM | Software Configuration Control Manager |
 | SCI | Science |
 | SCID | Science Documents |
 | SCM | Source Code Management |
-| SCO | ALMA Santiago Central Office |
 | SCO | Santiago Central Office |
+| SCSI | Small Computer Serial Interface |
+| SCUBA | Sub millimetre Common-user Bolometre Array |
 | SDAF | Software Development Approval From |
 | SDG | Software Development Group, responsible for a Subsystem |
 | SDL | Simple Direct-Media Layer |
+| SDM | Science Data Model |
 | SDR | Signal-to-Distortion Ratio |
+| SDTR | Single Dish Timing Reference |
 | SE | Software Engineering |
 | SE | System Engineering |
 | SE&I | System Engineering and Integration |
@@ -1244,26 +1254,40 @@
 | SEF | Site Erection Facility |
 | SEH | Structure Exception Handler |
 | SELV | Safety Extra-Low Voltage |
+| SEO | System Engineering Office |
 | SFDR | Spurious-Free Dynamic Range |
+| SFP+ | enhanced small form-factor pluggable, a popular format for high speed optical data communications |
 | SG | Software Group |
+| SGA | Single Gang ARINC with 11Q11 cavity |
+| SHE | Safety, Health, and Environment |
+| SHI | Sumitomo Heavy Industries, Ltd. |
 | SI | Systems Integration |
+| SICL | Shipment Inspection and Checking List |
 | SIEM | Security Information Management System |
+| SIL | System Integration Lead |
 | SIMD | Single Instruction Multiple Data |
 | SING | Sistema Interconectado del Norte Grande (Chilean electricity grid) |
 | SINR | Signal-to-Interference-plus-Noise Ratio |
 | SIS | Superconductor-Insulator-Superconductor |
 | SIST | System Integration Science Team |
+| SL | Slave Laser |
+| SLOC | Source Lines Of Code |
+| SM | Scheduled Maintenance |
 | SMA | Submillimeter Array (Mauna Kea in Hawaii) |
 | SMA | Type of connector |
 | SMAP | Supervisor Mode Access Prevention |
+| SMAW | Shield Metal Arc Welding |
 | SMC | Type of connector |
 | SMD | Surface Mount Devices |
 | SMEP | Supervisor Mode Execution Prevention |
 | SMF | Single Mode Fiber |
 | SMO | Spectral Management Office |
+| SMON | System Monitor |
 | SMTP | Simple Mail Transfer Protocol |
 | SN | Serial Number |
 | SNR | Signal to Noise Ratio |
+| SO | Safety Officer |
+| SOC | Socorro, NM, USA, a BE NRAO Integration Center |
 | SOIDA | analog digital input/output system test fixture |
 | SOM | Self Organizing Map |
 | SONET | Synchronous Optical Network (A communication standards) |
@@ -1277,26 +1301,37 @@
 | SPIE | International Society for Optics and Photonics |
 | SPST | Single pole single throw (a switch) |
 | SPV | System Performance and Verification |
+| SQL | Structured Query Language (database Query language) |
 | SRG | Shift Register Generator |
 | SRON | Space Research Organization Netherlands |
 | SRR | Science Requirements Review |
 | SRR | System Requirements Review |
 | SRSS | Square Root of the Sum of Squares |
+| SS | Sampling System |
 | SSB | Single Side Band |
 | SSE | Streaming SIMD Extensions |
+| SSG | Sampling System GUI |
+| SSH | Secure Shell |
+| SSHE | Safety, Securit, Health, and Environment |
+| SSI | Synchronous Serial Interface |
 | SSL | Secure Socket Layer |
+| SSOM | Subarray Switch Optical Module |
 | SSOT | Single Source Of Trust |
+| SSP | Single Source Procurements |
 | SSR | Science Software Requirement |
 | SSR | Science Software Requirements |
+| ST | Software Team |
 | STC | Scientific Technical Committee |
 | STE | Standard Test Environment |
 | STE | Standard Test Environment |
 | STFC | Science and Technology Facilities Council |
 | STM | Synchronous Transfer Mode |
+| STR | System Technical Requirements |
 | STS | Short-Term Schedule |
 | STScI | Space Telescope Science Institute |
 | SV | Science Verification |
 | SW | Software |
+| SWGR | Switch Gear |
 | SYS | System |
 | SYSE | System Engineering Documents |
 | T | Test verification method is by Testing |
@@ -1311,43 +1346,62 @@
 | TBC | To Be Confirmed (at a later date) |
 | TBD | To Be Defined/Determined (at a later date) |
 | TCB | Time Code Generator Box |
+| tCLO | Temporary Central LO (Rack) |
 | tCLOTS | temporary Central Local Oscillator Test Stand |
+| TCO | Telescope Coordinator Officer |
 | TDH | Trace Data Helper |
 | TDI | Transport Driver Interface |
 | TDM | Time Division Multiplexing |
 | TDMA | Time Division Multiple Access |
+| TDR | Test Data Report |
 | TE | Timing Event |
 | TEB | Thread Environment Block |
-| TelCal | Telescope Calibration |
 | TelCal | Telescope Calibration |
 | TF | Technical Facility |
 | TFB | Tunable Filter Bank |
 | TFC | Technical Facility STE C (i.e. the third STE at the TF) |
+| TFF | Thin Film Filter |
+| TG | Turbo Generator |
 | THD | Total Harmonic Distortion |
 | TIB | Thread Information Block |
+| TIC | Test Interferometer Control Software |
 | TICRA | Name of company based in Copenhagen |
 | TICS | Test Interferometer Control Software |
+| TIMA | Transient Intermodulation Distortion A |
+| TIMB | Transient Intermodulation Distortion B |
+| TIO | Technical Information Systems Office |
+| TIOS | Telescope & Instrument Operator |
+| TIS | Telescope & Instrument Start-up |
 | TL;DR | Too Long; Didn\'t read |
 | TLB | Translation Look-aside Buffer |
 | TLS | Thread Local Storage |
 | TLS | Transport Layer Security |
-| TMCDB | Telescope Monitor and Configuration Database |
+| TM | Team Member |
 | TMCDB | Telescope Monitoring and Configuration Database |
 | TMF | Trace Message Format |
 | TMH | Trace Message Header |
 | TMP | Trusted Platform Module |
 | TMS | Test and Measurement System |
 | TNV | Telecommunication Network Voltage |
+| TOC | Table Of Contents |
+| TODO | Technical Order Distribution Office |
 | ToO | Target of Opportunity |
 | ToR | Terms of References |
 | TP | Total Power |
 | TP-Array | 12m antennas of the ACA |
+| TPD | Terminal Power Detection and Digitizing |
 | TPM | Trusted Platform Module |
 | TPS | Temporary Power System |
+| TR | Transfer Request |
+| TRB | Technical Review Board |
+| TRF | Transfer Request Form |
 | TRL | Technology Readiness Level |
 | TRR | Test Readiness Review |
+| TRWR | Trace Writer |
 | Trx | Receiver Temperature |
 | TS | Trusted Source |
+| TSM | Temperature Sensor Module (in each CLOA Rack) |
+| TST | TEST project |
 | TSX | Transactional Synchronization eXtension |
 | Tsys | System temperature |
 | TTF | Thin Film Filter |
@@ -1360,12 +1414,14 @@
 | UAC | User Account Control |
 | UB | University of Bordeaux (\#1) |
 | UBC | Uniform Building Code |
+| UC | Universidad de Concepcion |
 | UCR | Un-Commited Range |
 | UDF | Universal Disk Format (CD) |
 | UDL | Universal Data Link |
 | UDP | User Datagram Protocol |
 | UEFI | Unified Extensible Firmware Interface |
 | UID | Unique IDentifier |
+| UIF | User Interface Friction |
 | UKATC | UK Astronomy Technology Centre |
 | UKC | University of Kent, Canterbury, UK |
 | UL | Underwriters Laboratories Incorporated |
@@ -1375,55 +1431,70 @@
 | URL | Uniform Resource Locator |
 | URM | Universal Register Machine |
 | URN | Uniform Resource Name |
+| URR | Upgrade Readiness Review |
 | USAS | USA Standard |
 | USB | Upper Side Band |
 | UT | Universal Time |
-| UTC | Coordinated Universal Time |
+| UTC | Universal Time Coordinated |
+| UTC-PD | Unit traveling Carrier Photo Diode |
 | UTM | Universal Transverse Mercator |
 | UV | Ultraviolet |
+| V | Vacation (in case of leave report) |
+| V | Volt |
+| VA | Vertex Antenna |
 | VA | Volt-Ampere |
 | VAC | Volt Alternating Current |
 | VAD | Virtual Address Descriptor |
+| VAT | Valid Accounting Transactions |
 | VBA | Visual Basic for Application |
 | VBE | VBScript code (non editable) |
+| VCD | Verification Control Document |
 | VCL | Virus Creation Laboratory |
 | VCO | Voltage Control Oscillator |
 | VCXO | Voltage Control Crystal Oscillator |
 | VDC | Volts Direct Current |
 | VDE | Verband Deutscher Elektrotechniker |
 | VDI | Virginia Diodes, Inc. |
+| VDIF | VLBI Data Interchange Format |
 | VDO | Volume Device Object |
+| VEX | VLBI Experiment |
 | VFQFPN | Very thin Fine pitch Quad Flat Package No lead |
 | VHDL | VHSIC Hardware Description Language |
+| VHF | Very High Frequency |
 | VHSIC | Very high speed integrated circuit |
+| VI | Virtual Instrument |
 | VLA | Very Large Array |
 | VLAN | Virtual Local Area Network |
-| VLBI | Very Large Baseline Interferometry |
-| VLBI | Very Long Baseline Interferometry |
+| VLBI | Very Long/Large Baseline Interferometry |
 | VLT | Very Large Telescope (ESO facility) |
 | VME | VERSAbus Module European |
+| VNC | Virtual Network Computing |
 | VO | Virtual Observatory (serie of standards) |
-| VO | Virtual Observatory |
 | VoIP | Voice over IP |
 | VSWR | Voltage Standing Wave Ratio |
+| VT | Voting Time (in case of leave report) |
 | VTP | VLAN Trunking Protocol |
 | VVMO | Consorcio Vial y Vives Mena y Ovalle Limitada |
-| w.r.t. | with respect to |
 | WBS | Work Breakdown Structure |
+| WC | Working Cabin |
 | WCA | Warm Cartridge Assembly |
 | WDM | Wavelength Division Multiplexing |
 | WE | Work Element in WBS |
 | WER | Windows Error Reporting |
 | WFP | Windows File Protection |
 | WFP | Windows Filtering Platform |
+| WIFP | Warm IF Plate |
 | WM | Wavemeter |
 | WMA | Warm Multiplier Assembly |
 | WMI | Windows Management Instrumentation |
+| WMON | Wakeup Monitor Process |
+| WO | Work Order |
 | WP | Work Package in WBS |
 | WPA | Windows Performance Analyzer |
 | WPD | Work Package Description |
 | WPR | Windows Performance Recorder |
 | WPS | Wifi Protected Setup : From 2006, for easy add device |
+| WRT | with respect to |
 | WSC | Windows Script Component |
 | WSH | Windows Scripting Host |
 | WSRT | Westerbork Synthesis Radio-Telescope |
