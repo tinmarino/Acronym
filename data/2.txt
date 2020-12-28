@@ -9,8 +9,10 @@
 | AAB | Antenna Assembly Building |
 | AAER | ALMA Annual External Review |
 | AAS | American Astronomical Society |
+| AAT | Automated Acceptance Test |
 | ABC | ALMA Budget Committee |
 | ABM | Antenna Bus Master |
+| ABMSI | Antenna Bus Master Standard Interface |
 | AC | Alternating Current; a.c. |
 | ACA | Atacama Compact Array |
 | ACC | ALMA Coordinating Committee |
@@ -21,9 +23,10 @@
 | ACE | Consortium of Alcatel, Costamasnage and EIE |
 | ACHS | Asociación Chilena de Seguridad |
 | ACK | Acknowledge |
+| ACL | Ambient Temperature Calibration Load |
 | ACPI | Advanced Configuration and Power Interface |
+| ACR | Antenna Control Rack |
 | ACRV | Acceptance Review |
-| ACS | ALMA Common Software |
 | ACS | ALMA Common Software |
 | ACT | Application Compatibility Toolkit |
 | ACT | Atacama Cosmology Telescope |
@@ -34,11 +37,15 @@
 | ADC | ALMA Department of Computing at JAO |
 | ADC | Analog to Digital Converter |
 | ADE | ALMA Department of Engineering |
+| ADEQM | ADE Quality Management |
+| ADF | ALMA Development Funds |
 | ADL | Applicable Documents List |
 | ADM | Administration |
 | ADO | ALMA Directors Office |
 | ADP | Acceptance Data Package |
 | ADR | Acceptance Discrepancy Report |
+| ADS | ALMA Department of Science |
+| ADX | Applicable Document No. X |
 | ADSC | ALMA Development Steering Committee |
 | ADxx | Applicable Document No. xx |
 | AE | Array Element |
@@ -47,60 +54,86 @@
 | AEG | Antenna Evaluation Group |
 | AEM | Consortium building the European antennas.(TAS-F, EIE and MT-Mechatronics) |
 | AES | ARC Environment Standardisation |
+| AFA | ALMA Front-end Archive |
+| AFAIF | ALMA Front-end Archive Interface |
+| AFAIK | As Far as I Know |
 | AG | Antenna Group of ADE |
 | AGC | Automatic Gain Control |
+| AGCT | Array Group Control Team |
 | AGN | Active Galactic Nucleus |
+| AH | Astronomical Holography |
+| AHU | Air Handling Unit |
 | AI | Action Item |
 | AIL | Action Item List |
 | AIPCn | Assembly Inspection Point Chile of antenna \#n |
 | AIPT | Antenna IPT |
 | AIV | Assembly, Integration and Verification |
 | AIVC | Assembly, Integration, Verification, and Commissioning |
+| AIVM | Assembly, Integration, Verification, and Meeting |
+| AIVMAN | AIV–Management |
 | AJ | Anti Jamming |
 | AJAX | Asynchronous JavaScript And XML |
 | ALC | Automatic Level Control |
 | ALF | Administration, Logistics, and Facility (Management) |
 | ALMA | Atacama Large Millimeter/sub-millimeter Array |
-| ALMA | Atacama Large Millimeter/sub-millimeter Array |
 | ALMA-B | Bilateral ALMA |
 | ALMA-J | Japanese ALMA |
+| ALMA SCCM | ALMA Software Configuration Control Manager |
+| ALMAEDM | ALMA Electronic Documentation Management |
+| ALMAMGR | Alma manager |
+| ALS | Alternative Laser Synthesizer |
+| ALS | Auto Lubrication System |
 | AM | Acceptance Manager |
 | AMAC | ALMA Management Advisory Committee |
 | AMB | ALMA Monitor and Control Bus |
 | AMBSI | AMB Standard Interface |
 | AMC | Active Multiplier Chain |
 | AMCC | An IC vendor |
+| AMG | Array Maintenance Group |
 | AMT | ALMA Management Team |
 | ANASAC | ALMA North America Science Advisory Committee |
 | ANATAC | ALMA North America Technical Advisory Committee |
 | ANSI | American National Standards Institute |
 | ANT | Antenna |
+| AO | Array Operator |
+| AOB | Any other business |
 | AOC | ALMA Operation Center in Socorro, New Mexico |
-| AOS | Array Operations Site |
+| AoD | Astronomer-on-Duty |
+| AOG | Array Operations Group |
+| AOP | ALMA Operation Plan |
 | AOS | Array Operations Site |
 | AOSTB | Array Operation Site Technical Building |
 | APC | Asynchronous Procedure Call |
+| APC | American Power Conversion |
+| APC | Angled Physical Contact |
 | APD | Angled Polished Connector |
 | APDM | ALMA Project Data Model |
 | APE | ALMA Production Environment -\> infrastructure where the ONLINE software is deployed |
 | APEX | Atacama Pathfinder Experiment |
 | APEX | Atacama Pathfinder Experiment (1x12m at \< 1mm at Chajnantor) |
 | API | Application Program Interface |
+| API | ALMA public image |
 | APO | ALMA Pipeline Operation (Archive Team) |
 | APO | Archive and Pipeline Operations Group |
+| APP | ALMA Phasing Project |
 | APRC | ALMA Proposal Review Committee |
 | AQUA | ALMA Quality Assurance Tool |
 | ARA | ALMA Recreation Association |
-| ARC | ALMA Regional Center |
 | ARC | ALMA Regional Center (Europe, North America and East Asia) |
+| ARCH | Archive Process (archives redo log files if ARCHIVELOG is active) |
+| ARO | After Receipt of Order |
 | ARL | Aeronautical Research Laboratory |
 | ARP | ALMA Review Panel |
+| ARRL | American Radio Relay League |
 | ARTM | Array Real Time Machine |
 | AS | Academia Sinica (Taiwan) |
 | ASA | ALMA Science Archive |
 | ASAC | ALMA Science Advisory Committee |
+| ASAIF | ALMA Science Archive Interface |
+| ASAP | As Soon As Possible |
 | ASCII | American Standard Code Information Interchange |
 | ASDM | ALMA Science Data Model |
+| ASDv | Allan Standard Deviation of variable y |
 | ASG | Array System Group |
 | ASIAA | Academia Sinica Institute for Astronomy and Astrophysics |
 | ASIC | Application-Specific IC |
@@ -112,28 +145,42 @@
 | ASoJ | Astronomical Society of Japan |
 | AT | Australia Telescope |
 | ATAC | ALMA Technical Advisory Committee Renamed to NAATAC |
+| ATAPI | Advanced Technology Attachment Packet Interface |
 | ATCA | Australian Telescope Compact Array |
 | ATE | ALMA Testing Environment |
 | ATED | ALMA Tucson Electronics Division |
 | ATF | Antenna Test Facility |
+| ATF CRD | Antenna Test Facility Central reference distributor |
+| ATF CRG | Antenna Test Facility Central reference generator |
+| ATF LORR | Antenna Test Facility Local Oscillator reference receiver |
+| ATF PS | Antenna Test Facility Power supplies |
+| ATF PS-AC | Antenna Test Facility AC-DC |
+| ATF PS-DC | Antenna Test Facility DC-DC |
+| ATF TP-IF | Antenna Test Facility Total Power IF Module |
+| ATF TP-MC | Antenna Test Facility Total Power Monitor & Control |
 | ATP | Authorization to proceed |
 | ATWG | Antenna Testing Working Group |
+| ATX | Advanced Technology Extended |
+| AU | Astronomical Unit |
 | AUI | A type of Ethernet connector |
 | AUI | Associated Universities Incorporated |
+| AUXR | Auxiliary rack (CLOA room) |
 | AVX | Advanced Vector Extensions |
 | AWE | ALMA Work Element |
 | AWG | American Wire Gauge |
 | AWGN | Additive White Gaussian Noise |
+| AWS | Alma Wide Sub-array |
 | AZ | Azimuth. Defined as zero to North. |
 | AoD | Astronomer-on-Duty |
 | BACI | Basic Access Control Interface |
-| BACI | Basic Access Control Interface |
 | BASIC | Beginner All-purpose Symbolic Instruction Code |
+| BB | Broadband / Backbone (networking) |
 | BBS | Basic Boot Sector |
 | BCD | Boot Configuration Database |
 | BCR | Budget Change Request |
 | BDF | Binary Data Format |
 | BE | Back End |
+| BE | Backend Electronics IPT |
 | BEIPT | Back End IPT |
 | BEND | Back End Document |
 | BER | Bit Error Rate |
@@ -141,17 +188,26 @@
 | BGA | Ball Grid Array |
 | BIMA | Berkley Illinois Maryland Association |
 | BIOS | Basic Input Output System |
+| BL | Base Line |
 | BLC | BaseLine Correlator |
+| BNC | Type of coaxial connector |
+| BOA | Basic Object Adapter |
 | BOM | Bill of Materials |
+| BPF | Band pass filter |
 | BSOD | Blue Screen Of Death |
 | BTHU | British Thermal Unit |
+| BW | Bandwidth |
+| BWFN | Beam Width at First Null |
 | BUS | Back-up Structure |
+| C | Commissioning |
 | C&C | Command & Control |
 | CA | Cavendish Astrophysics |
 | CA | Certificate Authority |
+| CAI | Correlator Antenna Interface/Input |
 | CAL | CALibration |
 | CAN | Control Area Network |
-| CAN | Controller Area Network |
+| CAN | ID  CAN message identification. A 29 bit identifier transmitted at the start of a CAN frame which also determines the frame’s priority |
+| CAN_SHLD | Controller Area Network Shield, usually a wire mesh or metallic foil around CAN cables |
 | CAR | Corrective Action Request |
 | CARMA | Combined Array for Research in Millimeter-wave Astronomy |
 | CAS | Content Analysis System |
@@ -159,6 +215,9 @@
 | CASA | Common Astronomical Software Application |
 | CASA | Common Astronomy Software Applications |
 | CBI | Cosmic Background Imager |
+| CBM | Cartridge Bias Module |
+| CBM | Condition-based Maintenance |
+| CC | Cold Cartridge |
 | CCA | Cold Cartridge Assembly |
 | CCAT | Cerro Chajnantor Atacama Telescope |
 | CCAT | Cornell Caltech Atacama Telescope |
@@ -166,9 +225,14 @@
 | CCB | Change Control Board |
 | CCB | Configuration Control Board |
 | CCC | Correlator Control Computer |
+| CCD | Charge-coupled Device |
+| CHAPHS | Critical Hardware/Proximate Hazard System |
 | CCHP | Combined Cooling, Heat and Power |
 | CCIR | Consultative Committee on Radio Interference |
 | CCL | Control Command Language |
+| CCM | Corba Component Model |
+| CCRI | Consulative Committee on Radio Interference |
+| CCW | Counter Clock Wise |
 | CDB | Configuration Database (for ACS components) |
 | CDL | Central Development Lab |
 | CDMA | Code Division Multiple Access |
@@ -188,35 +252,57 @@
 | CFG | Control Flow Guard |
 | CFHT | Canada France Hawaii Telescope |
 | CFRP | Carbon Fiber Reinforced Plastic |
+| CfT | Call for Tenders |
+| CG | Computing Group |
+| CG | Cryogenic Group |
+| CH3CHO | Acetaldehyde |
+| CH4 | Methane |
+| CHD | Cold Head |
 | CHS | Cylinder - Head - Sector |
 | CI | Configuration Item |
+| CIC | Correlator Interface Card |
 | CIDL | Configuration Item Data List |
 | CIM | Common Information Model |
 | CIN | Configured Item Number |
-| CIPT | Computing IPT |
-| CIPT | Computing IPT |
+| CIPT | Computing Integrated Product Team |
+| CIPT | Cisco Internet Protocol Telephony |
+| CIRM | Configured Item Responsibility Matrix |
 | CISPR | Comité International Spécial des Perturbations Radioélectriques |
+| CK | Check |
+| CKPT | Checkpoint process |
 | CL | Chile |
 | CLEAN | A deconvolution algorithm commonly used in radio astronomy |
 | CLFS | Common Log Filesystem (windows) |
 | CLNA | Cold Low Noise Amplifier |
 | CLOA | Central Local Oscillator Article |
+| CLP | Chilean Peso |
 | CLR | Common Language Runtime |
 | CLST | Chile Summer Time |
 | CLT | Chile Standard Time (Winter) |
 | CM | Corrective Maintenance |
+| CM-D | Deferred Corrective Maintenance |
+| CM-I | Immediate Corrective Maintenance |
 | CME | Coronal Mass Ejection |
 | CMMS | Computerized Maintenance Management System |
 | CMP | Control and Monitor Processor |
+| CMP | Corrective Maintenance Planned |
 | CMT | Core Management Team |
 | CMxx | MELCO 7-m antenna No.xx |
 | CNRC | Conseil National de Recherches Canada |
+| CO | Carbon Monoxide |
+| COB | Component Object Broker |
+| COFA | Center of Array |
 | COFF | Common Object File Format |
+| COG | Center of Gravity |
 | COM | Component Object Model |
 | COMP | Computing |
 | CONICYT | Consejo Nacional de Investigaciones Científicas y Técnicas |
+| Conn | Connector |
 | COPD | Chronic Obstructive Pulmonary Disease |
 | CORBA | Common Object Request Broker Architecture |
+| CORR | Correlator |
+| COSYLAB | Control System Laboratory |
+| COT | Commercial Off The shelf (units) |
 | COTS | Commercial Off-The-Shelf |
 | CP | Contracts and Procurements |
 | CPDS | Cartridge Power Distribution System |
@@ -229,9 +315,14 @@
 | CRD | Central Reference Distributor |
 | CRE | Change Request |
 | CRG | Central Reference Generator |
+| CRPS | Central Reference Power Supply |
 | CRS | Central Reference System |
 | CRT | Cathode Ray Tube |
 | CSA | Canadian Standards Association |
+| CSCG | Communications System Control Group |
+| CSI | Customer Support Identifier |
+| CSM | Contract Services Staff |
+| CSMA/CD | Carrier Sense Multiple Access with Collision Detection |
 | CSIC | Consejo Superior de Investigaciones Científicas |
 | CSP | Content Security Policy |
 | CSR | Certificate Signing Request |
@@ -240,9 +331,13 @@
 | CSS | Cascading Style Sheets |
 | CSV | Commissioning and Science Verification |
 | CTA | Cherenkov Telescope Array |
+| CTNLL | Calibrated tunable narrow linewidth laser |
 | CTI | Comparative Tracking Index |
+| CV | Charlottesville, VA, USA, a BE NRAO Integration Center |
 | CVR | Central Variable Reference |
+| CVRR | Central Variable Reference Rack (part of CLOA) |
 | CVS | Concurrent Version System |
+| CW | Clock Wise |
 | CW | Continuous Wave |
 | CWG | Chajnantor Working Group |
 | CfP | Call for Proposals |
@@ -255,10 +350,15 @@
 | CtC | Cost to Completion |
 | DAC | Digital to Analog Converter |
 | DAP | Disk Address Packet |
+| DAQ | Data Acquisition Module (in AUXR) |
 | DAR | Document Approval Request |
 | DAxx | AEM 12-m antenna No.xx |
 | DB | DataBase |
+| dB9 | D-Sub 9-pin Connector |
 | DBA | DataBase Advicor |
+| dBc | Decibels relative to the Carrier |
+| dBm | Decibels relative to milliwatts |
+| DBWR | Database Writer |
 | DC | Direct Current; d.c. |
 | DC | Directors Council |
 | DCE | Distributed Computing Environment |
@@ -267,16 +367,22 @@
 | DCS | Distributed Control System |
 | DDC | Direct Digital Controller |
 | DDL | Deliverable Document List |
+| DDP | Design and Development Phase |
 | DDP | Detailed Design Phase |
 | DDS | Data Distribution System |
 | DDS | Direct Digital Synthesizer |
 | DDT | Director\'s Discretionary Time |
+| DEC | Declination Value |
+| Demux | Demultiplexer |
 | DEP | Data Execution Prevention |
+| DFB | Distributed Feedback Laser |
+| DFR | DTS De-formatter  Tal cual |
 | DFS | Depth First Search |
 | DG | Digitizer |
 | DGA | Domain Generation Algorithm |
 | DGCB | Digitizer Control Board Sub-Assembly |
 | DGCK | Digitizer Clock |
+| DGD | Differential Group Delay |
 | DGD | Digitizer DeMux |
 | DGS | Digitizer Sampler |
 | DHC | Data Handling Computer |
@@ -284,14 +390,20 @@
 | DIFC | Digital Interface Control |
 | DIN | Connectors from Deutsches Institut fur Normung |
 | DIN | Deutsche Industrie Norm |
+| DL | Death Leave (in case of leave report) |
+| DLL | Dynamic Link Library |
+| DLO | Digital Local Oscillator |
 | DM | Deployment Manager |
 | DMA | Decision Making Authority |
 | DMC | DTS-R Monitor and Control Computer |
 | DMG | Data Management Group |
+| DMON | Data Guard Broker Process |
 | DMR | Laser Synthesizer Microwave Reference (replaced by CVR) |
 | DMTF | Distributed Management Task Force |
 | DMZ | DeMilitarized Zone |
+| DNNN | Dispatcher Process (used in a shared server environment) |
 | DNS | Domain Name Server |
+| DO | Distributed Objects |
 | DOM | Document Object Model |
 | DOORS | Dynamic Object-Oriented Requirements System |
 | DPA | Drive Power Amplifier |
@@ -299,12 +411,18 @@
 | DPI | Data Port Interface |
 | DPM | Deputy Project Manager |
 | DPMI | Dos Protected Mode Interface |
+| DPO | Digital Phosphor Oscilloscope |
+| DPP | Definition Policy Procedures |
+| DPS | Digital Power Supply |
 | DRAO | Dominion Radio Astronomy Observatory |
 | DRD | Document Requirement Definition |
 | DRL | Documentation Requirement List |
 | DRSP | Design Reference Science Plan |
 | DRX | Data Receiver of DTS |
 | DRXA | Data Receiver Article |
+| DS | Domain Specialist |
+| DSA | Digitizer Statistical Analyzer |
+| DTD | Document Type Definition |
 | DSAA | Division of Science and Academic Affairs |
 | DSB | Double Side Band |
 | DSO | JAO Department of Science Operations |
@@ -315,13 +433,16 @@
 | DTS | Data Transmission System |
 | DTS | Department of Technical Services |
 | DTS | Digital Transmission System |
+| DTST | Data Transmission Sub-System Test Stand |
 | DTS-R | DTS Receiver in ACA Correlator |
 | DTS-T | DTS Transmitter |
 | DTX | Data Transmitter of DTS |
+| DV | Doctor/Dentist Visit (in case of leave report) |
 | DVxx | VERTEX 12-m antenna No.xx |
 | DWDM | Dense WDM |
 | DWGxx | Applicable Drawing No.xx |
 | DeMux | De-Multiplexer |
+| DYTO | Digital Yig Tune Oscillator |
 | E-Stop | Emergency Stop |
 | EA | East Asia |
 | EA | East Asian |
