@@ -1,0 +1,232 @@
+E 	Emergency operation Status (in case of leave report) 	Estatus para una operación de emergencia (en caso de una licencia médica)
+EA 	East Asia 	Asia Oriental
+EA-ARC 	East Asian ALMA Regional Center 	Centro Regional Japonés de ALMA
+EASC 	Euopean ALMA Support Center 	Centro Europeo de Soporte para ALMA
+ECS 	Expedited Commissioning Schedule 	Programación expedita de comisión
+ECU 	Electronic Control Unit 	Unidad de Control Electronico
+EDFA 	Erbium doped fiber amplifier (optical amplifier) 	Amplificador de fibra óptica utilizando el erbio como dopante químico (amplificador óptico)
+EDM 	Electronic Documentation Management (SiteScape? Web system) 	Administración de la documentación electrónica (sistema SiteScape? Web)
+EE 	Electronic Engineering 	Ingeniería Electrónica
+EEC 	European Economic Community 	Comunidad Económica Europea
+EEE 	Electrical, Electronic, Electromechanical 	Eléctrico, Electrónico, Electromecánico
+EEU 	Encoder Evaluation Unit 	 
+EFC 	Electronic Frequency Control 	Sintonía de la Frecuencia Electrónica
+EG 	Electronics Group 	Grupo encargado de lo eléctrico
+EGSE 	Electrical Ground Support Equipment 	 
+EIA 	Electronic Industries Alliance 	Alianza de Industrias Electrónicas
+EIE 	European Industrial Engineering 	Ingeniería Industrial Europea
+EIRP 	Effective Isotropic Radiated Power 	Poder radiado isotópico efectivo
+EIS 	Environmental Impact Study 	Estudio de Impacto Ambiental
+EIS 	Environmental Impact Statement 	Declaración de Impacto Ambiental
+EL 	Elevation 	Elevación
+ELT 	Extremely Large Telescopes 	Telescopios Extremadamente Grandes
+ELV 	Extra-Low Voltage 	Voltaje muy bajo
+EM 	Electromagnetic 	Electromagnético
+EMC 	Electromagnetic Compatibility 	Compatibilidad Electromagnética
+EMI 	Electromagnetic Interference 	Interferencia Electromagnética
+EMP 	Electromagnetic Pulse 	Pulso Electromagnético
+EMS 	Environmental Monitoring System 	Sistema de Observación Ambiental
+EN 	European Norm 	Norma europea
+EOC 	Extension, Optimization, and Capabilities 	N/A
+EPA 	Environment Protection Agency 	Agencia de protección del medio ambiente
+EPC 	Engineering, Procurement and Construction (contract/contractor) 	Ingeniería, Adquisición y Construcción (contratista)
+EPO 	Education and Public Outreach 	Término abarcativo para el alcance científico
+EPP 	Enhanced Parallel Port 	 
+Equipto 	Equipto Electronics Corp. 	Traducción no aplicable
+ESAC 	European Science Advisory Committee 	Comité Europeo de Asesoría Científica
+ESD 	Electro Static Discharge 	Descarga Electro Estático
+ESG 	Engineering Services Group 	Grupo de Servicios de Ingenieria
+ESN 	Electronic Serial Number 	Número electrónico de serie
+ESO 	European Southern Observatory 	Organización Europea para la Investigación Astronómica en el Hemisferio Austral
+EU 	European 	Europeo
+EU 	European Union 	Unión Europea
+EURELECTRIC 	Union of the Electricity Industry, Brussels, Belgium 	Traducción no aplicable
+EUT 	Equipment Under Test 	Maquinaria en testeo
+EVLA 	Expanded Very Large Array 	Arreglo Muy Grandes y Expandidos de Radiotelescopios
+EXE 	Executive-based Staff 	Personal Ejecutivo
+EYDFA 	Erbium Ytterbium Doped Fiber Amplifier 	Amplificador de fibra óptica utilizando el erbio iterbio como dopante químico 
+FA 	Final Acceptance 	Aceptación Final
+FAQ 	Frequently Asked Questions 	Preguntas Más Frecuentes
+FAR 	Full Antenna Report 	Informe completo de la antena
+FARn 	Factory Acceptance Review n 	Informe número x de la Aceptación de Fábrica
+FAS 	Final Acceptance on-Site (at the Specified Delivery Location) 	Aceptación Final in situ (en el lugar establecido de entrega)
+FAT 	First Article Test 	Prueba para el Primer Articulo
+FBT 	Function Based Teams 	Traducción no aplicable
+FC 	ESO Finance Committee 	Comite de Finanzas de la ESO
+FC/APC 	Fiber Connector/Angled Polished Connector 	Conector de fibra óptica / Conector Pulido y Angulado
+FDM 	Frequency Division Multiplexing 	Traducción no aplicable
+FDP 	Final Design Phase 	Fase Final del Diseño
+FDR 	Final Design Review 	Repaso Final del Diseño
+FE 	Front-End 	Traducción no aplicable
+FEA 	Finite Element Analysis 	Análisis de los elementos finitos
+FEHV 	Front End Handling Vehicle 	Vehículo encargado del Front End
+FEIC 	Front End Integration Centre 	Centro de Integración del Front End
+FELO 	Front End Local Oscillator 	Oscilador Local del Front End
+FEM 	Finite Element Model 	Modelo de los elementos finitos
+FEMC 	Front End Monitor And Control 	Observación y Control del Front End
+FEND 	Front End 	Traducción no aplicable
+FEP 	Fluorinated Ethylene Propylene 	 
+FEPS 	Front End Power Supply 	Traducción no aplicable
+FESS 	Front End Support Structure 	Soporte de estructura del Front End
+FESV 	Front End Service Vehicle 	Vehículo de servicio del Front End
+FET 	Field Effect Transistor 	Traducción no aplicable
+FETMS 	Front EndTest? Measurement System 	 
+FFT 	Fast Fourier Transform 	Traducción no aplicable
+FG 	Facilities Group 	Grupo de las instalaciones
+FIFO 	First in First Out 	Primero al ingresar primero al salir
+FIR 	Far Infra Red 	Infra rojo lejano
+FIR 	Finite Impulse Response 	Respuesta finita al impulso
+FITS 	Flexible Image Transmission System 	Traducción no aplicable
+FL 	Fiber Laser 	Laser de Fibra
+FL 	First Light 	Traducción no aplicable
+FLOGDM 	FLOOG Distributor Module 	Traducción no applicable
+FLOOG 	First Local Oscillator Offset Generator LRU 	Traducción no applicable
+FMEA 	Failure Mode Effects Analysis 	Análisis de los efectos a modo de fallos
+FMECA 	Failure Mode Effects and Criticality Analysis 	Análisis de los efectos a modo de fallos y de estado critico
+FO 	Fiber Optic 	Fibra óptica
+FOA 	Fiber optic amplifier (EDFA) 	Amplificador de fibra óptica (EDFA)
+FOAD 	Fibre Optics Amplifier and Multiplexer 	Traducción no applicable
+FOB 	Free On Board 	Libre a bordo (cuando el vendedor entrega el producto al comprador al cargarlo en el medio de transporte, es decir, que la propiedad (y el riesgo) pasan a ser del comprador una vez cargado el producto.
+FOD 	FOA and DWDM demux assembles 	Traducción no aplicable
+FODN 	Fiber Optics Distribution Network 	Traducción no aplicable
+FOM 	Fibre Optics Multiplexer 	Traducción no aplicable
+FOP 	Fibre optic patch panel 	Traducción no aplicable
+FOR 	Fibre optic receiver 	 
+FOS 	Fibre optic switch 	Receptor de fibra óptica
+FOTS 	Fibre-Optic Transmission System 	Sistema de transmisión de fibra óptica
+FOW 	Fibre optic wrapping 	Envoltura de la fibra optica
+FOWT 	Fibre On-Axis Wrap Test Stand 	 
+FOX 	Fibre optic transmitter 	Transmisor de fibra óptica
+FPDP 	Front Panel Data Port 	Puerto de información del panel frontal
+FPGA 	Field programmable gate array (an IC) 	Traducción no aplicable
+FPGA 	Field Programmable Gate Array 	Traducción no aplicable
+FR 	Formatter 	Traducción no aplicable
+FREQ 	Frequency (in hertz) 	Frecuencia (medido en Hertz)
+FSK 	Frequency Switched Keying 	Secuencia de dígitos para cambiar de frecuencia
+FSR 	Full System Restart 	Reinicio del Sistema
+FSS 	Facility Safety Surveys 	 
+FSV 	Fail-Safe Valve 	Válvula a prueba de fallos
+FTE 	Full Time Equivalent (staff-year) 	Equivalente a tiempo completo (año hábil)
+FTP 	FFT Processor 	Procesador FFT
+FTP 	File Transfer Protocol 	Protocolo de la transferencia de archivos
+FTS 	Fine Tuning Synthesizer 	Sintetizador de sintonización fina
+FTS RF 	Fine Tuning Synthesizer Radio Frequency 	Frecuencia radial del sintetizador de sintonización fina
+FTT 	  	 
+FW 	FireWire? 	Traducción no aplicable
+FWHM 	Full Width at Half Maximum 	N/A
+FX 	Correlator in which an FFT precedes the cross correlation 	Correlador en el cual un FTT antecede la correlación cruzada. 
+g 	Acceleration due to gravity, 9.80665 meter/second2 	Aceleración de la gravedad; 9,80665 mts./segundo2
+GaAs? 	Galium Arsenide 	Traducción no aplicable
+GAS? 	General Alma/Application Server 	Servidor general de ALMA/de Aplicaciones
+GbE? 	Gigabit Ethernet 	Traducción no aplicable
+Gbps 	Gigabits per second 	Gigabits por segundo
+GBT 	Green Bank Telescope 	Telescopio Green Bank
+GCC 	GNU Compiler Collection 	Traducción no aplicable
+GHz 	Giga Hertz (109) 	Traducción no aplicable
+GILDAS 	Grenoble Image and Line Data Analysis Software 	Traducción no aplicable
+GIMP 	GNU Image Manipulation Program 	Programa para el manejo de imágenes GNU
+GNS? 	Gelfand-Naimark-Segal 	Traducción no aplicable
+GNS 	General Network Services 	Servicios del sistema de redes en general
+GPS 	Global Positioning System 	Sistema de Posicionamiento Global
+GS 	General Services 	Servicios en general
+Gsps 	Giga samples per second 	Ejemplares giga por segundo
+GTB 	Gene's Tool Box 	Interfaz Gráfica de </span>La caja de herramientas de Gene
+GUI? 	Graphical User Interface (by java) 	Interfaz Gráfica de Usuario (por java) 
+H? 	Holiday (in case of leave report) 	
+
+Días feriados (en el caso de realizar el informe de permiso)
+H2CO 	Formaldehyde 	Formaldehído
+HAME 	High Altitude Medical Examination 	Examen Medico de Altura
+HC? 	Hernán Cortes 	AIV Quality Assurance Engineer
+HCL 	High Temperature Calibration Load 	 
+HCN 	Hydrogen cyanide 	Cianuro de hidrógeno
+HDD 	Hardware Definition Document 	Traducción no aplicable
+HDL 	Hardware Description Language 	Lenguaje para la Descripcion de Hardware
+HDPE 	High Electron Mobility Transistor 	Transistor de alta movilidad de electrones
+HEMT 	High Electron Mobility Transistor 	 
+HF 	High frequency 	Alta frecuencia
+HFET 	Hetero-structure Field Effect Transistor 	Transistor de efecto campo variado
+HIA 	Hertzberg Institute of Astrophysics 	Traducción no aplicable (nombre propio)
+HIFI 	Heterodyne for the Far-Infrared 	Heterodino para el infrarrojo lejano
+HLA 	High-level Analysis and design workspace 	
+
+Lugar de trabajo para un alto nivel de análisis y diseño
+HLC 	Hot Load Controller 	Controlador de Cargas Templadas
+HoD? 	Head of Division 	Gerente de Area
+HM 	Hydrogen Maser 	Traduccion no aplicable
+HMI 	Human Machine Interface 	Interfaz de la Maquina de Usuarios
+HMR 	Hydrogen Maser Rack 	 
+HPBW 	Half Primary Beam Width 	Ancho del rayo medio primario
+HPBW 	Half Power Beam Width 	Ancho del rayo a medio esfuerzo
+HPC 	Hexapod Controller 	Controlador Hexapod
+HPF? 	High Pass Filter 	Filtro High Pass
+HRL 	Hughes Research Laboratories 	Traducción no aplicable (nombre propio)
+HST 	Hubble Space Telescope 	Telescopio espacial Hubble
+HTML 	Hyper Text Mark-up Language 	Lenguaje de Etiquetas de Hipertexto
+HV 	High Voltage (U > 1000 VAC for the sake of safety; otherwise U > 35 kV) 	Alto voltaje (U > 1000 VAC por un tema de seguridad; en caso contrario U>35kV)
+HVAC 	Heating Ventilation and Air Conditioning 	Sistema de calefacción y del aire acondicionado
+HVSA 	High Voltage Surface Area 	Superficie de Area de Alto Voltaje
+HW 	Hardware 	Traducción no aplicable
+HWI 	Hardware interlock 	Traducción no aplicable
+Hz 	Hertz 	Hertz 
+I/F 	I 	Inspeccion, un metodo de verificar y / o aceptar
+I/F 	Interface 	Interfaz
+I/O 	Input/Output 	Entrada/Salida
+I/Q 	In-phase/quadrature modulator 	Traducción no aplicable
+IC 	Integrated electronic Circuit 	Circuito electrónico integrado
+ICCO? 	  	 
+ICCU 	Inside Compressor Control Unit 	Unidad de Compresión Interna
+ICD 	Interface Control Document 	Documento de ajuste del interfaz
+ICU 	Indoor Compressor Unit 	Unidad de compresión al interior
+ICT 	Integrated Computing Team 	Equipo Integrado de Computacion
+IDE 	Integrated Drive Electronics 	Dispositivo con Electrónica Integrada
+IDL? 	Interface Definition Language 	Traducción no aplicable
+IDR 	Internal Design Review (before PDR) 	Informe del diseño interno
+IEC 	International Electrotechnical Commission 	
+
+Traducción no aplicable (nombre propio)
+IEEE 	Institute of Electrical and Electronic Engineers 	Traducción no aplicable (nombre propio)
+IET 	Integrated Engineering Team 	Equipo Integrado de Ingenieria
+IEV 	International Electrotechnical Vocabulary 	Vocabulario Electrotécnica Internacional
+IF 	Intermediate Frequency. It's a frequency range to which received source signals are down-converted to ease certain processing, before they are down-converted to it's lowest frequency (Baseband) for final processing. In other words, IF is the frequency range resulting from the first down-conversion on a 2-stage down conversion system. In ALMA electronics, the signals delivered from FE to BE are considered IF, which are in the range of 4-12GHz. See Wikipedia:IF. 	Frecuencia intermedia
+IFBB 	IF Baseband Processor 	Procesador de banda base en redes IF
+IFDC 	IF downconverter 	Demodulador IF
+IFMC 	IF Monitor and Control 	Traducción no aplicable
+IFP 	Intermediate Frequency Processor 	Procesador de frecuencia intermedia
+IFP 	IF processor (Includes IFDC, IFBB, IFMC, and IFTP) 	Procesador IF (con el IFDC, IFBB, IFMC y IFTP incluídos)
+IFPT 	IF processor Test Stand 	 
+IFSM 	IF Switch Module 	Traducción no aplicable
+IFTP 	IF Total Power Processor 	Traducción no aplicable
+IG 	Instrument Group 	Grupo de Instrumentacion
+IGM 	Intergalactic Medium 	Medio intergaláctico
+IMG 	Infrastructure Maintenance Group 	Grupo de Mantencion de Infrastructura
+IMP 	Intergrated Multi-Protocol Processor 	Traducción no aplicable
+InP? 	Iridium Phosphide 	Fosfuro de iridio
+INR 	Interference to Noise Ratio 	Interferencia al ruido en proporción
+IO 	Input / Output 	Entrada/Salida
+I/O 	Interoperability 	Interoperabilidad
+IP 	International Protection 	Protección Internacional
+IPAC 	Infrared Processing and Analysis Center 	Centro del procesamiento y análisis de los rayos infrarrojos
+IPB 	Integrated Project Baseline Schedule 	 
+IPC 	PCB standards organization 	Organización de normas PCB
+IPF 	Integrated Project Schedule (the Forecast version to distinguish from the reference schedule) 	 
+IPM 	Interplanetary Medium 	Medio interplanetario
+IPO 	International Project Office 	Oficina de proyectos internacionales
+IPR 	Integrated Project Reference Schedule 	 
+IPT 	(ALMA) Integrated Product Team 	Traducción no aplicable
+I/Q 	Quadrature Amplitude 	Amplitud en cuadratura
+IR 	Infra Red 	Infrarrojo
+IR 	Investigation Report (short of PRTSIR) 	Informe de Investigacion
+IR0-4 	Integration Release (integration of subsystems) 	Traducción no aplicable
+IRAM 	Institut de Radio Astronomie Millimétrique 	Traducción no aplicable (nombre propio)
+IRQ? 	Interrupt Request 	Solicitud de detención
+ISA 	Industry Standard Architecture 	Traducción no aplicable (nombre propio)
+ISM 	Industrial, Scientific and Medical (Equipment) 	Equipo Industrial, científico y médico
+ISM 	International Staff Member 	Miembro internacional del personal
+ISO 	International Standardisation Organisation 	Organización internacional de la normalización
+ISR 	Interference to Signal Ratio 	Interferencia a la señal proporcionada
+IT 	Information Technology 	informática
+ITE 	Information Technology Equipment 	Equipamiento de informática
+ITS? 	Integration Testing and Support 	Asistencia y Testeo integrado
+ITU 	International Telecommunication Union 	Unión de las Telecomunicaciones Internacionales
+IVOA 	International Virtual Observatory Association 	Asociación Internacional de los Observatorios Virtuales 

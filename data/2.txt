@@ -453,16 +453,21 @@
 | EASC | ESO ALMA Support Center |
 | EASC | European ALMA Support Center |
 | EB | Execution Block |
+| ECS | Expedited Commissioning Schedule |
+| ECU | Electronic Control Unit |
 | EDFA | Erbium Doped Fiber Amplifier (optical amplifier) |
 | EDM | Electronic Documentation Management |
 | EDMS | Electronic Documentation Management System |
+| EE | Electronic Engineering |
 | EEC | European Economic Community |
 | EEDK | Endpoint Development Kit |
 | EEE | Electrical, Electronic, Electromechanical |
 | EEPROM | Electrically-Erasable Programmable Read Only Memory |
+| EEU | Encoder Evaluation Unit |
 | EFC | Electronic Frequency Control |
 | EFS | Encrypted File System |
 | EG | Electronics Group of ADE |
+| EGSE | Electrical Ground Support Equipment |
 | EIA | Electronic Industries Association / Alliance |
 | EIE | European Industrial Engineering |
 | EIRP | Effective Isotropic Radiated Power |
@@ -470,6 +475,7 @@
 | EL | ELevation |
 | ELF | Executable and Linking Format |
 | ELK | Elasticsearch, Logstash, and Kibana |
+| ELT | Extremely Large Telescopes |
 | ELV | Extra-Low Voltage |
 | EM | Electromagnetic |
 | EMC | Electromagnetic Compatibility |
@@ -479,32 +485,39 @@
 | EMS | Environmental Monitoring System |
 | EN | European Norm |
 | ENS | Endpoint Security |
+| EOC | Extension, Optimization, and Capabilities |
 | EPA | Environment Protection Agency |
 | EPC | Engineering, Procurement and Construction / Contract / Contractor |
 | EPL | Eclipse Public License |
 | EPO | Education and Public Outreach |
-| EPO | Education and Public Outreach |
 | EPO | European Project Office |
+| EPP | Enhanced Parallel Port |
 | ERP | Enterprise Resource Planning |
 | ESAC | European Science Advisory Committee |
 | ESD | Electrostatic Discharge |
+| ESG | Engineering Services Group |
+| ESN | Electronic Serial Number |
 | ESO | European Organisation for Astronomical Research in the Southern Hemisphere |
 | ESO | European Southern Observatory (European Team) |
 | ESO | European Southern Observatory |
 | ETW | Event Tracing for Windows |
 | EU | Europe |
 | EU | European Union |
-| EU | European |
 | EURELECTRIC | Union of the Electricity Industry, Brussels, Belgium |
 | EUT | Equipment Under Test |
 | EVALSO | Enabling Virtual Access to Latin-America Southern Observatories |
 | EVLA | Expanded Very Large Array |
+| EXE | Executive-based Staff |
 | EXEC | Executive Subsystem of ACS |
+| EYDFA | Erbium Ytterbium Doped Fiber Amplifier |
 | FA | Final Acceptance |
+| FAQ | Frequently Asked Questions |
+| FAR | Full Antenna Report |
 | FARn | Factory Acceptance Review \#n |
 | FAS | Final Acceptance on-Site (at the Specified Delivery Location) |
 | FAT | Factory Acceptance Test |
 | FAT | File Allocation Table |
+| FAT | First Article Test |
 | FBG | Fiber Bragg Gratings |
 | FBT | Function Based Teams |
 | FC | Finance Committee |
@@ -518,44 +531,62 @@
 | FEHV | Front End Handling Vehicle |
 | FEIC | Front End Integration Center |
 | FEIPT | Front End IPT |
+| FELO | Front End Local Oscillator |
 | FEM | Finite Element Model |
 | FEMC | Frond End Monitor and Control |
 | FEND | Front End Documents |
+| FEP | Fluorinated Ethylene Propylene |
+| FEPS | Front End Power Supply |
 | FESS | Front End Support Structure |
 | FESV | Front End Service Vehicle |
 | FET | Field Effect Transistor |
 | FETMS | Front End Test and Measurement System |
 | FFT | Fast Fourier Transform |
+| FG | Facilities Group |
 | FGUA | Fundación General de la Universidad de Alcala |
+| FIFO | First in First Out |
 | FIR | Far Infra-Red |
 | FIR | Finite Impulse Response |
 | FITS | Flexible Image Transmission System |
+| FL | Fiber Laser |
+| FL | First Light |
+| FLOGDM | FLOOG Distributor Module |
 | FLOOG | First Local Oscillator Offset Generator |
 | FMA | Fused Multiply Add operation |
 | FMEA | Failure Mode Effects Analyses |
+| FMECA | Failure Mode Effects and Criticality Analysis |
 | FO | Fiber Optic |
 | FOA | Fiber Optic Amplifier (EDFA) |
 | FOAD | Fiber Optic Amplifier/Demultiplexer |
+| FOB | Free On Board |
 | FOD | FOA and DWDM DeMux Assembles |
+| FODN | Fiber Optics Distribution Network |
+| FOM | Fibre Optics Multiplexer |
 | FOP | Fiber Optic Patch Panel |
 | FOR | Fiber Optic Receiver of DTS-R |
 | FOS | Fiber Optic Switch |
 | FOTS | Fiber-Optic Transmission System |
+| FOW | Fibre optic wrapping |
+| FOWT | Fibre On-Axis Wrap Test Stand |
 | FOX | Fiber Optic Transmitter |
 | FP6 | Framework Program No. 6 (European Commission) |
 | FPDP | Front Panel Data Port |
 | FPGA | Field Programmable Gate Array |
 | FQDN | Fully Qualified Domain Name |
+| FR | Formatter |
+| FREQ | Frequency (in hertz) |
 | FRM | Faraday Rotating Mirror |
 | FSK | Frequency Switched Keying |
 | FSO | File System Object |
 | FSR | Full System Restart |
+| FSS | Facility Safety Surveys |
 | FSV | Fail-Safe Valve |
-| FTE | Full Time Equivalent |
 | FTE | Full-Time Equivalent |
 | FTP | FFT Processor |
 | FTP | File Transfer Protocol |
 | FTS | Fine Tuning Synthesizer |
+| FW | FireWire |
+| FWHM | Full Width at Half Maximum |
 | FWP | FrontPage Web Package |
 | FX | A Correlator in which a FFT precedes the cross correlation |
 | GaAs | Gallium Arsenide |
@@ -565,36 +596,54 @@
 | Gbps | Gigabits per second |
 | GBT | Green Bank Telescope |
 | GC | Garbage Collector |
+| GCC | GNU Compiler Collection |
 | GDT | Global Descriptor Table |
 | GG | GoldenGate (Oracle) |
 | GHz | Giga Hertz |
 | GILDAS | Grenoble Image and Line Data Analysis Software |
+| GIMP | GNU Image Manipulation Program |
 | GMP | Gnu Multi-Precision (=Java BigInteger) |
 | GNS | General Network Server |
 | GNU | Gnu is Not Unix |
 | GPE | General Purpose Event |
 | GPS | Global Positioning System |
 | GPT | GUID Partition Table |
+| GS | General Services |
 | Gsps | Giga samples per second |
+| GTB | Gene's Tool Box |
 | GTO | Guaranteed Time Observations |
 | GUI | Graphical User Interface |
 | GUID | Globally Unique Identifiers |
+| H | Holiday (in case of leave report) |
+| H2CO | Formaldehyde |
 | HAL | Hardware Abstraction Layer |
+| HAME | High Altitude Medical Examination |
 | HAZMAT | Hazardous Materials |
 | HCI | Human-Computer Interaction |
+| HCL | High Temperature Calibration Load |
+| HCN | Hydrogen cyanide |
 | HDD | Hardware Definition Document; Hard Disk Drive |
+| HDL | Hardware Description Language |
 | HDPE | High Electron Mobility Transistor |
 | HE | HElium |
+| HEMT | High Electron Mobility Transistor |
 | HF | High frequency |
 | HFET | Heterostructure Field Effect Transition |
 | HIA | Hertzberg Institute of Astrophysics |
 | HIFI | Heterodyne for the Far-Infrared |
 | HIL | Hardware In the Loop |
 | HIPS | Host Intrusion Prevention System |
+| HLA | High-level Analysis and design workspace |
+| HLC | Hot Load Controller |
+| HM | Hydrogen Maser |
+| HMI | Human Machine Interface |
+| HMR | Hydrogen Maser Rack |
 | HoA | Heads of Administration |
+| HoD | Head of Division |
 | HPBW | Half Power Beam Width |
 | HPC | High Performance Computing (Big Data) |
 | HPDA | High Performance Data Analytics |
+| HPF | High Pass Filter |
 | HR | Human Resources |
 | HRAG | Human Resource Advisory Group |
 | HRL | Hughes Research Laboratories |
@@ -602,8 +651,10 @@
 | HTML | Hyper Text Mark-up Language |
 | HV | High Voltage (U \> 1000 VAC for the sake of safety;otherwise U \> 35 kV) |
 | HVAC | Heating, Ventilating and Air Conditioning |
+| HVSA | High Voltage Surface Area |
 | HW | Hardware |
 | HWI | Hardware interlock |
+| Hz | Hertz |
 | I | Test verification method is by Inspection |
 | I/F | Interface |
 | I/O | Input/Output |
@@ -612,18 +663,20 @@
 | IAT | Import Address Table |
 | IAU | International Astronomical Union |
 | IC | Integrated Circuit |
+| ICCU | Inside Compressor Control Unit |
 | ICD | Interface Common Definitions |
 | ICD | Interface Control Document |
 | ICT | Integrated Computing Team |
 | ICT | Integrated Computing Team |
 | ICU | Indoor Control Unit |
+| IDE | Integrated Drive Electronics |
+| IDL | Interface Definition Language |
 | IDR | Internal Design Review (before PDR) |
 | IDS | Intrusion Detection System |
 | IDT | Interrupt Descriptor Table |
 | IE | Internet Explorer |
 | IEC | International Electrotechnical Commission |
 | IEEE | Institute of Electrical and Electronic Engineers |
-| IET | Integrated Engineering Team |
 | IET | Integrated Engineering Team |
 | IEV | International Electrotechnical Vocabulary |
 | IF | Intermediate Frequency |
@@ -632,25 +685,29 @@
 | IFEO | Image File Execution Option |
 | IFMC | IF Monitor and Control |
 | IFP | IF processor (Includes IFDC, IFBB, IFMC, and IFTP) |
+| IFPT | IF processor Test Stand |
+| IFSM | IF Switch Module |
 | IFTP | IF Total Power Processor |
 | IG | Instrument Group of ADE |
 | IGM | Intergalactic Medium |
 | IIS | Internet Information Service |
 | IM | Instant Messaging |
 | IMG | IMaGe |
+| IMP | Intergrated Multi-Protocol Processor |
 | InP | Iridium Phosphide |
 | INR | Interference to Noise Ratio |
 | IO | Input and Output |
 | IP | International Protection Rating for Electrical Sealing |
 | IPAC | Infrared Processing and Analysis Center |
+| IPB | Integrated Project Baseline Schedule |
 | IPC | Inter Process Communication |
 | IPC | PCB standards organization |
+| IPF | Integrated Project Schedule (the Forecast version to distinguish from the reference schedule) |
 | IPM | Interplanetary Medium |
 | IPO | International Project Office |
 | IPR | Integrated Project Reference (Schedule) |
 | IPS | Integrated Project Schedule |
 | IPS | Intrusion Prevention System |
-| IPT | Integrated Product Team |
 | IPT | Integrated Product Team |
 | IR | Infra-Read |
 | IRAM | Institut de Radioastronomie Millimétrique |
@@ -667,7 +724,6 @@
 | ISO | International Organization for Standardization |
 | ISOpT | Integrated Science Operations Team |
 | ISR | Interference to Signal Ratio |
-| IT | Information Technology |
 | IT | Information Technology |
 | ITE | Information Technology Equipment |
 | ITS | Integration Testing and Support or Integration and Testing System |
