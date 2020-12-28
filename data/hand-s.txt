@@ -226,6 +226,6 @@ WVR 	Water Vapor Radiometer
 XML 	Extensible Markup Language 	 
 XMTR 	Transmitter 	Transmisor
 XSD 	XML Schema Definition 	 
-YIG 	Yttrium Iron Garnet 	 
+
 YP 	  	 
 YTO 	YIG Tuned Oscillator 	  
