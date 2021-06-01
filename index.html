@@ -1685,12 +1685,30 @@ function addAcronym(){
   alert('Button clicked')
 }
 
+function toogleAdd() {
+  let divAdd = document.getElementById('idRow2');
+  divAdd.style.display = divAdd.style.display == 'none' ? 'inline-block' : 'none';
+}
+
 window.onload = createTable;
 </script>
 
-<input onkeyup="filterAcronym() "style="display: inline-block" type="text" id="idInput"  placeholder="Search for acronyms (ignorecase)" title="Type in part of an acronym">
-<input onclick="addAcronym() "style="display: inline-block" type="button" id="idAdd" value="➕" title="Add a new acronym to the dataset">
+<div id="idDead">
+
+<div id=idRow1>
+<input onkeyup="filterAcronym()" style="display: inline-block" type="text" id="idInput"  placeholder="Search for acronyms (ignorecase)" title="Type in part of an acronym">
+<input onclick="toogleAdd()" style="display: inline-block" type="button" id="idNew" value="➕" title="Add a new acronym to the dataset">
 <div style="display: inline-block">Results: <span id="idNumber"></span></div>
+</div>
+
+<div id=idRow2 style="display: none">
+<input onkeyup="" style="display: inline-block" type="text" id="idNewAcronym" placeholder="ALMA" title="Type acronym initials">
+<input onkeyup="" style="display: inline-block" type="text" id="idNewDescription" placeholder="Atacama Large Milimeter Array" title="Type acronym description">
+<input onclick="addAcronym()" style="display: inline-block" type="button" id="idNewAdd" value="➕" title="Add a new acronym to the dataset">
+</div>
+
+</div>
+
 
 <table id="idTable">
  <!--
