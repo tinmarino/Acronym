@@ -193,80 +193,71 @@ function createTable(){
   document.getElementById("idNumber").innerHTML = num;
 }
 
+// Global
 // TODO put in thread
 function addAcronym(){
   console.log('Button clicked')
 
+  // Declare url
+  const site = 'https://confluence.alma.cl';
+  const pageid = '72169314'
+  const url = site + "/rest/api/content/" + pageid;
+  const r_array=/(var array = `)([^`]*)/
+
   // Get user entry
-  let acronym = document.getElementById('idNewAcronym').value
-  let description = document.getElementById('idNewDescription').value
+  const acronym = document.getElementById('idNewAcronym').value.trim()
+  const description = document.getElementById('idNewDescription').value.trim()
 
-  // TODO Sanityze entry
-
-  let s_new_line = '| ' + acronym.toUpperCase() + ' | ' + description + ' |'
-
-  // Pull current page -> s_array
-  // TODO hardcodedd
-  console.log('ACC:' + acronym + ',' + description)
-  let req = new XMLHttpRequest();
-  let site='https://confluence.alma.cl';
-  let pageid='72169314'
-  let url= site + "/rest/api/content/" + pageid + '?expand=body.storage,version';;
-  req.open("GET", url, false);  // false -> synchronous
-  //req.timeout = 4000;
-  console.log('Will send')
-  req.send();
-  console.log(req.responseText)
-  let o_page = JSON.parse(req.responseText)
-  let s_content = o_page.body.storage.value
-  let s_lines = s_content.match('var array = `([^`]*)`')[1]
-  let a_lines = s_lines.split('\n')
-  console.log("OLD:" + s_lines)
-
-  // Loop array to insert
-  let i_new = 0
-  // TODO Checkarray overflow
-  while (a_lines[i_new].toUpperCase() < s_new_line.toUpperCase()){
-    i_new++;
+  // Sanityze entry
+  let s_err = ''
+  s_err += acronym.length == 0 ? 'Cannot add an empty acronym\n' : ''
+  s_err += description.length == 0 ? 'Cannot add an empty description\n' : ''
+  s_err += (acronym + description).match('[|`]') ? 'Characters ` and | are note alowed\n' : ''
+  if (s_err.length != 0) {
+    alert(s_err)
+    return
   }
 
-  // Insert line
+  // Craft new data line
+  let s_new_line = '| ' + acronym.toUpperCase() + ' | ' + description + ' |'
+  console.log('Adding acronym:' + acronym + ',' + description)
+
+  // Pull current page
+  const req1 = new XMLHttpRequest();
+  req1.open("GET", url + '?expand=body.storage,version', false);  // false -> synchronous
+  req1.send();
+  let o_page = JSON.parse(req1.responseText)
+
+  // Get array of lines <- Json
+  let s_content = o_page.body.storage.value
+  let s_lines = s_content.match(r_array)[2]
+  let a_lines = s_lines.split('\n')
+  //console.log('OLD:' + s_lines)
+
+  // Insert line at good index
+  let i_new = 0
+  while ((i_new < a_lines.length)
+      && a_lines[i_new].toUpperCase() < s_new_line.toUpperCase()){
+    i_new++;
+  }
   a_lines.splice(i_new, 0, s_new_line)
-  
+
   // Restore Json
   s_lines = a_lines.join('\n')
-  let r_array = /var array = `([^`]*)/
-  s_content = s_content.replace(/var array = `([^`]*)/, 'var array = `'+ s_lines)
-  console.log('NEW:' + s_lines)
-  console.log('CONTENT:' + s_content)
-
-  // Get version
-  //let req3 = new XMLHttpRequest();
-  //let url3= site + "/rest/api/content/" + pageid + '/version';
-  //req3.open("GET", url3, false);  // false -> synchronous
-  //req3.send();
-  //console.log("VERSION:" + req3.responseText)
-  //let version = parseInt(req3.responseText) + 1
-
-  // Increment version
-  o_page.version.number++  // = { number: version }
+  o_page.body.storage.value = s_content.replace(r_array, '\$1' + s_lines)
+  o_page.version.number++
 
   // Push
-  o_page.body.storage.value = s_content
-  s_page = JSON.stringify(o_page)
-
   let req2 = new XMLHttpRequest();
   req2.open("PUT", url, false);  // false -> synchronous
   req2.setRequestHeader("Content-Type", "application/json; charset=utf-8");
   req2.setRequestHeader("Accept", "application/json; charset=utf-8");
-  //req2.setRequestHeader("Content-Length", s_page.length);
-  //req.timeout = 4000;
-  console.log('Will put' + s_page)
-  req2.send(s_page);
-  console.log(req2.responseText)
+  req2.send(JSON.stringify(o_page));
+
+  console.log('Reloading')
+  window.location.reload(true);
 
   console.log('Click end')
-  return req
 }
 
 function toogleAdd() {
