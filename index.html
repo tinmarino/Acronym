@@ -97,13 +97,17 @@ td {
   transition: all 300ms;
 }
 
+/* column 1 */
 td:first-child {
   box-shadow: inset 1px 0 0 #fff;
+  width: 15%;
 }
 
+/* column 1 */
 td:last-child {
   border-right: 1px solid #e8e8e8;
   box-shadow: inset -1px 0 0 #fff;
+  width: 80%;
 }
 
 tr {
@@ -170,18 +174,18 @@ function createTable(){
     // Create a ROw and 2 cells
     var row = document.createElement('tr');
     // With '|' as separator (like Markdown)
-    var lineArray = item.split('|')
+    var a_cell = item.split('|')
 
     // Cell1
     var cell1 = document.createElement('td');
     bold = document.createElement('strong');
     cell1.appendChild(bold);
-    bold.appendChild(document.createTextNode(lineArray[1]));
+    bold.appendChild(document.createTextNode(a_cell[1].trim()));
     row.appendChild(cell1);
 
     // Cell2
     var cell2 = document.createElement('td');
-    cell2.appendChild(document.createTextNode(lineArray[2]));
+    cell2.appendChild(document.createTextNode(a_cell[2].trim()));
     row.appendChild(cell2);
 
     // Add line to table
@@ -200,38 +204,38 @@ function addAcronym(){
 
   // Declare url
   const site = 'https://confluence.alma.cl';
-  const pageid = '72169314'
+  const pageid = '72169314';
   const url = site + "/rest/api/content/" + pageid;
-  const r_array=/(var array = `)([^`]*)/
+  const r_array=/(var array = `)([^`]*)/;
 
   // Get user entry
-  const acronym = document.getElementById('idNewAcronym').value.trim()
-  const description = document.getElementById('idNewDescription').value.trim()
+  const acronym = document.getElementById('idNewAcronym').value.trim();
+  const description = document.getElementById('idNewDescription').value.trim();
 
   // Sanityze entry
   let s_err = ''
-  s_err += acronym.length == 0 ? 'Cannot add an empty acronym\n' : ''
-  s_err += description.length == 0 ? 'Cannot add an empty description\n' : ''
-  s_err += (acronym + description).match('[|`]') ? 'Characters ` and | are note alowed\n' : ''
+  s_err += acronym.length == 0 ? 'Cannot add an empty acronym\n' : '';
+  s_err += description.length == 0 ? 'Cannot add an empty description\n' : '';
+  s_err += (acronym + description).match('[|`]') ? 'Characters ` and | are note alowed\n' : '';
   if (s_err.length != 0) {
-    alert(s_err)
-    return
+    alert(s_err);
+    return;
   }
 
   // Craft new data line
-  let s_new_line = '| ' + acronym.toUpperCase() + ' | ' + description + ' |'
-  console.log('Adding acronym:' + acronym + ',' + description)
+  let s_new_line = '| ' + acronym.toUpperCase() + ' | ' + description + ' |';
+  console.log('Adding acronym:' + acronym + ',' + description);
 
   // Pull current page
   const req1 = new XMLHttpRequest();
   req1.open("GET", url + '?expand=body.storage,version', false);  // false -> synchronous
   req1.send();
-  let o_page = JSON.parse(req1.responseText)
+  let o_page = JSON.parse(req1.responseText);
 
   // Get array of lines <- Json
-  let s_content = o_page.body.storage.value
-  let s_lines = s_content.match(r_array)[2]
-  let a_lines = s_lines.split('\n')
+  let s_content = o_page.body.storage.value;
+  let s_lines = s_content.match(r_array)[2];
+  let a_lines = s_lines.split('\n');
   //console.log('OLD:' + s_lines)
 
   // Insert line at good index
@@ -240,12 +244,13 @@ function addAcronym(){
       && a_lines[i_new].toUpperCase() < s_new_line.toUpperCase()){
     i_new++;
   }
-  a_lines.splice(i_new, 0, s_new_line)
+  a_lines.splice(i_new, 0, s_new_line);
 
   // Restore Json
-  s_lines = a_lines.join('\n')
-  o_page.body.storage.value = s_content.replace(r_array, '\$1' + s_lines)
-  o_page.version.number++
+  s_lines = a_lines.join('\n');
+  o_page.body.storage.value = s_content.replace(r_array, '\$1' + s_lines);
+  o_page.version.number++;
+  o_page.version.message = "Add: " + s_new_line;
 
   // Push
   let req2 = new XMLHttpRequest();
@@ -254,10 +259,10 @@ function addAcronym(){
   req2.setRequestHeader("Accept", "application/json; charset=utf-8");
   req2.send(JSON.stringify(o_page));
 
-  console.log('Reloading')
+  console.log('Reloading');
   window.location.reload(true);
 
-  console.log('Click end')
+  console.log('Click end');
 }
 
 function toogleAdd() {
@@ -268,24 +273,24 @@ function toogleAdd() {
 window.onload = createTable;
 </script>
 
-<div id="idDead">
+<div id="idDead" style="width:100%">
 
-<div id=idRow1>
-<input onkeyup="filterAcronym()" style="display: inline-block" type="text" id="idInput"  placeholder="Search for acronyms (ignorecase)" title="Type in part of an acronym">
-<input onclick="toogleAdd()" style="display: inline-block" type="button" id="idNew" value="➕" title="Add a new acronym to the dataset">
+<div id=idRow1 style="width:100%;">
+<input onkeyup="filterAcronym()" style="display:inline-block" type="text" id="idInput"  placeholder="Search for acronyms (ignorecase)" title="Type in part of an acronym">
 <div style="display: inline-block">Results: <span id="idNumber"></span></div>
+<input onclick="toogleAdd()" style="display: inline-block" type="button" id="idNew" value="➕" title="Add a new acronym to the dataset">
 </div>
 
-<div id=idRow2 style="display: none">
-<input onkeyup="" style="display: inline-block" type="text" id="idNewAcronym" placeholder="ALMA" title="Type acronym initials">
-<input onkeyup="" style="display: inline-block" type="text" id="idNewDescription" placeholder="Atacama Large Milimeter Array" title="Type acronym description">
-<input onclick="addAcronym()" style="display: inline-block" type="button" id="idNewAdd" value="➕" title="Add a new acronym to the dataset">
+<div id=idRow2 style="display:none; width:100%;">
+<input onkeyup="" style="display:inline-block; width:15%" type="text" id="idNewAcronym" placeholder="ALMA" title="Type acronym initials">
+<input onkeyup="" style="display:inline-block; width:60%;" type="text" id="idNewDescription" placeholder="Atacama Large Milimeter Array" title="Type acronym description">
+<input onclick="addAcronym()" style="display:inline-block; width:15%;" type="button" id="idNewAdd" value="Add now" title="Add a new acronym to the dataset">
 </div>
 
 </div>
 
 
-<table id="idTable">
+<table id="idTable" style="width:100%;">
  <!--
  <tr class="header">
  <th style="width:10%;">Acronym</th>
