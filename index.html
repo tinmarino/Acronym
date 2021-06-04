@@ -141,7 +141,7 @@ function filterAcronym(){
   var input, filter, table, tr, td, cell, i, j;
   // Get in
   input = document.getElementById("idInput");
-  filter = input.value.toUpperCase();
+  filter = input.value.toUpperCase().trim();
 
   // Only display match
   table = document.getElementById("idTable");
@@ -208,7 +208,7 @@ function getPage(){
   req.open("GET", getUrl() + '?expand=body.storage,version', false);  // false -> synchronous
   req.send();
   return JSON.parse(req.responseText);
-} 
+}
 
 function setPage(o_page){
   const req = new XMLHttpRequest();
