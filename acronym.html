@@ -1790,6 +1790,11 @@ tr:last-of-type td:last-child {
 }
 </style>
 
+
+<!---------------------------------------------
+        START JAVASCRIPT
+---------------------------------------------->
+
 <script type="text/javascript">
 function filterAcronym(){
   // Callback: when typing in input field
@@ -2072,7 +2077,7 @@ window.onload = createTable;
 <input onclick="toogleAdd()" style="display: inline-block" type="button" id="idNew" value="➕" title="Add a new acronym to the dataset">
 </div>
 
-<div id=idRow2 style="display:none; width:100%; padding:8px; vertical-align:top;">
+<div id=idRow2 style="display:none; width:100%; vertical-align:top;">
 <input onkeyup="" style="display:inline-block; width:15%" type="text" id="idNewAcronym" placeholder="ALMA" title="Type acronym initials">
 <textarea style="display:inline-block; width:60%;" rows="1" oninput="auto_height(this)" type="text" id="idNewDescription" placeholder="Atacama Large Milimeter Array" title="Type acronym description"></textarea>
 <input onclick="addAcronym()" style="display:inline-block; width:15%;" type="button" id="idNewAdd" value="Add now" title="Add a new acronym to the dataset">
