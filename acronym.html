@@ -1798,7 +1798,7 @@ function filterAcronym(){
 
   // Get in
   input = document.getElementById("idFilter");
-  filter = input.value.toUpperCase().trim();
+  filter = input.value.trim().toUpperCase();
 
   // Set URL search parameter
   const urlParams = new URLSearchParams(window.location.search);
@@ -1818,11 +1818,23 @@ function filterAcronym(){
     // Hide the row initially.
     tr[i].style.display = "none";
 
+    // Get line
     td = tr[i].getElementsByTagName("td");
+
     // Retrieve only first column (Acronym)
     cell = tr[i].getElementsByTagName("td")[0];
-    // Display it if match (indexOf)
-    if (cell && (cell.innerHTML.toUpperCase().indexOf(filter) > -1)) {
+
+    // Uppercase current acronym
+    var current_upper = "";
+    if (cell){
+      current_upper = cell.textContent.toUpperCase();
+    }
+
+    // Check if match
+    var bol = Boolean();
+
+    // Display only match
+    if (current_upper.startsWith(filter)) {
       tr[i].style.display = "";
       num += 1;
     }
@@ -1843,7 +1855,7 @@ function createTable(){
   var num = 0;
   // For each line
   arrayOfLines.forEach(function (item, index) {
-    // Create a ROw and 2 cells
+    // Create a Row and 2 cells
     var row = document.createElement('tr');
     // With '|' as separator (like Markdown)
     var a_cell = item.split('|')
@@ -1914,7 +1926,7 @@ function addAcronym(){
   const b_is_in_confluence = (typeof AJS != 'undefined')
 
   // Get user entry
-  const acronym = document.getElementById('idNewAcronym').value.trim();
+  var acronym = document.getElementById('idNewAcronym').value.trim();
   let description = document.getElementById('idNewDescription').value.trim();
 
   // Sanityze entry
@@ -1928,6 +1940,10 @@ function addAcronym(){
   }
   description = description.replaceAll('\\', '\\\\');
   description = description.replace(/(?:\r\n|\r|\n)/g, '<br>');
+  // Convert to upper case
+  if (isLowerCase(acronym)){
+    acronym = acronym.toUpperCase();
+  }
 
   // Craft new data line
   const s_new_line = '| ' + acronym.toUpperCase() + ' | ' + description + ' |';
@@ -1975,7 +1991,7 @@ function toogleAdd() {
   var input_new = document.getElementById('idNewAcronym');
   if (!input_new.value.trim()){
     const s_filter = document.getElementById('idFilter').value.trim();
-    input_new.value = s_filter;
+    input_new.value = s_filter; 
   }
 }
 
@@ -2035,9 +2051,14 @@ function markdown(src) {
   return src.trim();
 };
 
+function isLowerCase(str) {
+  // Helper: Check if string is lower case
+  return str.toLowerCase() == str;
+}
+
 function auto_height(elem) {
-    elem.style.height = "1px";
-    elem.style.height = (elem.scrollHeight)+"px";
+  elem.style.height = "1px";
+  elem.style.height = (elem.scrollHeight)+"px";
 }
 
 window.onload = createTable;
