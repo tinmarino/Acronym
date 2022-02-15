@@ -1927,6 +1927,7 @@ function addAcronym(){
     return;
   }
   description = description.replaceAll('\\', '\\\\');
+  description = description.replace(/(?:\r\n|\r|\n)/g, '<br>');
 
   // Craft new data line
   const s_new_line = '| ' + acronym.toUpperCase() + ' | ' + description + ' |';
@@ -1974,7 +1975,7 @@ function toogleAdd() {
   var input_new = document.getElementById('idNewAcronym');
   if (!input_new.value.trim()){
     const s_filter = document.getElementById('idFilter').value.trim();
-    input_new.value = s_filter; 
+    input_new.value = s_filter;
   }
 }
 
