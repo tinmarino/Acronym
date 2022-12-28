@@ -105,8 +105,10 @@ var array = `
 | 2GC | Second Generation Correlator |
 | 2SB | Dual Side-Band Separating |
 | 7m-Array | 7m antennas of the ACA |
-| A | Test verification method by Analysis |
+| __pa | [Physical Adress](https://elixir.bootlin.com/linux/latest/C/ident/__pa).<br/>Macro in the Linux kernel to convert a linear adress to a physical |
+| __va | [Virtual Adress](https://elixir.bootlin.com/linux/latest/C/ident/__va).<br/>Macro in the Linux kernel to convert physical adress to a virtual one adding it the PAGE_OFFSET the kernel has been compiled with. See __pa for the opposite operation. |
 | A | [Ampere](https://en.wikipedia.org/wiki/Ampere). The base unit of electric current in the International System of Units (SI) |
+| A | Test verification method by Analysis |
 | A/D | Analog to Digital Conversion |
 | AA | Antenna Article |
 | AAB | Antenna Assembly Building |continue forEach | AAER | ALMA Annual External Review |
@@ -127,8 +129,8 @@ var array = `
 | ACF | [AutoCorrelation](https://en.wikipedia.org/wiki/Autocorrelation) Function |
 | ACHS | Asociación Chilena de Seguridad |
 | ACK | Acknowledge |
-| ACL | Ambient Temperature Calibration Load |
 | ACL | [Access Control List](https://en.wikipedia.org/wiki/Access-control_list). A list of permissions associated with a system resource (object) |
+| ACL | Ambient Temperature Calibration Load |
 | ACPI | [Advanced Configuration and Power Interface](https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface).<br>Replacement for APM that has the advantage of allowing O/S control of power management facilities as well exporting the set of hardware currently present on the system |
 | ACR | Antenna Control Rack |
 | ACRV | Acceptance Review |
@@ -156,16 +158,16 @@ var array = `
 | ADSL | Asymmetric Digital Subscriber Line. A type of digital subscriber line (DSL) technology, a data communications technology that enables faster data transmission over copper telephone lines than a conventional voiceband modem can provide. Faster download than upload |
 | ADX | Applicable Document No. X |
 | ADxx | Applicable Document No. xx |
-| AE | Array Element |
 | AE | [Authenticated encryption](https://en.wikipedia.org/wiki/Authenticated_encryption).<br/>Form of encryption which simultaneously assure the confidentiality and authenticity of data |
+| AE | Array Element |
 | AEAD | [Authenticated Encryption with Associated Data](https://en.wikipedia.org/wiki/Authenticated_encryption).<br/>AEAD is a variant of AE that allows a recipient to check the integrity of both the encrypted and unencrypted information in a message |
 | AEC | ALCATEL EIE Consortium |
 | AEC | ALMA Executive Committee |
 | AEDM | [ALMA Electronic Documentation Management](https://confluence.alma.cl/display/ADEM) |
 | AEG | Antenna Evaluation Group |
 | AEM | Alcatel Aenia Space + European Industrial Engineering + MT Aerospace. Consortium building the European antennas |
-| AES | Advanced Encryption Standard. A specification for the encryption of electronic data |
 | AES | [ARC Environment Standardisation](https://confluence.alma.cl/display/OFFLINE/Offline+Infrastructure) |
+| AES | Advanced Encryption Standard. A specification for the encryption of electronic data |
 | AFA | ALMA Front-end Archive |
 | AFAIF | ALMA Front-end Archive Interface |
 | AFAIK | As Far as I Know |
@@ -261,14 +263,14 @@ var array = `
 | ARCH | Archive Process (archives redo log files if ARCHIVELOG is active) |
 | ARL | Aeronautical Research Laboratory |
 | ARO | After Receipt of Order |
-| ARP | ALMA Review Panel |
 | ARP | Address Resolution Protocol. A communication protocol used for discovering the link layer address, such as a MAC address, associated with a given internet layer address, typically an IPv4 address |
+| ARP | ALMA Review Panel |
 | ARRL | American Radio Relay League |
 | ART | [Automatic Regression Test](https://ictwiki.alma.cl/twiki/bin/view/ZLegacy/JAO/DesignAndRefactoringART) |
 | ARTM | Array Real Time Machine |
 | ARTTA-4 | Advanced Radio Telescope Test Array-4 antenna |
-| AS | Academia Sinica (Taiwan) |
 | AS | [Autonomous System](https://en.wikipedia.org/wiki/Autonomous_system_%28Internet%29) |
+| AS | Academia Sinica (Taiwan) |
 | ASA | ALMA Science Archive |
 | ASAC | ALMA Science Advisory Committee |
 | ASAIF | ALMA Science Archive Interface |
@@ -297,7 +299,6 @@ var array = `
 | ATCA | Australian Telescope Compact Array |
 | ATE | ALMA Testing Environment |
 | ATED | ALMA Tucson Electronics Division |
-| ATF | [Alma Test Facility](https://wikis.alma.cl/bin/view/AIV/CategoryATF) |
 | ATF CRD | Antenna Test Facility Central reference distributor |
 | ATF CRG | Antenna Test Facility Central reference generator |
 | ATF LORR | Antenna Test Facility Local Oscillator reference receiver |
@@ -306,6 +307,7 @@ var array = `
 | ATF PS-DC | Antenna Test Facility DC-DC |
 | ATF TP-IF | Antenna Test Facility Total Power IF Module |
 | ATF TP-MC | Antenna Test Facility Total Power Monitor & Control |
+| ATF | [Alma Test Facility](https://wikis.alma.cl/bin/view/AIV/CategoryATF) |
 | ATF | Antenna Test Facility |
 | ATM | Asynchronous Transfer Mode. A telecommunication standard for digital transmission of multiple types of traffic in one network without the use of separate overlay networks |
 | ATM | Atmospheric Transmission at Microwaves |
@@ -334,8 +336,8 @@ var array = `
 | BCR | Budget Change Request |
 | BDC | BulkDataCache.<br>Component responsible for storing [BulkData](https://confluence.alma.cl/display/ICTACS/ACS+Workshop+-+BulkData) data so that interested clients can accesss it without the need to create a new message consumer.<br>Implemented in [ALMASW/CONTROL/ObservingModes/Array/BulkDataCache](https://bitbucket.sco.alma.cl/projects/ALMA/repos/almasw/browse/CONTROL/ObservingModes/Array/BulkDataCache).<br>See [ICT-7389](https://ictjira.alma.cl/browse/ICT-7389) for discussions on implementation |
 | BDF | Binary Data Format |
-| BE | Backend Electronics IPT |
 | BE | [Back End](https://wikis.alma.cl/bin/view/AIV/Backend) |
+| BE | Backend Electronics IPT |
 | BEIPT | Back End IPT |
 | BEND | Back End Document |
 | BER | Bit Error Rate |
@@ -360,8 +362,8 @@ var array = `
 | BW | Bandwidth |
 | BWFN | Beam Width between First Nulls |
 | BWSW | Bandwidth Switching |
-| C | Commissioning |
 | c |  Celerity. [Speed of light](https://en.wikipedia.org/wiki/Speed_of_light). Universal physical constant important in many areas of physics. Its exact value is defined as 299792458 metres per second |
+| C | Commissioning |
 | C&C | Command & Control |
 | C&P | Copy and Paste |
 | CA | Cavendish Astrophysics |
@@ -407,8 +409,8 @@ var array = `
 | CDP | Correlator Data Processor |
 | CDPC | Correlator Data Processing Computer |
 | CDPM | Correlator Date Processing Master Computer |
-| CDR | Critical Design Review |
 | CDR | [Common Data Representation](https://en.wikipedia.org/wiki/Common_Data_Representation).<br/>Represent structured or primitive data types passed as arguments or results during remote invocations on Common Object Request Broker Architecture (CORBA) distributed objects. |
+| CDR | Critical Design Review |
 | CE | Conformite Europeenne (European standard equivalent to FCC Part B) |
 | CEB | Central Electronics Building |
 | CEE | Commission internationale de réglementation en vue de l'approbation de l'équipment électrique |
@@ -472,9 +474,9 @@ var array = `
 | CMxx | MELCO 7-m antenna No.xx |
 | CNRC | Conseil National de Recherches Canada |
 | CO | Carbon Monoxide |
-| COB | COrrelator Baseline. Name prefix of the BLC computers |
-| COB | Component Object Broker |
 | COB | [Cosmic Optical Background](https://www.nature.com/articles/ncomms15003). The summed emission from all sources outside of our Milky Way galaxy emitted at wavelengths roughly corresponding to those visible with the human eye |
+| COB | Component Object Broker |
+| COB | COrrelator Baseline. Name prefix of the BLC computers |
 | COC | Code of Conduct |
 | COFA | Center of Array |
 | COFF | Common Object File Format |
@@ -503,9 +505,9 @@ var array = `
 | CR2 | [Control Register](https://en.m.wikipedia.org/wiki/Control_register) 2.<br/>Contains a value called Page Fault Linear Address (PFLA). When a page fault occurs, the address the program attempted to access is stored in the CR2 register. |
 | CR3 | [Control Register](https://en.m.wikipedia.org/wiki/Control_register) 3.<br/>Register storing the index of the virtual to physical memory conversion.<br/>It contains the page directory (10 bits), the page table (10 bits) and the PCID, Process Context Identifier (12 bits). |
 | CR4 | [Control Register](https://en.m.wikipedia.org/wiki/Control_register) 4.<br/>Register containing many bit flags used in protected mode to control operations such as virtual-8086 support, enabling I/O breakpoints, page size extension and machine-check exceptions. |
+| CRC | [Cyclic Redundancy Check](https://en.wikipedia.org/wiki/Cyclic_redundancy_check) |
 | CRC | Chilean Running Cost |
 | CRC | Cost Review Committee |
-| CRC | [Cyclic Redundancy Check](https://en.wikipedia.org/wiki/Cyclic_redundancy_check) |
 | CRD | Central Reference Distributor |
 | CRE | Change Request |
 | CRE | Control Room Extension |
@@ -514,15 +516,15 @@ var array = `
 | CRPS | Central Reference Power Supply |
 | CRS | Central Reference System |
 | CRT | Cathode Ray Tube |
-| CS | Contact Scientist |
 | CS | [Chip Select](https://en.wikipedia.org/wiki/Chip_select) (or Slave Select).<br/>The name of a control line in digital electronics used to select one (or a set) of integrated circuits (commonly called "chips") out of several connected to the same computer bus |
 | CS | [Code Segment](https://en.m.wikipedia.org/wiki/Code_segment).<br/>A 16-bit register containing address of 64 KB segment with processor instructions.<br/>The processor uses CS segment for all accesses to instructions referenced by instruction pointer (IP) register.<br/>CS register cannot be changed directly.<br/>The CS register is automatically updated during far jump, far call and far return instructions. |
+| CS | Contact Scientist |
 | CSA | Canadian Standards Association |
 | CSCG | Communications System Control Group |
 | CSG | [Calibration Script Generator](https://confluence.alma.cl/display/MDR/QA2+calibration+script+generator).<br/>The ALMA QA2 Calibration Script Generator almaqa2csg.py (CSG) for speeding up and standardizing the generation of scripts used for manual calibration of ALMA data. |
 | CSG | [Centimetre–Gram–Second system of units](https://en.wikipedia.org/wiki/Centimetre%E2%80%93gram%E2%80%93second_system_of_units). A variant of the metric system based on the centimetre as the unit of length, the gram as the unit of mass, and the second as the unit of time |
-| CSI | Customer Support Identifier |
 | CSI | [Control Sequence Introducer](https://en.wikipedia.org/wiki/ANSI_escape_code).<br/>A control character (ANSI escape code)<br/>\\e\[ = 0x1b + 0x5B or 0x9B (8 bits). See [ctlseqs](https://invisible-island.net/xterm/ctlseqs/ctlseqs.html#h2-C1-_8-Bit_-Control-Characters) |
+| CSI | Customer Support Identifier |
 | CSIC | Consejo Superior de Investigaciones Científicas |
 | CSM | Contract Services Staff |
 | CSMA/CD | Carrier Sense Multiple Access with Collision Detection |
@@ -559,8 +561,8 @@ var array = `
 | DAR | Document Approval Request |
 | DAST | [Dynamic Application Security Testing](https://en.wikipedia.org/wiki/Dynamic_application_security_testing) |
 | DASU | Distributed Alarm System Unit |
-| DB | DataBase |
 | dB | [DeciBel](https://en.wikipedia.org/wiki/Decibel). A relative unit of measurement equal to one tenth of a bel (B). It expresses the ratio of two values of a power or root-power quantity on a logarithmic scale. Two signals whose levels differ by one decibel have a power ratio of 10<sup>1/10</sup> (approximately 1.26) |
+| DB | DataBase |
 | dB9 | D-Sub 9-pin Connector |
 | DBA | DataBase Advicor |
 | dBc | Decibels Referenced to the Carrier |
@@ -583,8 +585,8 @@ var array = `
 | DDL | Deliverable Document List |
 | DDP | Design and Development Phase |
 | DDP | Detailed Design Phase |
-| DDS | Data Distribution System |
 | DDS | [Direct Digital Synthesizer](https://en.wikipedia.org/wiki/Direct_digital_synthesis). A method employed by frequency synthesizers used for creating arbitrary waveforms from a single, fixed-frequency reference clock |
+| DDS | Data Distribution System |
 | DDT | Director\'s Discretionary Time |
 | DEC | Declination Value |
 | DeMux | De-Multiplexer |
@@ -645,8 +647,8 @@ var array = `
 | DRX | Data Receiver. Module of the DTS |
 | DRXA | Data Receiver Article |
 | DRXBBpr0 | Data Receiver BaseBand pair 0 |
-| DS | Domain Specialist |
 | DS | [Data Segment](https://en.m.wikipedia.org/wiki/Data_segment).<br/>In computing, a 16 bit register like the CS but for data.<br/>Initialized static variables, that is, global variables and static local variables. |
+| DS | Domain Specialist |
 | DSA | Digitizer Statistical Analyzer |
 | DSA | Dynamic Scheduling Algorithm |
 | DSAA | Division of Science and Academic Affairs |
@@ -662,9 +664,9 @@ var array = `
 | DTE | Digitizer Test Equipment |
 | DTR | Data Terminal Ready. Pin4 of DB9 serial connector |
 | DTR | Digital Deformatter Receiver in DTS-R |
-| DTS | Department of Technical Services |
 | DTS | [Data Transmission System](https://wikis.alma.cl/bin/view/AIV/DTS) |
 | DTS | [Digital Transmission System](https://wikis.alma.cl/bin/view/AIV/DTS). A set of electronic equipment within Back End in charge of digitally delivering the baseband signal from an antenna to the correlator |
+| DTS | Department of Technical Services |
 | DTS-R | DTS Receiver in ACA Correlator |
 | DTS-Rx | Data Transmission System Receiver |
 | DTS-T | DTS Transmitter |
@@ -851,13 +853,13 @@ var array = `
 | FT | Fourier Transform |
 | FTA | Fault Tree Analysis |
 | FTE | Full-Time Equivalent |
-| FTP | FFT Processor |
 | FTP | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol) |
+| FTP | FFT Processor |
 | FTS | Fine Tuning Synthesizer |
 | FW | FireWire |
 | FWBN | Full Width Between the Nulls |
-| FWHM | Full Width Half Maximum |
 | FWHM | Full Width at Half Maximum |
+| FWHM | Full Width Half Maximum |
 | FWHP | Full Width to Half Power |
 | FWIW | For What It’s Worth.<br/>Politely express that someone should only consider the message as an information, opinion, idea, fact |
 | FWP | FrontPage Web Package |
@@ -904,6 +906,7 @@ var array = `
 | GUID | Globally Unique Identifiers |
 | H | Holiday (in case of leave report) |
 | H2CO | Formaldehyde |
+| H_ | Handle. Pipeline common task prefix.<br/>Pipeline tasks used in the calibration and<br/>imaging of both interferometry and single-<br/>dish datasets. |
 | HA | Hour Angle |
 | HAL | Hardware Abstraction Layer |
 | HAME | High Altitude Medical Examination |
@@ -919,9 +922,9 @@ var array = `
 | HF | High frequency |
 | HFET | Heterostructure Field Effect Transition |
 | HIA | Hertzberg Institute of Astrophysics |
+| HIF_ | Handle InterFerometric. Pipeline Interferometry<br/>common tasks prefix.<br/>Prefix for pipeline tasks used in the calibration and imaging of both ALMA and EVLA interferometry datasets.<br/>See [Pipeline reference manual](https://almascience.nrao.edu/documents-and-tools/alma-science-pipeline-reference-manual-casa-4.7.0) |
 | HIFA_ | Handle interFerometrix for Alma. Pipeline ALMA specific task prefix.<br/>Pipeline tasks used in the calibration and<br/>imaging of ALMA interferometry datasets<br/>only.<br/>See [Pipeline reference manual](https://almascience.nrao.edu/documents-and-tools/alma-science-pipeline-reference-manual-casa-4.7.0). |
 | HIFI | Heterodyne for the Far-Infrared |
-| HIF_ | Handle InterFerometric. Pipeline Interferometry<br/>common tasks prefix.<br/>Prefix for pipeline tasks used in the calibration and imaging of both ALMA and EVLA interferometry datasets.<br/>See [Pipeline reference manual](https://almascience.nrao.edu/documents-and-tools/alma-science-pipeline-reference-manual-casa-4.7.0) |
 | HIL | Hardware In the Loop |
 | HILS | Hardware In the Loop Simulation: See wiki: https://en.wikipedia.org/wiki/Hardware-in-the-loop_simulation |
 | HILSE | Hardware-in-the-loop (HIL) Simulation Environment. See https://confluence.alma.cl/display/ESG/HILSE+CDMR+action+items+review |
@@ -942,8 +945,8 @@ var array = `
 | HPF | High Pass Filter |
 | HQ | HeadQuarter |
 | HQ | High Quality |
-| HR | Human Resources |
 | HR | [Horizontal Rule](https://www.w3schools.com/tags/tag_hr.asp).<br/>HTML tag used as a thematic break, i.e. to delimit sections.<br/>Usually represented as a horizontal line. |
+| HR | Human Resources |
 | HRAG | Human Resource Advisory Group |
 | HRL | Hughes Research Laboratories |
 | HSD_ | Handle Single Dish. Pipeline single dish task prefix.<br/>Pipeline tasks used in the calibration and<br/>imaging of single-dish datasets only.<br/>See [Pipeline reference manual](https://almascience.nrao.edu/documents-and-tools/alma-science-pipeline-reference-manual-casa-4.7.0). |
@@ -960,7 +963,6 @@ var array = `
 | HWI | Hardware interlock |
 | HWTS | HardWare TimeStamp |
 | Hz | Hertz |
-| H_ | Handle. Pipeline common task prefix.<br/>Pipeline tasks used in the calibration and<br/>imaging of both interferometry and single-<br/>dish datasets. |
 | I | Test verification method is by Inspection |
 | I/F | Interface |
 | I/O | Input/Output |
@@ -1068,8 +1070,8 @@ var array = `
 | JATG | Joint Antenna Testing Group |
 | JBO | Jodrell Bank Observatory |
 | JCMT | James Clerke Maxwell Telescope |
-| JD | Jury Duty (in case of leave report) |
 | JD | [Job Description](https://en.wikipedia.org/wiki/Job_description).<br/>A written narrative that describes the general tasks, or other related duties, and responsibilities of a position. |
+| JD | Jury Duty (in case of leave report) |
 | JDBC | Java DataBase Connectivity |
 | JIRA | Software tool for issues and bugs tracking, a proper name |
 | JK | Just Kidding |
@@ -1109,8 +1111,8 @@ var array = `
 | LDAP | Lightweight Directory Access Protocol |
 | LDR | Loader |
 | LDT | [Local Descriptor Table](https://www.google.com/url?q=https://wiki.osdev.org/LDT&sa=U&ved=2ahUKEwiE0frsgrn2AhUrK7kGHdsDA7IQFnoECAsQAg&usg=AOvVaw0rcYhqMdweZjc6xg2ouody)<br/>A Local Descriptor Table (LDT) is like the Global Descriptor Table in that it holds Segment descriptors for access to memory. The difference is that every Task/thread can have its own LDT, and the OS can change the LDT Register (LDTR) on every Task switch.<br/>That means that every program can have its own list of memory Segment descriptors, and keep them private from other programs |
-| LE | Lead Engineer |
 | LE | [Luminous Efficacy](https://en.wikipedia.org/wiki/Luminous_efficacy). The ratio of luminous flux to power. A measure of how well a light source produces visible light.  |
+| LE | Lead Engineer |
 | LEAF | Large Effective Area (optical) Fiber |
 | LED | Light Emitting Diode |
 | LEMP | Lightning Electromagnetic Pulse |
@@ -1163,8 +1165,8 @@ var array = `
 | LSB | Least Significant Bit |
 | LSB | Lower Side Band |
 | LSDV | Low Voltage Differential Signaling |
-| LSM | Local Staff Member |
 | LSM | [Linux Security Module](https://en.wikipedia.org/wiki/Linux_Security_Modules).<br>A security framework for providing different security levels. |
+| LSM | Local Staff Member |
 | LSR | [Local Standard of Rest](https://en.wikipedia.org/wiki/Local_standard_of_rest).<br/>A rest that follows the mean motion of material in the Milky Way in the neighborhood of the Sun |
 | LSRD | [Local Standard of Rest (J2000) as the Dynamical definition (IAU, [9,12,7] km/s in galactic coordinates)](https://casa.nrao.edu/docs/TaskRef/tclean-task.html).<br/>Outframe (coordinate) value in casa tclean command. |
 | LSRK | Local Standard of Rest (J2000) as a Kinematical (radio) definition.<br/>Outframe (coordinate) value in casa tclean command. |
@@ -1190,8 +1192,8 @@ var array = `
 | m | [Metre](https://en.wikipedia.org/wiki/Metre). the base unit of length in the International System of Units (SI). Currently defined as the length of the path travelled by light in a vacuum in 1/299 792 458 of a second |
 | M&C | Monitoring and Control |
 | M/C | Monitor and Control |
-| MAC | Multiplication and Cumulating |
 | MAC | [Medium Access Control](https://en.wikipedia.org/wiki/Medium_access_control). Sublayer that controls the hardware responsible for interaction with the (wired, optical or wireless) transmission medium |
+| MAC | Multiplication and Cumulating |
 | MACI | Management and Control Interface |
 | MAIT | Manufacturing, Assembly, Integration and Test |
 | MAO | Millimeter-wave Adaptive Optics |
@@ -1292,8 +1294,8 @@ var array = `
 | MVA | Mega Volt-Ampere |
 | MZM | Mach Zender Modulator |
 | N/A | Not Available / Applicable |
-| NA | North America |
 | NA | [Number of Avogadro](https://en.wikipedia.org/wiki/Avogadro_constant). The proportionality factor that relates the number of constituent particles (usually molecules, atoms or ions) in a sample with the amount of substance in that sample. Its SI unit is the reciprocal mole, and it is defined exactly as N<sub>A</sub> = 6.02214076×10<sup>23</sup> mol<sup>−1</sup> |
+| NA | North America |
 | NAAPO | North American ALMA Project Office |
 | NAASC | North American ALMA Science Center |
 | NAASC | North American ALMA Science Center |
@@ -1417,8 +1419,8 @@ var array = `
 | OWA | [Outlook Web Access](https://en.wikipedia.org/wiki/Outlook_on_the_web).<br/>Microsoft remote email client accessible with HTTP.<br/>Formerly renamed "Outlook on the web" but the acronym remained in https://email.alma.cl/owa. |
 | OWASP | Open Web Application Security Project |
 | OWB | One Wire Bus |
-| P | Active Power (units: kW, MW) |
 | P | [Pressure](https://en.wikipedia.org/wiki/Pressure) |
+| P | Active Power (units: kW, MW) |
 | P2P | Purchase to Pay |
 | PA | Preliminary Acceptance |
 | PA | Product Assurance |
@@ -1704,8 +1706,8 @@ var array = `
 | SCO | [Santiago Central Office](https://goo.gl/maps/m57DYnmtjc7ymUNB9).<br/>The office in Santiago de Chile (Vitacura) where some of the chilean ALMA staff is working. |
 | SCSI | Small Computer Serial Interface |
 | SCUBA | Sub millimetre Common-user Bolometre Array |
-| SD | Single Dish |
 | SD | [Secure Digital](https://en.wikipedia.org/wiki/SD_card). Non-volatile memory card format |
+| SD | Single Dish |
 | SDAF | Software Development Approval From |
 | SDG | Software Development Group, responsible for a Subsystem |
 | SDL | Simple Direct-Media Layer |
@@ -1719,8 +1721,8 @@ var array = `
 | SE&I | System Engineering and Integration |
 | SEC | Superintendencia de Electricidad y Comubstibles (Chile) |
 | SED | Spectral Energy Distribution |
-| SEE | Simple ECMAScript Engine |
 | SEE | [Streaming SIMD Extensions](https://en.m.wikipedia.org/wiki/Streaming_SIMD_Extensions).<br/>A single instruction, multiple data (SIMD) instruction set extension to the x86 architecture, designed by Intel and introduced in 1999.<br/>SSE contains 70 new instructions, most of which work on single precision floating-point data.<br/>SSE floating-point instructions operate on a new independent register set, the XMM registers, and adds a few integer instructions that work on MMX registers |
+| SEE | Simple ECMAScript Engine |
 | SEF | Site Erection Facility |
 | SEFD | Source Equivalent Flux Density |
 | SEG | Solar Ephemeris Generator |
@@ -1739,9 +1741,9 @@ var array = `
 | SGI | Software Generated Interrupts |
 | SHE | Safety, Health, and Environment |
 | SHI | Sumitomo Heavy Industries, Ltd. |
+| SI | [System of units, International](International_System_of_Units). the modern form of the metric unit system and the world's most widely used system of measurement |
 | SI | Station Interface |
 | SI | Systems Integration |
-| SI | [System of units, International](International_System_of_Units). the modern form of the metric unit system and the world's most widely used system of measurement |
 | SICL | Shipment Inspection and Checking List |
 | SIEM | Security Information Management System |
 | SIL | System Integration Lead |
@@ -1800,9 +1802,9 @@ var array = `
 | SRR | Science Requirements Review |
 | SRR | System Requirements Review |
 | SRSS | Square Root of the Sum of Squares |
-| SS | Sampling System |
 | SS | [Slave Select](https://en.wikipedia.org/wiki/Chip_select) (or Chip Select).<br/>The name of a control line in digital electronics used to select one (or a set) of integrated circuits (commonly called "chips") out of several connected to the same computer bus |
 | SS | [Stack Segment](https://en.m.wikipedia.org/wiki/Stack_register).<br/>Register usually used to store information about the memory segment that stores the call stack of currently executed program.<br/>See [memory segmentation](https://en.m.wikipedia.org/wiki/Memory_segmentation) |
+| SS | Sampling System |
 | SSB | Single Side Band |
 | SSE | Streaming SIMD Extensions |
 | SSG | Sampling System GUI |
@@ -1817,8 +1819,8 @@ var array = `
 | SSR | Science Software Requirements |
 | SSR | Super Sample Rate |
 | SSS | Sub System Scientist |
-| ST | Software Team |
 | ST | [String Terminator](https://invisible-island.net/xterm/ctlseqs/ctlseqs.html#h2-C1-_8-Bit_-Control-Characters).<br/>A control character (ANSI escape code) to terminate string arugments<br/>\\e\\ = 0x1b + 0x5C = ESC + BS 97 bits or 0x9C (8bits) |
+| ST | Software Team |
 | STA | Short-Term Accumulator |
 | STC | Scientific Technical Committee |
 | STE | Standard Test Environment |
@@ -1907,9 +1909,9 @@ var array = `
 | TOC | Table Of Contents |
 | TODO | Technical Order Distribution Office |
 | ToO | Target of Opportunity |
+| TOR | [The Onion Router](https://en.wikipedia.org/wiki/Tor_%28network%29). Software enabling anonymous communication |
 | ToR | Terms of References |
 | TOR | Top Of Rack |
-| TOR | [The Onion Router](https://en.wikipedia.org/wiki/Tor_%28network%29). Software enabling anonymous communication |
 | TP | Total Power |
 | TP-Array | 12m antennas of the ACA |
 | TPD | Terminal Power Detection and Digitizing |
@@ -1964,15 +1966,15 @@ var array = `
 | URN | Uniform Resource Name |
 | URR | Upgrade Readiness Review |
 | USAS | USA Standard |
-| USB | Upper Side Band |
 | USB | [Universal Serial Bus](https://en.wikipedia.org/wiki/USB) |
+| USB | Upper Side Band |
 | UT | Universal Time |
 | UTC | Universal Time Coordinated |
 | UTC-PD | Unit traveling Carrier Photo Diode |
 | UTM | Universal Transverse Mercator |
 | UV | Ultraviolet |
-| V | Vacation (in case of leave report) |
 | V | [Volt](https://en.wikipedia.org/wiki/Volt). The derived unit for electric potential.<br/>One volt is defined as the electric potential between two points of a conducting wire when an electric current of one ampere dissipates one watt of power between those points |
+| V | Vacation (in case of leave report) |
 | VA | Vertex Antenna |
 | VA | Volt-Ampere |
 | VAC | Volt Alternating Current |
@@ -2018,8 +2020,8 @@ var array = `
 | VS | Versus |
 | VSWR | Voltage Standing Wave Ratio |
 | VT | Voting Time (in case of leave report) |
-| VTP | VLAN Trunking Protocol |
 | VTP | Verification Test Plan |
+| VTP | VLAN Trunking Protocol |
 | VTR | Verification Test Report |
 | VVMO | Consorcio Vial y Vives Mena y Ovalle Limitada |
 | W3C | World Wide Web Consortium |
@@ -2074,8 +2076,6 @@ var array = `
 | YIG | Yttrium-Iron Garnet Oscillator |
 | YTO | YIG Tuned Oscillator |
 | YUM | [Yellowdog Updater, Modified](https://en.wikipedia.org/wiki/Yum_%40software%41).<br>An interactive, RPM based, package manager |
-| __pa | [Physical Adress](https://elixir.bootlin.com/linux/latest/C/ident/__pa).<br/>Macro in the Linux kernel to convert a linear adress to a physical |
-| __va | [Virtual Adress](https://elixir.bootlin.com/linux/latest/C/ident/__va).<br/>Macro in the Linux kernel to convert physical adress to a virtual one adding it the PAGE_OFFSET the kernel has been compiled with. See __pa for the opposite operation. |
 `
 </script>
 <style>
