@@ -1,7 +1,3 @@
-
-
-
-
 | G | Giclas, a catalog of nearby [stars](https://en.wikipedia.org/wiki/Star) (*catalog*)
 | [GAIA](https://en.wikipedia.org/wiki/Gaia_probe) | Global Astrometric Interferometer for Astrophysics, a space telescope that is used to make high-precision measurements of stars (*telescope*)
 | [GALEX](https://en.wikipedia.org/wiki/Galaxy_Evolution_Explorer) | Galaxy Evolution Explorer, an [ultraviolet](https://en.wikipedia.org/wiki/Ultraviolet) space telescope (*telescope*)
