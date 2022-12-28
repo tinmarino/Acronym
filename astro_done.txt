@@ -1,4 +1,187 @@
 
+| BAAS | [Bulletin of the American Astronomical Society (*publication*)](https://en.wikipedia.org/wiki/Bulletin_of_the_American_Astronomical_Society) |
+| BAO | [baryon acoustic oscillations (*astrophysics terminology*)](https://en.wikipedia.org/wiki/Baryon_acoustic_oscillations) |
+| BAO | [Beijing Astronomical Observatory (*organization*)](https://en.wikipedia.org/wiki/Beijing_Astronomical_Observatory) |
+| BAT | Burst Alert Telescope, an instrument on [SWIFT](https://en.wikipedia.org/wiki/Swift_Gamma-Ray_Burst_Mission) (*instrumentation*) |
+| BATSE | Burst and Transient Source Experiment, an instrument on the [Compton Gamma-Ray Observatory](https://en.wikipedia.org/wiki/Compton_Gamma-Ray_Observatory) (*instrument*) |
+| BATTeRS | [Bisei Asteroid Tracking Telescope for Rapid Survey (*telescope*)](https://en.wikipedia.org/wiki/Bisei_Asteroid_Tracking_Telescope_for_Rapid_Survey) |
+| BB | [Black body (*astrophysics terminology*)](https://en.wikipedia.org/wiki/Black_Body) |
+| BBXRT | [Broad Band X-Ray Telescope (*telescope*)](https://en.wikipedia.org/wiki/Bro/ad_Band_X-ray_Telescope) |
+| BCD | [Blue Compact Dwarf (*celestial object*)](https://en.wikipedia.org/wiki/Blue_compact_dwarf) |
+| BCEP | [Beta CEPhei](https://en.wikipedia.org/wiki/Beta_Cephei_variable).<br/>A class of pulsating [variable stars](https://en.wikipedia.org/wiki/Variable_star) for which [Beta Cephei](https://en.wikipedia.org/wiki/Beta_Cephei) is the archetypal object also BCE (*celestial object*) |
+| BCG | [Blue Compact Galaxy](https://en.wikipedia.org/wiki/Blue_compact_dwarf).<br/>Another name for a [blue compact dwarf](https://en.wikipedia.org/wiki/Blue_compact_dwarf), also bright central galaxy (*celestial object*) |
+| BCG | [Brightest Cluster Galaxy](https://en.wikipedia.org/wiki/Brightest_Cluster_Galaxy).<br/>The brightest galaxy in a cluster of galaxies (*celestial object*) |
+| BD | [Bonner Durchmusterung (*catalog*)](https://en.wikipedia.org/wiki/Bonner_Durchmusterung) |
+| BD | [Brown dwarf (*celestial object*)](https://en.wikipedia.org/wiki/Brown_Dwarf) |
+| BEL | Broad Emission Line clouds in [Active galactic nucleus](https://en.wikipedia.org/wiki/Active_galactic_nucleus)^[\[1\]](#cite_note-1)^ (*celestial object*) |
+| BH | [Black hole (*celestial object*)](https://en.wikipedia.org/wiki/Black_Hole) |
+| BHC | [Black hole candidate (*celestial object*)](https://en.wikipedia.org/wiki/Black_Hole) |
+| BICEP2 | [Background Imaging of Cosmic Extragalactic Polarization 2 (*telescope*)](https://en.wikipedia.org/wiki/BICEP2) |
+| BIMA | [Berkeley-Illinois-Maryland Association](https://en.wikipedia.org/wiki/Berkeley-Illinois-Maryland_Association).<br/>And also B-M-I Array, [microwave](https://en.wikipedia.org/wiki/Microwave) telescope it operated (*organization & telescope*) |
+| BIS | [British Interplanetary Society (*organization*)](https://en.wikipedia.org/wiki/British_Interplanetary_Society) |
+| BLAGN | Broad-Line [AGN](https://en.wikipedia.org/wiki/Active_galactic_nucleus), based on classification of spectral line widths (*celestial object*) |
+| BLLAC | [BL LACertae](https://en.wikipedia.org/wiki/BL_Lac_object).<br/>A class of [active galaxies](https://en.wikipedia.org/wiki/Active_galaxies) for which [BL Lacertae](https://en.wikipedia.org/wiki/BL_Lacertae) is the archetypal object also BLL (*celestial object*) |
+| BLAST | [Balloon-borne Large Aperture Submillimeter Telescope (*telescope*)](https://en.wikipedia.org/wiki/BLAST_(telescope) |
+| BLR | the broad line region of the [AGN](https://en.wikipedia.org/wiki/Active_galactic_nucleus) (*astrophysics term*) |
+| BNSC | [British National Space Centre](https://en.wikipedia.org/wiki/British_National_Space_Centre).<br/>The older name for [UKSA](https://en.wikipedia.org/wiki/UK_Space_Agency) (*organization*) |
+| BOAO | [Bohyunsan Optical Astronomy Observatory](https://en.wikipedia.org/wiki/Bohyunsan_Optical_Astronomy_Observatory).<br/>In Korea (*observatory*) |
+| BOOMERanG | [Balloon Observations of Millimetric Extragalactic Radiation and Geophysics (*telescope*)](https://en.wikipedia.org/wiki/BOOMERanG_experiment) |
+| BSG | [Blue super giant (*celestial object*)](https://en.wikipedia.org/wiki/Blue_supergiant) |
+| BSS | [Blue straggler star -   also BS (*celestial object*)](https://en.wikipedia.org/wiki/Blue_straggler) |
+| BSS | [Bigelow Sky Survey (*observing program*)](https://en.wikipedia.org/wiki/Bigelow_Sky_Survey) |
+| BY | [BY Draconis](https://en.wikipedia.org/wiki/BY_Draconis_variable).<br/>A class of rotating [variable stars](https://en.wikipedia.org/wiki/Variable_star) for which [BY Draconis](https://en.wikipedia.org/wiki/BY_Draconis) is the archetypal object (*celestial object*) |
+| CADC | [Canadian Astronomy Data Centre (*organization*)](https://en.wikipedia.org/wiki/Canadian_Astronomy_Data_Centre) |
+| CAHA | [Centro Astronómico Hispano Alemán, a German-Spanish Astronomical Centre (*organization*)](https://en.wikipedia.org/wiki/Calar_Alto_Observatory) |
+| CANDELS | [Cosmic Assembly Near-Infrared Deep Extragalactic Legacy Survey or Cosmic Assembly and Dark Energy Legacy Survey (*survey*)](https://en.wikipedia.org/wiki/Cosmic_Assembly_Near-infrared_Deep_Extragalactic_Legacy_Survey) |
+| CAPS | [Cassini Plasma Spectrometer](https://en.wikipedia.org/wiki/Cassini_Plasma_Spectrometer).<br/>An instrument on the [Cassini](https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens) spacecraft (*instrumentation*) |
+| CASCA | [Canadian Astronomical Society](https://en.wikipedia.org/wiki/Canadian_Astronomical_Society).<br/>société canadienne d'astronomie (the name is officially bilingual) (*organization*) |
+| CARMA | [Combined Array for Research in Millimeter-wave Astronomy](https://en.wikipedia.org/wiki/Combined_Array_for_Research_in_Millimeter-wave_Astronomy) |
+| CASS | Center for Astrophysics and Space Sciences, an interdisciplinary research unit at [UC San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego) (*organization*) |
+| CBAT | [Central Bureau for Astronomical Telegrams (*organization*)](https://en.wikipedia.org/wiki/Central_Bureau_for_Astronomical_Telegrams) |
+| CBR | [cosmic background radiation (*celestial object*)](https://en.wikipedia.org/wiki/Cosmic_Background_Radiation) |
+| CCD | [Charge-coupled device (*instrumentation*)](https://en.wikipedia.org/wiki/Charge-coupled_device) |
+| CCD | [Color / Color Diagram](https://en.wikipedia.org/wiki/Color%E2%80%93color_diagram).<br/>A plot that compares the differences between magnitudes in different wave bands (*astrophysics terminology*) |
+| CCO | Central Compact Object, a [compact star](https://en.wikipedia.org/wiki/Compact_star) in the center of a [planetary nebula](https://en.wikipedia.org/wiki/Planetary_nebula) (*celestial object*) |
+| CCS | [cool carbon star (*celestial object*)](https://en.wikipedia.org/wiki/Carbon_star) |
+| CCSFS | [Cape Canaveral Space Force Station](https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Force_Station).<br/>A United States Space Force launch base |
+| CD | [Cordoba Durchmusterung (*catalog*)](https://en.wikipedia.org/wiki/Cordoba_Durchmusterung) |
+| [CDFS | [Chandra Deep Field South](https://en.wikipedia.org/wiki/Chandra_Deep_Field_South) |
+| CDM | [Cold Dark Matter](https://en.wikipedia.org/wiki/Cold_dark_matter).<br/>Any model for structure formation in the universe that characterize \"cold\" particles such as [WIMPs](https://en.wikipedia.org/wiki/Weakly_Interacting_Massive_Particle) as [dark matter](https://en.wikipedia.org/wiki/Dark_matter) (*astrophysics terminology*) |
+| CDS | [Centre de Données astronomiques de Strasbourg (*organization*)](https://en.wikipedia.org/wiki/Centre_de_Donn%C3%A9es_astronomiques_de_Strasbourg) |
+| CELT | [California Extremely Large Telescope](https://en.wikipedia.org/wiki/Thirty_Meter_Telescope).<br/>An older name for the Thirty Meter Telescope (*telescope*) |
+| CEMP | [Carbon-Enhanced Metal-Poor](https://en.wikipedia.org/wiki/CEMP_star).<br/>A type of [carbon star](https://en.wikipedia.org/wiki/Carbon_star) (*celestial object*) |
+| CEMP-no | Carbon-enhanced metal-poor star with no enhancement of elements produced by the [r-process](https://en.wikipedia.org/wiki/R-process) or [s-process](https://en.wikipedia.org/wiki/S-process) [nucleosynthesis](https://en.wikipedia.org/wiki/Nucleosynthesis) (*celestial object*) |
+| CEMP-r | Carbon-enhanced metal-poor star with an enhancement of elements produced by [r-process](https://en.wikipedia.org/wiki/R-process) [nucleosynthesis](https://en.wikipedia.org/wiki/Nucleosynthesis) (*celestial object*) |
+| CEMP-s | Carbon-enhanced metal-poor star with an enhancement of elements produced by [s-process](https://en.wikipedia.org/wiki/S-process) [nucleosynthesis](https://en.wikipedia.org/wiki/Nucleosynthesis) (*celestial object*) |
+| CEMP-r/s | Carbon-enhanced metal-poor star with an enhancement of elements produced by both [r-process](https://en.wikipedia.org/wiki/R-process) and [s-process](https://en.wikipedia.org/wiki/S-process) [nucleosynthesis](https://en.wikipedia.org/wiki/Nucleosynthesis) (*celestial object*) |
+| CEP | [CEPheid](https://en.wikipedia.org/wiki/Cepheid).<br/>A type of pulsating [variable star](https://en.wikipedia.org/wiki/Variable_star) (*celestial object*) |
+| CEPS | [Center for Earth and Planetary Studies (*organization*)](https://en.wikipedia.org/wiki/Center_For_Earth_and_Planetary_Studies) |
+| CfA | [Center for Astrophysics (*organization*)](https://en.wikipedia.org/wiki/Center_for_Astrophysics) |
+| CFHT | [Canada-France-Hawaii Telescope (*telescope*)](https://en.wikipedia.org/wiki/Canada-France-Hawaii_Telescope) |
+| CG | Cometary Globule, a [Bok globule](https://en.wikipedia.org/wiki/Bok_globule) that show signs of a tail-like extension (*celestial object*) |
+| CGCS | [Cool galactic carbon star (*celestial object*)](https://en.wikipedia.org/wiki/Carbon_star) |
+| CGRO | [Compton Gamma Ray Observatory (*telescope*)](https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory) |
+| CHeB | Core Helium Burning (*celestial object*) |
+| CHIPSat | [Cosmic Hot Interstellar Plasma Spectrometer satellite](https://en.wikipedia.org/wiki/Cosmic_Hot_Interstellar_Plasma_Spectrometer_satellite) |
+| CIAO | Chandra Interactive Analysis of Observations, software for processing [Chandra X-ray Observatory](https://en.wikipedia.org/wiki/Chandra_X-ray_Observatory) data (*software*) |
+| CIAO | Coronagraphic Imager with Adaptive Optics, an instrument for the [Subaru Telescope](https://en.wikipedia.org/wiki/Subaru_Telescope) (*instrumentation*) |
+| CIBR | [Cosmic infrared background radiation also CIB (*celestial object*)](https://en.wikipedia.org/wiki/Cosmic_infrared_background_radiation) |
+| CIDA | Cometary Interplanetary Dust Analyzer, an instrument on the [Stardust](https://en.wikipedia.org/wiki/Stardust_(spacecraft)) spacecraft (*instrumentation*) |
+| CINDI | [Coupled Ion-Neutral Dynamics Investigation](https://en.wikipedia.org/wiki/CINDI) |
+| CINEOS | [Campo Imperatore Near-Earth Object Survey](https://en.wikipedia.org/wiki/Campo_Imperatore_Near-Earth_Object_Survey) (*observing program*) |
+| CISCO | Cooled Infrared Spectrograph and Camera for OHS, an instrument for the [Subaru Telescope](https://en.wikipedia.org/wiki/Subaru_Telescope) (*instrumentation*) |
+| CMB | [Cosmic Microwave Background radiation ](https://en.wikipedia.org/wiki/Cosmic_Microwave_Background).<br/>Also CMBR, CBR, MBR (*celestial object*) |
+| CMD | [Color-Magnitude Diagram](https://en.wikipedia.org/wiki/Color%E2%80%93magnitude_diagram).<br/>The Hertzsprung-Russell diagram or similar diagrams also CM (*astrophysics terminology*) |
+| CME | [Coronal Mass Ejection](https://en.wikipedia.org/wiki/Coronal_mass_ejection) |
+| CNB | [Cosmic Neutrino Background (*celestial object*)](https://en.wikipedia.org/wiki/Cosmic_neutrino_background) |
+| CNES | [Centre Nationale d'Etudes Spatiales](https://en.wikipedia.org/wiki/CNES).<br/>The French Space Agency (*organization*) |
+| CNO | [Carbon-Nitrogen-Oxygen](https://en.wikipedia.org/wiki/CNO_cycle).<br/>A sequence of nuclear fusion processes (*astrophysics terminology*) |
+| CNR | [Consiglio Nazionale delle Ricerche (*organization*)](https://en.wikipedia.org/wiki/Consiglio_Nazionale_delle_Ricerche) |
+| COBE | [Cosmic Background Explorer](https://en.wikipedia.org/wiki/Cosmic_Background_Explorer).<br/>A space telescope used to study the [cosmic microwave background radiation](https://en.wikipedia.org/wiki/Cosmic_microwave_background_radiation) (*telescope*) |
+| Col | [Collinder catalog (*catalog*)](https://en.wikipedia.org/wiki/Collinder_catalog) |
+| COMICS | COoled Mid-Infrared Camera and Spectrometer, an instrument for the [Subaru Telescope](https://en.wikipedia.org/wiki/Subaru_Telescope) (*instrumentation*) |
+| CGRO | [COMPton TELescope](https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory).<br/>Another name for the [Compton Gamma Ray Observatory](https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory) (*telescope*) |
+| COROT) | [COnvection ROtation and planetary Transits](https://en.wikipedia.org/wiki/Corot_(space_mission).<br/>A space telescope for detecting [extrasolar planets](https://en.wikipedia.org/wiki/Extrasolar_planet) (*telescope*) |
+| COSMOS | [Cosmic Evolution Survey (*observing program*)](https://en.wikipedia.org/wiki/Cosmic_Evolution_Survey) |
+| COSPAR | [COmmittee on SPAce Research (*organization*)](https://en.wikipedia.org/wiki/Committee_on_Space_Research) |
+| COSTAR | [Corrective Optics Space Telescope Axial Replacement](https://en.wikipedia.org/wiki/COSTAR).<br/>Corrective optics for the [Hubble Space Telescope](https://en.wikipedia.org/wiki/Hubble_Space_Telescope) (*instrumentation*) |
+| CP | Chemically Peculiar, stars with [peculiar](https://en.wikipedia.org/wiki/Peculiar_star) chemical compositions (*astrophysics terminology*) |
+| CPD | [Cape Photographic Durchmusterung (*catalog*)](https://en.wikipedia.org/wiki/Cape_Photographic_Durchmusterung) |
+| CRAF | [Comet Rendezvous Asteroid Flyby (*spacecraft*)](https://en.wikipedia.org/wiki/Comet_Rendezvous_Asteroid_Flyby) |
+| CRRES | [Combined Release and Radiation Effects Satellite](https://en.wikipedia.org/wiki/CRRES) |
+| CSA | [Canadian Space Agency (*organization*)](https://en.wikipedia.org/wiki/Canadian_Space_Agency) |
+| CSBN | [Committee for Small-Body Nomenclature (*organization*)](https://en.wikipedia.org/wiki/Committee_for_Small-Body_Nomenclature) |
+| CSE | [circumstellar envelope](https://en.wikipedia.org/wiki/Circumstellar_envelope).<br/>A roughly spherical [planetary nebula](https://en.wikipedia.org/wiki/Planetary_nebula) formed from dense stellar wind if not present before the formation of a star. (*celestial object*) |
+| CSI | [Catalog of Stellar Identification](https://en.wikipedia.org/wiki/Catalog_of_Stellar_Identification).<br/>A compilation of the catalogs, [BD](https://en.wikipedia.org/wiki/Bonner_Durchmusterung), [CD](https://en.wikipedia.org/wiki/Cordoba_Durchmusterung), and [CPD](https://en.wikipedia.org/wiki/Cape_Photographic_Durchmusterung) (*catalog*) |
+| CSO | [Caltech Submillimeter Observatory (*telescope*)](https://en.wikipedia.org/wiki/Caltech_Submillimeter_Observatory) |
+| SPN | central star of [planetary nebula](https://en.wikipedia.org/wiki/Planetary_nebula) also CSPNe (*plural form of CSPN) (*celestial object*) |
+| CSS | [Catalina Sky Survey (*observing program*)](https://en.wikipedia.org/wiki/Catalina_Sky_Survey) |
+| CTIO | [Cerro Tololo Interamerican Observatory (*telescope/organization*)](https://en.wikipedia.org/wiki/Cerro_Tololo_Interamerican_Observatory) |
+| CTTS | [Classical](https://en.wikipedia.org/wiki/Classical_T_Tauri_Star) [T-Tauri](https://en.wikipedia.org/wiki/T_Tauri) Star (*celestial object*) |
+| CV | [Cataclysmic Variable](https://en.wikipedia.org/wiki/Cataclysmic_variable).<br/>A type of [variable](https://en.wikipedia.org/wiki/Variable_star) [binary](https://en.wikipedia.org/wiki/Binary_star) [star system](https://en.wikipedia.org/wiki/Star) that contains a [white dwarf](https://en.wikipedia.org/wiki/White_dwarf) and a companion star that changes (*celestial object*) |
+| CW | [Cepheid W Virginis](https://en.wikipedia.org/wiki/W_Virginis_variable).<br/>A class of [Cepheids](https://en.wikipedia.org/wiki/Cepheid) named after [W Virginis](https://en.wikipedia.org/wiki/W_Virginis), the archetype for the class (*celestial object*) |
+| XO | Chandra X-ray Observation, a catalog based from the [Chandra](https://en.wikipedia.org/wiki/Chandra_X-Ray_Observatory) space telescope (*catalog*) |
+| DAO | [Dominion Astrophysical Observatory (*organization*)](https://en.wikipedia.org/wiki/Dominion_Astrophysical_Observatory) |
+| DCEP | [Delta CEPhei](https://en.wikipedia.org/wiki/Cepheid).<br/>A class of [Cepheids](https://en.wikipedia.org/wiki/Cepheid) named after [Delta Cephei](https://en.wikipedia.org/wiki/Delta_Cephei), the archetype for the class (*celestial object*) |
+| DDEB | double-lined [eclipsing binary](https://en.wikipedia.org/wiki/Eclipsing_binary#Eclipsing_binaries) (*celestial object*) |
+| DENIS | [DEep Near Infrared Survey (*observing program/catalog*)](https://en.wikipedia.org/wiki/Deep_Near_Infrared_Survey) |
+| DENIS-P | DEep Near Infrared Survey, Provisory designation or also known as DNS. (*catalog*) |
+| DES | [Dark Energy Survey (*observing program*)](https://en.wikipedia.org/wiki/Dark_Energy_Survey) |
+| DESI | [Dark Energy Spectroscopic Instrument (*observing program*)](https://en.wikipedia.org/wiki/Dark_Energy_Spectroscopic_Instrument) |
+| DEC | [Declination](https://en.wikipedia.org/wiki/Declination) |
+| DES | [Deep Ecliptic Survey (*observing program*)](https://en.wikipedia.org/wiki/Deep_Ecliptic_Survey) |
+| DIB | [Diffuse Interstellar Band](https://en.wikipedia.org/wiki/Diffuse_interstellar_band).<br/>An absorption feature in [stellar spectra](https://en.wikipedia.org/wiki/Stellar_spectrum) with an interstellar origin (*celestial object*) |
+| DIRBE | [Diffuse InfraRed Background Experiment](https://en.wikipedia.org/wiki/Diffuse_InfraRed_Background_Experiment).<br/>A multiwavelength infrared detector used to map dust emission (*instrumentation*) |
+| DISR | Descent Imager/Spectral Radiometer, an instrument on the [Huygens probe](https://en.wikipedia.org/wiki/Huygens_probe) (*instrumentation*) |
+| DMR | [Differential Microwave Radiometer](https://en.wikipedia.org/wiki/Differential_Microwave_Radiometer).<br/>A microwave instrument that would map variations (or anisotropies) in the CMB (*instrumentation*) |
+| DM | [Dark Matter](https://en.wikipedia.org/wiki/Dark_matter).<br/>The unidentified non-[baryonic](https://en.wikipedia.org/wiki/Baryon) matter |
+| DN | [Dwarf Nova (*celestial object*) |
+| DNS | Double [Neutron Star](https://en.wikipedia.org/wiki/Neutron_star), another name for a binary neutron star system. \[Caution: Do not confuse with DNS relating to DENIS - Deep Near Infrared Survey\]. (*celestial object*) |
+| DOG | [Dust](https://en.wikipedia.org/wiki/Cosmic_dust)-Obscured [Galaxy](https://en.wikipedia.org/wiki/Galaxy), a galaxy with an unusually high ratio of infrared-to-optical emission, implying strong dust absorption and re-emission. (*celestial object*) |
+| DRAGN | [Double Radio Source Associated with a Galactic Nucleus (*celestial object*)](https://en.wikipedia.org/wiki/DRAGN) |
+| DS | [Dwarf Star (*celestial object*)](https://en.wikipedia.org/wiki/Dwarf_star) |
+| DSCT | [Delta SCuTi](https://en.wikipedia.org/wiki/Delta_Scuti_variable).<br/>A class of pulsating [variable stars](https://en.wikipedia.org/wiki/Variable_star) named after [Delta Scuti](https://en.wikipedia.org/wiki/Delta_Scuti), the archetype for the class |
+| DSN | [Deep Space Network](https://en.wikipedia.org/wiki/Deep_Space_Network).<br/>A network of radio antennas used for communicating to [spacecraft](https://en.wikipedia.org/wiki/Spacecraft) (*communications network*) |
+| DSS | [Digitized Sky Survey (*data*)](https://en.wikipedia.org/wiki/Digitized_Sky_Survey) |
+| WE | Doppler Wind Experiment, an instrument on the [Huygens probe](https://en.wikipedia.org/wiki/Huygens_probe) (*instrumentation*) |
+| E | [Eclipsing](https://en.wikipedia.org/wiki/Binary_star).<br/>A [binary star system](https://en.wikipedia.org/wiki/Binary_star) with [variable](https://en.wikipedia.org/wiki/Variable_star) brightness in which the stars eclipse each other (*celestial object*) |
+| EA | Eclipsing Algol, a class of eclipsing [binary stars](https://en.wikipedia.org/wiki/Binary_star) named after [Algol](https://en.wikipedia.org/wiki/Algol), the archetype for the class (*celestial object*) |
+| EB | Eclipsing Beta Lyrae, a class of eclipsing [binary stars](https://en.wikipedia.org/wiki/Binary_star) named after [Beta Lyrae](https://en.wikipedia.org/wiki/Beta_Lyrae), the archetype for the class (*celestial object*) |
+| EW | Eclipsing W Ursa Majoris, a class of eclipsing [binary stars](https://en.wikipedia.org/wiki/Binary_star) named after W Ursa Majoris, the archetype for the class (*celestial object*) |
+| EAAE | [European Association for Astronomy Education (*organization*)](https://en.wikipedia.org/wiki/EAAE_%E2%80%93_European_Association_for_Astronomy_Education) |
+| EAO | East Asian Observatory, operates the [JCMT](https://en.wikipedia.org/wiki/JCMT) (*organization*) |
+| E-ELT | [European Extremely Large Telescope (*telescope*)](https://en.wikipedia.org/wiki/European_Extremely_Large_Telescope) |
+| EAPSNET | [East-Asian Planet Search Network (*organization*)](https://en.wikipedia.org/wiki/East-Asian_Planet_Search_Network) |
+| EC | Embedded Cluster, a star cluster that is partially or fully embedded in [interstellar gas or dust](https://en.wikipedia.org/wiki/Cosmic_dust) (*celestial object*) |
+| ECA | [Earth-crossing asteroid (*celestial object*)](https://en.wikipedia.org/wiki/Earth-crossing_asteroid) |
+| GGR | Eggen & Greenstein, a catalog of mostly [white dwarfs](https://en.wikipedia.org/wiki/White_dwarf) (*catalog*) |
+| EGP | [Extrasolar Giant Planet (*celestial object*)](https://en.wikipedia.org/wiki/Extrasolar_Planet) |
+| EGRET | [Energetic Gamma Ray Experiment Telescope](https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory).<br/>Another name for the [Compton Gamma Ray Observatory](https://en.wikipedia.org/wiki/Compton_Gamma_Ray_Observatory) (*telescope*) |
+| EGS | [Extended Groth Strip](https://en.wikipedia.org/wiki/Extended_Groth_Strip).<br/>A [deep field](https://en.wikipedia.org/wiki/List_of_Deep_Fields) |
+| EHB | Extreme Horizontal Branch, a type of hot, evolved [star](https://en.wikipedia.org/wiki/Star) (*celestial object*) |
+| EKBO | [Edgeworth-Kuiper Belt Object](https://en.wikipedia.org/wiki/Kuiper_belt_object).<br/>An alternative name for [Kuiper belt objects](https://en.wikipedia.org/wiki/Kuiper_belt_object) (*celestial object*) |
+| ELAIS | [ESO](https://en.wikipedia.org/wiki/ESO) Large-Area Infrared Survey |
+| ELAIS | European Large Area ISO Survey, a survey of [high redshift](https://en.wikipedia.org/wiki/Redshift) galaxies performed with the [Infrared Space Observatory (ISO)](https://en.wikipedia.org/wiki/Infrared_Space_Observatory) (*observing program*) |
+| ELF | extremely luminous far-infrared galaxy, a synonym for [Ultra-Luminous infrared galaxy](https://en.wikipedia.org/wiki/Luminous_infrared_galaxy) |
+| ELT | [Extremely Large Telescope (*telescope*)](https://en.wikipedia.org/wiki/Extremely_large_telescope) |
+| MP | extremely metal-poor,| TEST | test | a star with few elements other than [hydrogen](https://en.wikipedia.org/wiki/Hydrogen) and [helium](https://en.wikipedia.org/wiki/Helium) (*celestial object*) |
+| EMU | [Evolutionary Map of the Universe](http://www.atnf.csiro.au/people/rnorris/emu/) |
+| ENACS | ESO Nearby Abell Cluster Survey, a survey of [galaxy clusters](https://en.wikipedia.org/wiki/Galaxy_cluster) (*observing program*) |
+| EMACS | [Editor MACroS](https://en.wikipedia.org/wiki/Emacs).<br/>A family of text editors that are characterized by their extensibility | |
+| EPIC | [Ecliptic Plane Input Catalog](https://en.wikipedia.org/wiki/Ecliptic_Plane_Input_Catalog).<br/>Stars and exoplanets, associated with the [K2 \"Second Light\" plan](https://en.wikipedia.org/wiki/Kepler_space_telescope#Second_Light_(K2)) of the [Kepler space telescope](https://en.wikipedia.org/wiki/Kepler_space_telescope) (*celestial object*) |
+| ERO | extremely red object, a name applied to [galaxies](https://en.wikipedia.org/wiki/Galaxies) with red [spectra](https://en.wikipedia.org/wiki/Spectrum) (*celestial object*) |
+| ESA | [European Space Agency (*organization*)](https://en.wikipedia.org/wiki/European_Space_Agency) |
+|mage/           Test002.psf ESO | [European Southern Observatory (*organization*)](https://en.wikipedia.org/wiki/European_Southern_Observatory) |
+| ESTEC | [European Space research and TEchnology Centre (*organization*)](https://en.wikipedia.org/wiki/European_Space_Research_and_Technology_Centre) |
+| ESTRACK | [European Space TRACKing](https://en.wikipedia.org/wiki/ESTRACK).<br/>A network of radio antennas used for communicating to [spacecraft](https://en.wikipedia.org/wiki/Spacecraft) (*communications network*) |
+| EUV | [Extreme ultraviolet (*astrophysics terminology*)](https://en.wikipedia.org/wiki/Ultraviolet) |
+| EUVE | [Extreme UltraViolet Explorer](https://en.wikipedia.org/wiki/Extreme_Ultraviolet_Explorer).<br/>An [ultraviolet](https://en.wikipedia.org/wiki/Ultraviolet) space telescope (*telescope*) |
+| EVN | [European VLBI Network (*organization*)](https://en.wikipedia.org/wiki/European_VLBI_Network) |
+| FAME | [Full-sky Astrometric Mapping Explorer (*telescope*)](https://en.wikipedia.org/wiki/Full-sky_Astrometric_Mapping_Explorer) |
+| FCC | Fornax Cluster Catalog, a catalog of [galaxies](https://en.wikipedia.org/wiki/Galaxies) in the [Fornax Cluster](https://en.wikipedia.org/wiki/Fornax_Cluster) (*catalog*) |
+| FGS | fine guidance sensors, an instrument on the [Hubble Space Telescope](https://en.wikipedia.org/wiki/Hubble_Space_Telescope) (*instrumentation*) |
+| FHST | [Fixed Head Star Trackers](https://en.wikipedia.org/wiki/Fixed_Head_Star_Tracker).<br/>An instrument on the [Hubble Space Telescope](https://en.wikipedia.org/wiki/Hubble_Space_Telescope) (*instrumentation*) |
+| FIR | [far infrared (*astrophysics terminology*)](https://en.wikipedia.org/wiki/Infrared) |
+| FIRST | [Faint Images of the Radio Sky at Twenty-Centimeters](https://en.wikipedia.org/wiki/Faint_Images_of_the_Radio_Sky_at_Twenty-Centimeters).<br/>A radio survey of the sky with the [Very Large Array](https://en.wikipedia.org/wiki/Very_Large_Array) (*observing program*) |
+| FIRST | [Far InfraRed and Submillimeter Space Telescope](https://en.wikipedia.org/wiki/Herschel_Space_Observatory).<br/>An older name for the [Herschel Space Observatory](https://en.wikipedia.org/wiki/Herschel_Space_Observatory) (*telescope*) |
+| FIRE | Feedback in Realistic Environments, a project to [simulate](https://en.wikipedia.org/wiki/Simulation) [galaxy formation](https://en.wikipedia.org/wiki/Galaxy_formation_and_evolution) with detailed feedback processes included (*simulation project*) |
+| FITS | [Flexible Image Transport System](https://en.wikipedia.org/wiki/Flexible_Image_Transport_System).<br/>The format commonly used for scientific astronomy images (*software*) |
+| FLAMES | Fibre Large Array Multi Element Spectrograph, instrument on the [VLT](https://en.wikipedia.org/wiki/Very_Large_Telescope) (*instrumentation*) |
+| FLWO | [Fred L. Whipple Observatory (*telescope*)](https://en.wikipedia.org/wiki/Whipple_Observatory) |
+| FMO | fast moving object, an [asteroid](https://en.wikipedia.org/wiki/Asteroid) so close to the Earth that it appears to be moving very fast (*celestial object*) |
+| FOC | [Faint Object Camera](https://en.wikipedia.org/wiki/Faint_Object_Camera).<br/>A camera formerly on the [Hubble Space Telescope](https://en.wikipedia.org/wiki/Hubble_Space_Telescope) (*instrumentation*) |
+| FOCAS | Faint Object Camera And Spectrograph, an instrument for the [Subaru Telescope](https://en.wikipedia.org/wiki/Subaru_Telescope) (*instrumentation*) |
+| FoM | [Figure of Merit](https://en.wikipedia.org/wiki/Figure_of_merit).<br/>used to indicate the performance of a method or device. (*terminology*) |
+| FORTE | [Fast On-orbit Rapid Recording of Transient Events](https://en.wikipedia.org/wiki/FORTE) |
+| FOS | [Faint Object Spectrograph](https://en.wikipedia.org/wiki/Faint_Object_Spectrograph).<br/>A [spectrometer](https://en.wikipedia.org/wiki/Spectrometer) formerly on the [Hubble Space Telescope](https://en.wikipedia.org/wiki/Hubble_Space_Telescope) (*instrumentation*) |
+| FRB | [fast radio burst (*celestial object*)](https://en.wikipedia.org/wiki/Fast_radio_burst) |
+| FRED | fast rise exponential decay, the variations in the luminosity of [gamma ray bursts](https://en.wikipedia.org/wiki/Gamma_ray_bursts) over time (*astrophysics terminology*) |
+| FSC | Faint Source Catalogue, one of the catalogs produced using [Infrared Astronomical Satellite](https://en.wikipedia.org/wiki/Infrared_Astronomical_Satellite) data (*catalog*) |
+| FUOR | [FU Orionis objects](https://en.wikipedia.org/wiki/FU_Orionis_variable).<br/>A class of [variable](https://en.wikipedia.org/wiki/Variable_star) [pre-main sequence stars](https://en.wikipedia.org/wiki/Pre%E2%80%93main_sequence_star) named after [FU Orionis](https://en.wikipedia.org/wiki/FU_Orionis), the archetype for the class also FU (*celestial object*) |
+| FUSE | [Far Ultraviolet Spectroscopic Explorer](https://en.wikipedia.org/wiki/Far_Ultraviolet_Spectroscopic_Explorer).<br/>An [ultraviolet](https://en.wikipedia.org/wiki/Ultraviolet) space telescope (*telescope*) |
+| FUVITA | Far UltraViolet Imaging Telescope Array, an [ultraviolet](https://en.wikipedia.org/wiki/Ultraviolet) imager for the [Spectrum-Roentgen-Gamma](https://en.wikipedia.org/wiki/Spectrum-Roentgen-Gamma) mission (*instrumentation*) |
+
+
 | Z-FOURGE | The FourStar Galaxy Evolution Survey (*survey*) |
 | WNL | late-type nitrogen-rich Wolf-Rayet, a WN star with hydrogen spectral line emission (*celestial object*) |
 | WISARD | Web Interface for Searching Archival Research Data (*software*) |
