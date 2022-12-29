@@ -3013,7 +3013,6 @@ var array = `
 
 
 
-
 <style>
 body {
   background: #fafafa;
@@ -3316,9 +3315,12 @@ function addAcronym(){
   let i_new = 0
   while (
       i_new < a_lines.length
-      && a_lines[i_new]
       && a_lines[i_new].toUpperCase() < s_new_line.toUpperCase()
       ){
+    // Handle empty line
+    if (!a_lines[i_new]){
+     i_new++; continue;      
+    }
     i_new++;
   }
   a_lines.splice(i_new, 0, s_new_line);
@@ -3424,7 +3426,7 @@ window.onload = createTable;
 
 <div id="idDead" style="width:100%">
 
-<div id=idRow1 style="width:100%;">
+<div id=idRow1 style="width:100%; margin-top:-15px; margin-bottom:10px;">
 <input onkeyup="filterAcronym()" tabindex="1" style="display:inline-block" type="text" id="idFilter"  placeholder="Search for acronyms (ignorecase)" title="Type in part of an acronym">
 <div style="display: inline-block">Results: <span id="idNumber"></span></div>
 <input onclick="toogleAdd()" style="display: inline-block" type="button" id="idNew" value="➕" title="Add a new acronym to the dataset">
