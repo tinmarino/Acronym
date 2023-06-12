@@ -3253,9 +3253,17 @@ function createTable(){
 
 function getUrl(){
   // Helper: Returns current page url for with Confluence API
-  const site = 'https://confluence.alma.cl';
-  const pageid = AJS.params.pageId;  // '72169314';
-  return site + "/rest/api/content/" + pageid;
+  const localUrl = window.location.href;
+  var res = ""
+  if (localUrl.includes("confluence")) {
+    res += 'https://confluence.alma.cl';
+    const pageid = AJS.params.pageId;  // '72169314';
+    res += "/rest/api/content/" + pageid;
+  }
+  else if (localUrl.includes("github")) {
+    res = localUrl;
+  }
+  return res;
 }
 
 function getPage(){
