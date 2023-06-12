@@ -3293,7 +3293,7 @@ function setPage(s_content, s_message, o_page){
   else if (urlBase.includes("github")) {
     const putUrl = "https://api.github.com/repos/tinmarino/Acronym/contents/acronym.html";
 
-    const message = {
+    const o_message = {
       message: s_message,
       branch: "gh",
       owner: "tinmarino",
@@ -3309,7 +3309,8 @@ function setPage(s_content, s_message, o_page){
     req.open("PUT", putUrl, false);  // false -> synchronous
     req.setRequestHeader("Content-Type", "application/json; charset=utf-8");
     req.setRequestHeader("Accept", "application/vnd.github+json");
-    req.setRequestHeader("X-GitHub-Api-Version", "X-GitHub-Api-Version: 2022-11-28");
+    req.setRequestHeader("X-GitHub-Api-Version", "2022-11-28");
+    req.setRequestHeader("Authorization", "Bearer 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");
 
     req.send(JSON.stringify(o_message));
   }
