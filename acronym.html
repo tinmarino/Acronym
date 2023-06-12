@@ -3271,7 +3271,6 @@ function getPage(){
   const req = new XMLHttpRequest();
   req.open("GET", getUrl() + '?expand=body.storage,version', false);  // false -> synchronous
   req.send();
-  return JSON.parse(
   return req.responseText
 }
 
