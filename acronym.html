@@ -3271,15 +3271,17 @@ function getPage(){
   const req = new XMLHttpRequest();
   req.open("GET", getUrl() + '?expand=body.storage,version', false);  // false -> synchronous
   req.send();
-  return JSON.parse(req.responseText);
+  return JSON.parse(
+  return req.responseText
 }
 
-function setPage(o_page){
+function setPage(s_content, s_message, o_page){
   // Helper: set Confluence page content from string
   const urlBase = getUrl();
   const req = new XMLHttpRequest();
 
   // Confluence (ALMA)
+  // TODO broken
   if (urlBase.includes("confluence")) {
     req.open("PUT", getUrl(), false);  // false -> synchronous
     req.setRequestHeader("Content-Type", "application/json; charset=utf-8");
@@ -3292,7 +3294,7 @@ function setPage(o_page){
     const putUrl = "https://api.github.com/repos/tinmarino/Acronym/contents/acronym.html";
 
     const message = {
-      message: o_page.version.message,
+      message: s_message,
       branch: "gh",
       owner: "tinmarino",
       repo: "Acronym",
@@ -3301,7 +3303,7 @@ function setPage(o_page){
         name: "tinmarino",
         email: "tinmarino@gmail.com",
       },
-      content: o_page.body.storage.value,
+      content: s_content,
     }
 
     req.open("PUT", putUrl, false);  // false -> synchronous
@@ -3318,7 +3320,6 @@ function addAcronym(){
   // Callback: at press "Fire"
   console.log('Button clicked')
   const r_array=/(var array = `)([^`]*)/;
-  const b_is_in_confluence = (typeof AJS != 'undefined')
 
   // Get user entry
   var acronym = document.getElementById('idNewAcronym').value.trim();
@@ -3345,10 +3346,13 @@ function addAcronym(){
   console.log('Adding acronym:' + acronym + ',' + description);
 
   // Pull current page
-  let o_page = getPage()
+  let s_content = getPage()
+
+  // TODO if confluence
+  // o_page =  JSON.parse(s_content)
+  // const s_content = o_page.body.storage.value;
 
   // Get array of lines <- Json
-  const s_content = o_page.body.storage.value;
   let s_lines = s_content.match(r_array)[2];
   let a_lines = s_lines.split('\n');
 
@@ -3368,12 +3372,13 @@ function addAcronym(){
 
   // Restore Json
   s_lines = a_lines.join('\n');
-  o_page.body.storage.value = s_content.replace(r_array, '\$1' + s_lines);
-  o_page.version.number++;
-  o_page.version.message = "Add: " + s_new_line;
+  // TODO if confluence
+  //o_page.body.storage.value = s_content.replace(r_array, '\$1' + s_lines);
+  //o_page.version.number++;
+  //o_page.version.message = "Add: " + s_new_line;
 
   // Push
-  setPage(o_page);
+  setPage(s_content, s_message, null);
 
   console.log('Reloading');
   window.location.reload(true);
