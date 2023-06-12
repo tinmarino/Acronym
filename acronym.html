@@ -3303,14 +3303,14 @@ function setPage(s_content, s_message, o_page){
         name: "tinmarino",
         email: "tinmarino@gmail.com",
       },
-      content: s_content,
+      content: btoa(s_content),
     }
 
     req.open("PUT", putUrl, false);  // false -> synchronous
     req.setRequestHeader("Content-Type", "application/json; charset=utf-8");
     req.setRequestHeader("Accept", "application/vnd.github+json");
     req.setRequestHeader("X-GitHub-Api-Version", "2022-11-28");
-    req.setRequestHeader("Authorization", "Bearer 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");
+    req.setRequestHeader("Authorization", "Bearer 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");
 
     req.send(JSON.stringify(o_message));
   }
