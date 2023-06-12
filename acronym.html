@@ -3383,8 +3383,10 @@ function addAcronym(){
 
   const s_message = "Add: " + s_new_line;
 
-  // Restore Json
+  // Add line in content
   s_lines = a_lines.join('\n');
+  s_content = s_content.replace(r_array, '\$1' + s_lines);
+
   // TODO if confluence
   //o_page.body.storage.value = s_content.replace(r_array, '\$1' + s_lines);
   //o_page.version.number++;
