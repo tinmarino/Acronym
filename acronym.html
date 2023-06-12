@@ -1,4 +1,7 @@
+<!DOCTYPE html>
+
 <head>
+  <title>Acronym</title>
   <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
   <meta content="utf-8" http-equiv="encoding">
 </head>
@@ -3426,19 +3429,19 @@ window.onload = createTable;
 
 <div id="idDead" style="width:100%">
 
-<div id=idRow1 style="width:100%; margin-top:-15px; margin-bottom:10px;">
+<div id="idRow1" style="width:100%; margin-top:-15px; margin-bottom:10px;">
 <input onkeyup="filterAcronym()" tabindex="1" style="display:inline-block" type="text" id="idFilter"  placeholder="Search for acronyms (ignorecase)" title="Type in part of an acronym">
 <div style="display: inline-block">Results: <span id="idNumber"></span></div>
 <input onclick="toogleAdd()" style="display: inline-block" type="button" id="idNew" value="➕" title="Add a new acronym to the dataset">
 </div>
 
-<div id=idRow2 style="display:none; width:100%; vertical-align:top;">
+<div id="idRow2" style="display:none; width:100%; vertical-align:top;">
 <input onkeyup="" style="display:inline-block; width:15%" type="text" id="idNewAcronym" placeholder="ALMA" title="Type acronym initials">
 <textarea style="display:inline-block; width:60%;" rows="1" oninput="auto_height(this)" type="text" id="idNewDescription" placeholder="Atacama Large Milimeter Array" title="Type acronym description"></textarea>
 <input onclick="addAcronym()" style="display:inline-block; width:15%;" type="button" id="idNewAdd" value="Add now" title="Add a new acronym to the dataset">
 <input onclick="toogleHelp()" style="display: inline-block" type="button" id="idToogleHelp" value="❓" title="Help">
 
-<div id=idRow3 style="display:none; width:100%; color:#888;">
+<div id="idRow3" style="display:none; width:100%; color:#888;">
 <b>Add an acronym!</b><br/>
 <b>1/ Acronym</b>: will be converted to uppercase<br>
 <b>2/ Description</b>: support some markdown plus any html syntax
@@ -3446,7 +3449,8 @@ window.onload = createTable;
   <li><b>Newline</b>: press enter, don't be shy, newlines will be converted to &lt;br&sol;&gt;</li>
   <li><b>Link</b>: [link](http://example.com)</li>
   <li><b>Typeface</b>: **bold**, *italic*, ***both***, ~~strikethrough~~, `monospace`, --subscript--, and ^^superscript^^</li>
-  <li><b>Html</b>: beware badly formed html that can break the page (ex: unclosed tag)
+  <li><b>Html</b>: beware badly formed html that can break the page (ex: unclosed tag)</li>
+</ul>
 </div>
 
 </div>
