@@ -3279,6 +3279,11 @@ function httpGet(url){
   return req.responseText
 }
 
+function utf8_to_b64( str ) {
+  // From https://stackoverflow.com/a/9786592/2544873
+  return window.btoa(unescape(encodeURIComponent( str )));
+}
+
 function setPage(s_content, s_message, o_page){
   // Helper: set Confluence page content from string
   const urlBase = getUrl();
@@ -3312,7 +3317,7 @@ function setPage(s_content, s_message, o_page){
         name: "tinmarino",
         email: "tinmarino@gmail.com",
       },
-      content: btoa(s_content),
+      content: utf8_to_b64(s_content),
       sha: preJson.sha,
     }
 
