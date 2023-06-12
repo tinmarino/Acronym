@@ -3259,6 +3259,7 @@ function getUrl(){
     res += 'https://confluence.alma.cl';
     const pageid = AJS.params.pageId;  // '72169314';
     res += "/rest/api/content/" + pageid;
+    res += '?expand=body.storage,version';
   }
   else if (localUrl.includes("github")) {
     res = localUrl;
@@ -3267,9 +3268,9 @@ function getUrl(){
 }
 
 function getPage(){
-  // Helper: Get Confluence page content as string
+  // Helper: Get this page content as string: i.e this file
   const req = new XMLHttpRequest();
-  req.open("GET", getUrl() + '?expand=body.storage,version', false);  // false -> synchronous
+  req.open("GET", getUrl(), false);  // false -> synchronous
   req.send();
   return req.responseText
 }
@@ -3369,12 +3370,14 @@ function addAcronym(){
   }
   a_lines.splice(i_new, 0, s_new_line);
 
+  const s_message = "Add: " + s_new_line;
+
   // Restore Json
   s_lines = a_lines.join('\n');
   // TODO if confluence
   //o_page.body.storage.value = s_content.replace(r_array, '\$1' + s_lines);
   //o_page.version.number++;
-  //o_page.version.message = "Add: " + s_new_line;
+  //o_page.version.message = s_message;
 
   // Push
   setPage(s_content, s_message, null);
