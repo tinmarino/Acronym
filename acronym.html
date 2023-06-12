@@ -3269,8 +3269,12 @@ function getUrl(){
 
 function getPage(){
   // Helper: Get this page content as string: i.e this file
+  return httpGet(getUrl());
+}
+
+function httpGet(url){
   const req = new XMLHttpRequest();
-  req.open("GET", getUrl(), false);  // false -> synchronous
+  req.open("GET", url, false);  // false -> synchronous
   req.send();
   return req.responseText
 }
@@ -3293,6 +3297,10 @@ function setPage(s_content, s_message, o_page){
   else if (urlBase.includes("github")) {
     const putUrl = "https://api.github.com/repos/tinmarino/Acronym/contents/acronym.html";
 
+    var preContent = httpGet("https://api.github.com/repos/tinmarino/Acronym/contents/acronym.html");
+    var preJson = JSON.parse(preContent)
+    
+
     const o_message = {
       message: s_message,
       branch: "gh",
@@ -3304,6 +3312,7 @@ function setPage(s_content, s_message, o_page){
         email: "tinmarino@gmail.com",
       },
       content: btoa(s_content),
+      sha: preJson.sha,
     }
 
     req.open("PUT", putUrl, false);  // false -> synchronous
